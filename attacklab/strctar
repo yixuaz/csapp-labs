@@ -1,0 +1,253 @@
+/lib64/ld-linux-x86-64.so.2
+__gmon_start__
+libc.so.6
+socket
+strcpy
+__printf_chk
+exit
+fopen
+strncmp
+__isoc99_sscanf
+connect
+signal
+puts
+time
+__stack_chk_fail
+stdin
+strtol
+mmap
+memset
+__errno_location
+read
+getopt
+__fprintf_chk
+memcpy
+__memmove_chk
+strtoul
+strcasecmp
+optarg
+stderr
+alarm
+munmap
+gethostbyname
+gethostname
+srandom
+close
+__sprintf_chk
+_IO_getc
+__libc_start_main
+write
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.3.4
+GLIBC_2.4
+GLIBC_2.2.5
+%z3 
+%r3 
+%j3 
+%b3 
+%Z3 
+%R3 
+%J3 
+%B3 
+%:3 
+%23 
+%*3 
+%"3 
+=a5 
+=:5 
+AVAUATUSA
+=L2 
+='2 
+t*D;5
+[]A\A]A^
+ATUSH
+D$x1
+t$xdH34%(
+[]A\
+ATUSI
+=b* 
+[]A\
+=4* 
+=3) 
+L$ H
+=Q( 
+tk9==( 
+=f' 
+=|& 
+=_% 
+`XUt7
+=d$ 
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+ATUSH
+dH34%(
+[]A\
+AWAVAUATUSH
+Error: CH
+lient unH
+able to H
+create sH
+C ockef
+Error: DH
+NS is unH
+able to H
+resolve H
+server aH
+C(ddref
+C,ss
+Error: UH
+nable toH
+ connectH
+ to the H
+C servf
+C$er
+Error: RH
+esult stH
+ring tooH
+ large. H
+IncreaseH
+ SUBMITRH
+_MAXBUF
+Error: RH
+esult stH
+ring conH
+tains anH
+ illegalH
+ or unprH
+intable H
+characteH
+C@r.
+Error: CH
+lient unH
+able to H
+write toH
+ the resH
+ult servH
+C0er
+t$@H
+Error: CH
+lient unH
+able to H
+read firH
+st headeH
+r from rH
+esult seH
+C8rver
+L$,H
+t$@H
+Error: CH
+lient unH
+able to H
+read heaH
+ders froH
+m the reH
+sult serH
+C8ver
+t$@H
+Error: CH
+lient unH
+able to H
+read staH
+tus messH
+age fromH
+ result H
+C8servf
+C<er
+D$,A
+t$@H
+[]A\A]A^A_
+Error: CH
+lient unH
+able to H
+create sH
+E ockef
+Error: DH
+NS is unH
+able to H
+resolve H
+server aH
+E(ddref
+E,ss
+Error: UH
+nable toH
+ connectH
+ to servH
+E er
+l$ L
+t$(L
+|$0H
+Usage: [-h] %s -i <infile> -a <authkey> -l <level>
+  -h           Print help information
+  -a <authkey> Authentication key
+  -h          Print help information
+  -q          Don't submit result to server
+FAILED: Initialization error: Running on unknown host
+FAILED: Initialization error: Running on an illegal host [%s]
+FAILED: Initialization error:
+Supplied authentication key 0x%x != target key
+  -i <infile>  Input file
+  -l <level>   Attack level
+Usage: [-hq] %s -i <infile> 
+  -i <infile> Input file
+hqi:
+hi:a:l:
+Cannot open input file '%s'
+Unknown flag '%c'
+Cookie: 0x%x
+bovik
+attacklab
+15213-f15
+makoshark.ics.cs.cmu.edu
+whaleshark.ics.cs.cmu.edu
+Touch1!: You called touch1()
+%.8x
+Touch2!: You called touch2(0x%.8x)
+Misfire: You called touch2(0x%.8x)
+Touch3!: You called touch3("%s")
+Misfire: You called touch3("%s")
+No exploit.  Getbuf returned 0x%x
+FAIL	%ctarget	%d	%s
+PASS
+FAIL
+%d:%s:0x%.8x:%ctarget:%d:%s
+FAILED: %s
+NICE JOB!
+FAILED
+	user id	%s
+	course	%s
+	lab	%s
+	result	%s
+Mismatched validation levels
+PASS	%ctarget	%d	%s
+Bus error
+Better luck next time
+Segmentation Fault
+Illegal instruction
+Timeout
+Type string:
+No exploit
+Normal return
+Internal Error: Input string is too large.
+PASS: Sent exploit string to server to be validated.
+%s: Would have posted the following:
+Check level %d != attack level %d
+Valid solution for level %d with target %ctarget
+Crash!: You caused a bus error!
+Ouch!: You caused a segmentation fault!
+Oops!: You executed an illegal instruction
+Timeout!: Your attack takes more than %d seconds
+Couldn't map stack to segment at 0x%lx
+0123456789ABCDEFProgram timed out after %d seconds
+GET /submit?user=%s&course=%s&result=%s HTTP/1.0
+Host: %s
+Error: HTTP request failed with error %d: %s
+%%%02X
+%s %d %[a-zA-z ]
+changeme.yourschool.edu
+AUTORESULT_STRING=%s
+;*3$"

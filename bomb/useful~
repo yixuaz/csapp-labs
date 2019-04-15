@@ -1,0 +1,12 @@
+break explode_bomb
+break phase_3
+run
+break phase_5
+break *0x4010b8
+break *0x401082
+
+break explode_bomb
+break *0x4011e7
+run
+
+

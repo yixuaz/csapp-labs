@@ -1,0 +1,10246 @@
+S 6832ec,1 miss 
+L 683300,8 miss 
+L 6832e4,4 hit 
+L 6832e0,4 hit 
+L 6032e0,4 miss eviction 
+L 6032e4,4 hit 
+L 6032e8,4 hit 
+L 6032ec,4 hit 
+L 6032f0,4 hit 
+L 6032f4,4 hit 
+L 6032f8,4 hit 
+L 6032fc,4 hit 
+S 6432e0,4 miss eviction 
+S 6433e0,4 miss 
+S 6434e0,4 miss 
+S 6435e0,4 miss 
+S 6432f0,4 hit 
+S 6433f0,4 hit 
+S 6434f0,4 hit 
+S 6435f0,4 hit 
+L 6033e0,4 miss eviction 
+L 6033e4,4 hit 
+L 6033e8,4 hit 
+L 6033ec,4 hit 
+L 6033f0,4 hit 
+L 6033f4,4 hit 
+L 6033f8,4 hit 
+L 6033fc,4 hit 
+S 6432e4,4 hit 
+S 6433e4,4 miss eviction 
+S 6434e4,4 hit 
+S 6435e4,4 hit 
+S 6432f4,4 hit 
+S 6433f4,4 hit 
+S 6434f4,4 hit 
+S 6435f4,4 hit 
+L 6034e0,4 miss eviction 
+L 6034e4,4 hit 
+L 6034e8,4 hit 
+L 6034ec,4 hit 
+L 6034f0,4 hit 
+L 6034f4,4 hit 
+L 6034f8,4 hit 
+L 6034fc,4 hit 
+S 6432e8,4 hit 
+S 6433e8,4 hit 
+S 6434e8,4 miss eviction 
+S 6435e8,4 hit 
+S 6432f8,4 hit 
+S 6433f8,4 hit 
+S 6434f8,4 hit 
+S 6435f8,4 hit 
+L 6035e0,4 miss eviction 
+L 6035e4,4 hit 
+L 6035e8,4 hit 
+L 6035ec,4 hit 
+L 6035f0,4 hit 
+L 6035f4,4 hit 
+L 6035f8,4 hit 
+L 6035fc,4 hit 
+S 6432ec,4 hit 
+S 6433ec,4 hit 
+S 6434ec,4 hit 
+S 6435ec,4 miss eviction 
+S 6432fc,4 hit 
+S 6433fc,4 hit 
+S 6434fc,4 hit 
+S 6435fc,4 hit 
+L 6036e0,4 miss eviction 
+L 6037e0,4 miss eviction 
+L 6038e0,4 miss eviction 
+L 6039e0,4 miss eviction 
+L 6432f0,4 miss eviction 
+L 6432f4,4 hit 
+L 6432f8,4 hit 
+L 6432fc,4 hit 
+S 6432f0,4 hit 
+S 6432f4,4 hit 
+S 6432f8,4 hit 
+S 6432fc,4 hit 
+S 6436e0,4 miss eviction 
+S 6436e4,4 hit 
+S 6436e8,4 hit 
+S 6436ec,4 hit 
+L 6036f0,4 miss eviction 
+S 6436f0,4 miss eviction 
+L 6037f0,4 hit 
+S 6436f4,4 hit 
+L 6038f0,4 hit 
+S 6436f8,4 hit 
+L 6039f0,4 hit 
+S 6436fc,4 hit 
+L 6036e4,4 miss eviction 
+L 6037e4,4 hit 
+L 6038e4,4 hit 
+L 6039e4,4 hit 
+L 6433f0,4 miss eviction 
+L 6433f4,4 hit 
+L 6433f8,4 hit 
+L 6433fc,4 hit 
+S 6433f0,4 hit 
+S 6433f4,4 hit 
+S 6433f8,4 hit 
+S 6433fc,4 hit 
+S 6437e0,4 miss eviction 
+S 6437e4,4 hit 
+S 6437e8,4 hit 
+S 6437ec,4 hit 
+L 6036f4,4 hit 
+S 6437f0,4 hit 
+L 6037f4,4 miss eviction 
+S 6437f4,4 miss eviction 
+L 6038f4,4 hit 
+S 6437f8,4 hit 
+L 6039f4,4 hit 
+S 6437fc,4 hit 
+L 6036e8,4 hit 
+L 6037e8,4 miss eviction 
+L 6038e8,4 hit 
+L 6039e8,4 hit 
+L 6434f0,4 miss eviction 
+L 6434f4,4 hit 
+L 6434f8,4 hit 
+L 6434fc,4 hit 
+S 6434f0,4 hit 
+S 6434f4,4 hit 
+S 6434f8,4 hit 
+S 6434fc,4 hit 
+S 6438e0,4 miss eviction 
+S 6438e4,4 hit 
+S 6438e8,4 hit 
+S 6438ec,4 hit 
+L 6036f8,4 hit 
+S 6438f0,4 hit 
+L 6037f8,4 hit 
+S 6438f4,4 hit 
+L 6038f8,4 miss eviction 
+S 6438f8,4 miss eviction 
+L 6039f8,4 hit 
+S 6438fc,4 hit 
+L 6036ec,4 hit 
+L 6037ec,4 hit 
+L 6038ec,4 miss eviction 
+L 6039ec,4 hit 
+L 6435f0,4 miss eviction 
+L 6435f4,4 hit 
+L 6435f8,4 hit 
+L 6435fc,4 hit 
+S 6435f0,4 hit 
+S 6435f4,4 hit 
+S 6435f8,4 hit 
+S 6435fc,4 hit 
+S 6439e0,4 miss eviction 
+S 6439e4,4 hit 
+S 6439e8,4 hit 
+S 6439ec,4 hit 
+L 6036fc,4 hit 
+S 6439f0,4 hit 
+L 6037fc,4 hit 
+S 6439f4,4 hit 
+L 6038fc,4 hit 
+S 6439f8,4 hit 
+L 6039fc,4 miss eviction 
+S 6439fc,4 miss eviction 
+L 603300,4 miss eviction 
+L 603304,4 hit 
+L 603308,4 hit 
+L 60330c,4 hit 
+L 603310,4 hit 
+L 603314,4 hit 
+L 603318,4 hit 
+L 60331c,4 hit 
+S 643ae0,4 miss eviction 
+S 643be0,4 miss eviction 
+S 643ce0,4 miss eviction 
+S 643de0,4 miss eviction 
+S 643af0,4 hit 
+S 643bf0,4 hit 
+S 643cf0,4 hit 
+S 643df0,4 hit 
+L 603400,4 miss 
+L 603404,4 hit 
+L 603408,4 hit 
+L 60340c,4 hit 
+L 603410,4 hit 
+L 603414,4 hit 
+L 603418,4 hit 
+L 60341c,4 hit 
+S 643ae4,4 hit 
+S 643be4,4 hit 
+S 643ce4,4 hit 
+S 643de4,4 hit 
+S 643af4,4 hit 
+S 643bf4,4 hit 
+S 643cf4,4 hit 
+S 643df4,4 hit 
+L 603500,4 miss 
+L 603504,4 hit 
+L 603508,4 hit 
+L 60350c,4 hit 
+L 603510,4 hit 
+L 603514,4 hit 
+L 603518,4 hit 
+L 60351c,4 hit 
+S 643ae8,4 hit 
+S 643be8,4 hit 
+S 643ce8,4 hit 
+S 643de8,4 hit 
+S 643af8,4 hit 
+S 643bf8,4 hit 
+S 643cf8,4 hit 
+S 643df8,4 hit 
+L 603600,4 miss 
+L 603604,4 hit 
+L 603608,4 hit 
+L 60360c,4 hit 
+L 603610,4 hit 
+L 603614,4 hit 
+L 603618,4 hit 
+L 60361c,4 hit 
+S 643aec,4 hit 
+S 643bec,4 hit 
+S 643cec,4 hit 
+S 643dec,4 hit 
+S 643afc,4 hit 
+S 643bfc,4 hit 
+S 643cfc,4 hit 
+S 643dfc,4 hit 
+L 603700,4 miss eviction 
+L 603800,4 miss eviction 
+L 603900,4 miss eviction 
+L 603a00,4 miss eviction 
+L 643af0,4 hit 
+L 643af4,4 hit 
+L 643af8,4 hit 
+L 643afc,4 hit 
+S 643af0,4 hit 
+S 643af4,4 hit 
+S 643af8,4 hit 
+S 643afc,4 hit 
+S 643ee0,4 miss eviction 
+S 643ee4,4 hit 
+S 643ee8,4 hit 
+S 643eec,4 hit 
+L 603710,4 hit 
+S 643ef0,4 hit 
+L 603810,4 hit 
+S 643ef4,4 hit 
+L 603910,4 hit 
+S 643ef8,4 hit 
+L 603a10,4 hit 
+S 643efc,4 hit 
+L 603704,4 hit 
+L 603804,4 hit 
+L 603904,4 hit 
+L 603a04,4 hit 
+L 643bf0,4 hit 
+L 643bf4,4 hit 
+L 643bf8,4 hit 
+L 643bfc,4 hit 
+S 643bf0,4 hit 
+S 643bf4,4 hit 
+S 643bf8,4 hit 
+S 643bfc,4 hit 
+S 643fe0,4 miss eviction 
+S 643fe4,4 hit 
+S 643fe8,4 hit 
+S 643fec,4 hit 
+L 603714,4 hit 
+S 643ff0,4 hit 
+L 603814,4 hit 
+S 643ff4,4 hit 
+L 603914,4 hit 
+S 643ff8,4 hit 
+L 603a14,4 hit 
+S 643ffc,4 hit 
+L 603708,4 hit 
+L 603808,4 hit 
+L 603908,4 hit 
+L 603a08,4 hit 
+L 643cf0,4 hit 
+L 643cf4,4 hit 
+L 643cf8,4 hit 
+L 643cfc,4 hit 
+S 643cf0,4 hit 
+S 643cf4,4 hit 
+S 643cf8,4 hit 
+S 643cfc,4 hit 
+S 6440e0,4 miss eviction 
+S 6440e4,4 hit 
+S 6440e8,4 hit 
+S 6440ec,4 hit 
+L 603718,4 hit 
+S 6440f0,4 hit 
+L 603818,4 hit 
+S 6440f4,4 hit 
+L 603918,4 hit 
+S 6440f8,4 hit 
+L 603a18,4 hit 
+S 6440fc,4 hit 
+L 60370c,4 hit 
+L 60380c,4 hit 
+L 60390c,4 hit 
+L 603a0c,4 hit 
+L 643df0,4 hit 
+L 643df4,4 hit 
+L 643df8,4 hit 
+L 643dfc,4 hit 
+S 643df0,4 hit 
+S 643df4,4 hit 
+S 643df8,4 hit 
+S 643dfc,4 hit 
+S 6441e0,4 miss eviction 
+S 6441e4,4 hit 
+S 6441e8,4 hit 
+S 6441ec,4 hit 
+L 60371c,4 hit 
+S 6441f0,4 hit 
+L 60381c,4 hit 
+S 6441f4,4 hit 
+L 60391c,4 hit 
+S 6441f8,4 hit 
+L 603a1c,4 hit 
+S 6441fc,4 hit 
+L 603320,4 miss 
+L 603324,4 hit 
+L 603328,4 hit 
+L 60332c,4 hit 
+L 603330,4 hit 
+L 603334,4 hit 
+L 603338,4 hit 
+L 60333c,4 hit 
+S 6442e0,4 miss eviction 
+S 6443e0,4 miss eviction 
+S 6444e0,4 miss eviction 
+S 6445e0,4 miss eviction 
+S 6442f0,4 hit 
+S 6443f0,4 hit 
+S 6444f0,4 hit 
+S 6445f0,4 hit 
+L 603420,4 miss 
+L 603424,4 hit 
+L 603428,4 hit 
+L 60342c,4 hit 
+L 603430,4 hit 
+L 603434,4 hit 
+L 603438,4 hit 
+L 60343c,4 hit 
+S 6442e4,4 hit 
+S 6443e4,4 hit 
+S 6444e4,4 hit 
+S 6445e4,4 hit 
+S 6442f4,4 hit 
+S 6443f4,4 hit 
+S 6444f4,4 hit 
+S 6445f4,4 hit 
+L 603520,4 miss 
+L 603524,4 hit 
+L 603528,4 hit 
+L 60352c,4 hit 
+L 603530,4 hit 
+L 603534,4 hit 
+L 603538,4 hit 
+L 60353c,4 hit 
+S 6442e8,4 hit 
+S 6443e8,4 hit 
+S 6444e8,4 hit 
+S 6445e8,4 hit 
+S 6442f8,4 hit 
+S 6443f8,4 hit 
+S 6444f8,4 hit 
+S 6445f8,4 hit 
+L 603620,4 miss 
+L 603624,4 hit 
+L 603628,4 hit 
+L 60362c,4 hit 
+L 603630,4 hit 
+L 603634,4 hit 
+L 603638,4 hit 
+L 60363c,4 hit 
+S 6442ec,4 hit 
+S 6443ec,4 hit 
+S 6444ec,4 hit 
+S 6445ec,4 hit 
+S 6442fc,4 hit 
+S 6443fc,4 hit 
+S 6444fc,4 hit 
+S 6445fc,4 hit 
+L 603720,4 miss eviction 
+L 603820,4 miss eviction 
+L 603920,4 miss eviction 
+L 603a20,4 miss eviction 
+L 6442f0,4 hit 
+L 6442f4,4 hit 
+L 6442f8,4 hit 
+L 6442fc,4 hit 
+S 6442f0,4 hit 
+S 6442f4,4 hit 
+S 6442f8,4 hit 
+S 6442fc,4 hit 
+S 6446e0,4 miss eviction 
+S 6446e4,4 hit 
+S 6446e8,4 hit 
+S 6446ec,4 hit 
+L 603730,4 hit 
+S 6446f0,4 hit 
+L 603830,4 hit 
+S 6446f4,4 hit 
+L 603930,4 hit 
+S 6446f8,4 hit 
+L 603a30,4 hit 
+S 6446fc,4 hit 
+L 603724,4 hit 
+L 603824,4 hit 
+L 603924,4 hit 
+L 603a24,4 hit 
+L 6443f0,4 hit 
+L 6443f4,4 hit 
+L 6443f8,4 hit 
+L 6443fc,4 hit 
+S 6443f0,4 hit 
+S 6443f4,4 hit 
+S 6443f8,4 hit 
+S 6443fc,4 hit 
+S 6447e0,4 miss eviction 
+S 6447e4,4 hit 
+S 6447e8,4 hit 
+S 6447ec,4 hit 
+L 603734,4 hit 
+S 6447f0,4 hit 
+L 603834,4 hit 
+S 6447f4,4 hit 
+L 603934,4 hit 
+S 6447f8,4 hit 
+L 603a34,4 hit 
+S 6447fc,4 hit 
+L 603728,4 hit 
+L 603828,4 hit 
+L 603928,4 hit 
+L 603a28,4 hit 
+L 6444f0,4 hit 
+L 6444f4,4 hit 
+L 6444f8,4 hit 
+L 6444fc,4 hit 
+S 6444f0,4 hit 
+S 6444f4,4 hit 
+S 6444f8,4 hit 
+S 6444fc,4 hit 
+S 6448e0,4 miss eviction 
+S 6448e4,4 hit 
+S 6448e8,4 hit 
+S 6448ec,4 hit 
+L 603738,4 hit 
+S 6448f0,4 hit 
+L 603838,4 hit 
+S 6448f4,4 hit 
+L 603938,4 hit 
+S 6448f8,4 hit 
+L 603a38,4 hit 
+S 6448fc,4 hit 
+L 60372c,4 hit 
+L 60382c,4 hit 
+L 60392c,4 hit 
+L 603a2c,4 hit 
+L 6445f0,4 hit 
+L 6445f4,4 hit 
+L 6445f8,4 hit 
+L 6445fc,4 hit 
+S 6445f0,4 hit 
+S 6445f4,4 hit 
+S 6445f8,4 hit 
+S 6445fc,4 hit 
+S 6449e0,4 miss eviction 
+S 6449e4,4 hit 
+S 6449e8,4 hit 
+S 6449ec,4 hit 
+L 60373c,4 hit 
+S 6449f0,4 hit 
+L 60383c,4 hit 
+S 6449f4,4 hit 
+L 60393c,4 hit 
+S 6449f8,4 hit 
+L 603a3c,4 hit 
+S 6449fc,4 hit 
+L 603340,4 miss 
+L 603344,4 hit 
+L 603348,4 hit 
+L 60334c,4 hit 
+L 603350,4 hit 
+L 603354,4 hit 
+L 603358,4 hit 
+L 60335c,4 hit 
+S 644ae0,4 miss eviction 
+S 644be0,4 miss eviction 
+S 644ce0,4 miss eviction 
+S 644de0,4 miss eviction 
+S 644af0,4 hit 
+S 644bf0,4 hit 
+S 644cf0,4 hit 
+S 644df0,4 hit 
+L 603440,4 miss 
+L 603444,4 hit 
+L 603448,4 hit 
+L 60344c,4 hit 
+L 603450,4 hit 
+L 603454,4 hit 
+L 603458,4 hit 
+L 60345c,4 hit 
+S 644ae4,4 hit 
+S 644be4,4 hit 
+S 644ce4,4 hit 
+S 644de4,4 hit 
+S 644af4,4 hit 
+S 644bf4,4 hit 
+S 644cf4,4 hit 
+S 644df4,4 hit 
+L 603540,4 miss 
+L 603544,4 hit 
+L 603548,4 hit 
+L 60354c,4 hit 
+L 603550,4 hit 
+L 603554,4 hit 
+L 603558,4 hit 
+L 60355c,4 hit 
+S 644ae8,4 hit 
+S 644be8,4 hit 
+S 644ce8,4 hit 
+S 644de8,4 hit 
+S 644af8,4 hit 
+S 644bf8,4 hit 
+S 644cf8,4 hit 
+S 644df8,4 hit 
+L 603640,4 miss 
+L 603644,4 hit 
+L 603648,4 hit 
+L 60364c,4 hit 
+L 603650,4 hit 
+L 603654,4 hit 
+L 603658,4 hit 
+L 60365c,4 hit 
+S 644aec,4 hit 
+S 644bec,4 hit 
+S 644cec,4 hit 
+S 644dec,4 hit 
+S 644afc,4 hit 
+S 644bfc,4 hit 
+S 644cfc,4 hit 
+S 644dfc,4 hit 
+L 603740,4 miss eviction 
+L 603840,4 miss eviction 
+L 603940,4 miss eviction 
+L 603a40,4 miss eviction 
+L 644af0,4 hit 
+L 644af4,4 hit 
+L 644af8,4 hit 
+L 644afc,4 hit 
+S 644af0,4 hit 
+S 644af4,4 hit 
+S 644af8,4 hit 
+S 644afc,4 hit 
+S 644ee0,4 miss eviction 
+S 644ee4,4 hit 
+S 644ee8,4 hit 
+S 644eec,4 hit 
+L 603750,4 hit 
+S 644ef0,4 hit 
+L 603850,4 hit 
+S 644ef4,4 hit 
+L 603950,4 hit 
+S 644ef8,4 hit 
+L 603a50,4 hit 
+S 644efc,4 hit 
+L 603744,4 hit 
+L 603844,4 hit 
+L 603944,4 hit 
+L 603a44,4 hit 
+L 644bf0,4 hit 
+L 644bf4,4 hit 
+L 644bf8,4 hit 
+L 644bfc,4 hit 
+S 644bf0,4 hit 
+S 644bf4,4 hit 
+S 644bf8,4 hit 
+S 644bfc,4 hit 
+S 644fe0,4 miss eviction 
+S 644fe4,4 hit 
+S 644fe8,4 hit 
+S 644fec,4 hit 
+L 603754,4 hit 
+S 644ff0,4 hit 
+L 603854,4 hit 
+S 644ff4,4 hit 
+L 603954,4 hit 
+S 644ff8,4 hit 
+L 603a54,4 hit 
+S 644ffc,4 hit 
+L 603748,4 hit 
+L 603848,4 hit 
+L 603948,4 hit 
+L 603a48,4 hit 
+L 644cf0,4 hit 
+L 644cf4,4 hit 
+L 644cf8,4 hit 
+L 644cfc,4 hit 
+S 644cf0,4 hit 
+S 644cf4,4 hit 
+S 644cf8,4 hit 
+S 644cfc,4 hit 
+S 6450e0,4 miss eviction 
+S 6450e4,4 hit 
+S 6450e8,4 hit 
+S 6450ec,4 hit 
+L 603758,4 hit 
+S 6450f0,4 hit 
+L 603858,4 hit 
+S 6450f4,4 hit 
+L 603958,4 hit 
+S 6450f8,4 hit 
+L 603a58,4 hit 
+S 6450fc,4 hit 
+L 60374c,4 hit 
+L 60384c,4 hit 
+L 60394c,4 hit 
+L 603a4c,4 hit 
+L 644df0,4 hit 
+L 644df4,4 hit 
+L 644df8,4 hit 
+L 644dfc,4 hit 
+S 644df0,4 hit 
+S 644df4,4 hit 
+S 644df8,4 hit 
+S 644dfc,4 hit 
+S 6451e0,4 miss eviction 
+S 6451e4,4 hit 
+S 6451e8,4 hit 
+S 6451ec,4 hit 
+L 60375c,4 hit 
+S 6451f0,4 hit 
+L 60385c,4 hit 
+S 6451f4,4 hit 
+L 60395c,4 hit 
+S 6451f8,4 hit 
+L 603a5c,4 hit 
+S 6451fc,4 hit 
+L 603360,4 miss 
+L 603364,4 hit 
+L 603368,4 hit 
+L 60336c,4 hit 
+L 603370,4 hit 
+L 603374,4 hit 
+L 603378,4 hit 
+L 60337c,4 hit 
+S 6452e0,4 miss eviction 
+S 6453e0,4 miss eviction 
+S 6454e0,4 miss eviction 
+S 6455e0,4 miss eviction 
+S 6452f0,4 hit 
+S 6453f0,4 hit 
+S 6454f0,4 hit 
+S 6455f0,4 hit 
+L 603460,4 miss 
+L 603464,4 hit 
+L 603468,4 hit 
+L 60346c,4 hit 
+L 603470,4 hit 
+L 603474,4 hit 
+L 603478,4 hit 
+L 60347c,4 hit 
+S 6452e4,4 hit 
+S 6453e4,4 hit 
+S 6454e4,4 hit 
+S 6455e4,4 hit 
+S 6452f4,4 hit 
+S 6453f4,4 hit 
+S 6454f4,4 hit 
+S 6455f4,4 hit 
+L 603560,4 miss 
+L 603564,4 hit 
+L 603568,4 hit 
+L 60356c,4 hit 
+L 603570,4 hit 
+L 603574,4 hit 
+L 603578,4 hit 
+L 60357c,4 hit 
+S 6452e8,4 hit 
+S 6453e8,4 hit 
+S 6454e8,4 hit 
+S 6455e8,4 hit 
+S 6452f8,4 hit 
+S 6453f8,4 hit 
+S 6454f8,4 hit 
+S 6455f8,4 hit 
+L 603660,4 miss 
+L 603664,4 hit 
+L 603668,4 hit 
+L 60366c,4 hit 
+L 603670,4 hit 
+L 603674,4 hit 
+L 603678,4 hit 
+L 60367c,4 hit 
+S 6452ec,4 hit 
+S 6453ec,4 hit 
+S 6454ec,4 hit 
+S 6455ec,4 hit 
+S 6452fc,4 hit 
+S 6453fc,4 hit 
+S 6454fc,4 hit 
+S 6455fc,4 hit 
+L 603760,4 miss eviction 
+L 603860,4 miss eviction 
+L 603960,4 miss eviction 
+L 603a60,4 miss eviction 
+L 6452f0,4 hit 
+L 6452f4,4 hit 
+L 6452f8,4 hit 
+L 6452fc,4 hit 
+S 6452f0,4 hit 
+S 6452f4,4 hit 
+S 6452f8,4 hit 
+S 6452fc,4 hit 
+S 6456e0,4 miss eviction 
+S 6456e4,4 hit 
+S 6456e8,4 hit 
+S 6456ec,4 hit 
+L 603770,4 hit 
+S 6456f0,4 hit 
+L 603870,4 hit 
+S 6456f4,4 hit 
+L 603970,4 hit 
+S 6456f8,4 hit 
+L 603a70,4 hit 
+S 6456fc,4 hit 
+L 603764,4 hit 
+L 603864,4 hit 
+L 603964,4 hit 
+L 603a64,4 hit 
+L 6453f0,4 hit 
+L 6453f4,4 hit 
+L 6453f8,4 hit 
+L 6453fc,4 hit 
+S 6453f0,4 hit 
+S 6453f4,4 hit 
+S 6453f8,4 hit 
+S 6453fc,4 hit 
+S 6457e0,4 miss eviction 
+S 6457e4,4 hit 
+S 6457e8,4 hit 
+S 6457ec,4 hit 
+L 603774,4 hit 
+S 6457f0,4 hit 
+L 603874,4 hit 
+S 6457f4,4 hit 
+L 603974,4 hit 
+S 6457f8,4 hit 
+L 603a74,4 hit 
+S 6457fc,4 hit 
+L 603768,4 hit 
+L 603868,4 hit 
+L 603968,4 hit 
+L 603a68,4 hit 
+L 6454f0,4 hit 
+L 6454f4,4 hit 
+L 6454f8,4 hit 
+L 6454fc,4 hit 
+S 6454f0,4 hit 
+S 6454f4,4 hit 
+S 6454f8,4 hit 
+S 6454fc,4 hit 
+S 6458e0,4 miss eviction 
+S 6458e4,4 hit 
+S 6458e8,4 hit 
+S 6458ec,4 hit 
+L 603778,4 hit 
+S 6458f0,4 hit 
+L 603878,4 hit 
+S 6458f4,4 hit 
+L 603978,4 hit 
+S 6458f8,4 hit 
+L 603a78,4 hit 
+S 6458fc,4 hit 
+L 60376c,4 hit 
+L 60386c,4 hit 
+L 60396c,4 hit 
+L 603a6c,4 hit 
+L 6455f0,4 hit 
+L 6455f4,4 hit 
+L 6455f8,4 hit 
+L 6455fc,4 hit 
+S 6455f0,4 hit 
+S 6455f4,4 hit 
+S 6455f8,4 hit 
+S 6455fc,4 hit 
+S 6459e0,4 miss eviction 
+S 6459e4,4 hit 
+S 6459e8,4 hit 
+S 6459ec,4 hit 
+L 60377c,4 hit 
+S 6459f0,4 hit 
+L 60387c,4 hit 
+S 6459f4,4 hit 
+L 60397c,4 hit 
+S 6459f8,4 hit 
+L 603a7c,4 hit 
+S 6459fc,4 hit 
+L 603380,4 miss 
+L 603384,4 hit 
+L 603388,4 hit 
+L 60338c,4 hit 
+L 603390,4 hit 
+L 603394,4 hit 
+L 603398,4 hit 
+L 60339c,4 hit 
+S 645ae0,4 miss eviction 
+S 645be0,4 miss eviction 
+S 645ce0,4 miss eviction 
+S 645de0,4 miss eviction 
+S 645af0,4 hit 
+S 645bf0,4 hit 
+S 645cf0,4 hit 
+S 645df0,4 hit 
+L 603480,4 miss 
+L 603484,4 hit 
+L 603488,4 hit 
+L 60348c,4 hit 
+L 603490,4 hit 
+L 603494,4 hit 
+L 603498,4 hit 
+L 60349c,4 hit 
+S 645ae4,4 hit 
+S 645be4,4 hit 
+S 645ce4,4 hit 
+S 645de4,4 hit 
+S 645af4,4 hit 
+S 645bf4,4 hit 
+S 645cf4,4 hit 
+S 645df4,4 hit 
+L 603580,4 miss 
+L 603584,4 hit 
+L 603588,4 hit 
+L 60358c,4 hit 
+L 603590,4 hit 
+L 603594,4 hit 
+L 603598,4 hit 
+L 60359c,4 hit 
+S 645ae8,4 hit 
+S 645be8,4 hit 
+S 645ce8,4 hit 
+S 645de8,4 hit 
+S 645af8,4 hit 
+S 645bf8,4 hit 
+S 645cf8,4 hit 
+S 645df8,4 hit 
+L 603680,4 miss 
+L 603684,4 hit 
+L 603688,4 hit 
+L 60368c,4 hit 
+L 603690,4 hit 
+L 603694,4 hit 
+L 603698,4 hit 
+L 60369c,4 hit 
+S 645aec,4 hit 
+S 645bec,4 hit 
+S 645cec,4 hit 
+S 645dec,4 hit 
+S 645afc,4 hit 
+S 645bfc,4 hit 
+S 645cfc,4 hit 
+S 645dfc,4 hit 
+L 603780,4 miss eviction 
+L 603880,4 miss eviction 
+L 603980,4 miss eviction 
+L 603a80,4 miss eviction 
+L 645af0,4 hit 
+L 645af4,4 hit 
+L 645af8,4 hit 
+L 645afc,4 hit 
+S 645af0,4 hit 
+S 645af4,4 hit 
+S 645af8,4 hit 
+S 645afc,4 hit 
+S 645ee0,4 miss eviction 
+S 645ee4,4 hit 
+S 645ee8,4 hit 
+S 645eec,4 hit 
+L 603790,4 hit 
+S 645ef0,4 hit 
+L 603890,4 hit 
+S 645ef4,4 hit 
+L 603990,4 hit 
+S 645ef8,4 hit 
+L 603a90,4 hit 
+S 645efc,4 hit 
+L 603784,4 hit 
+L 603884,4 hit 
+L 603984,4 hit 
+L 603a84,4 hit 
+L 645bf0,4 hit 
+L 645bf4,4 hit 
+L 645bf8,4 hit 
+L 645bfc,4 hit 
+S 645bf0,4 hit 
+S 645bf4,4 hit 
+S 645bf8,4 hit 
+S 645bfc,4 hit 
+S 645fe0,4 miss eviction 
+S 645fe4,4 hit 
+S 645fe8,4 hit 
+S 645fec,4 hit 
+L 603794,4 hit 
+S 645ff0,4 hit 
+L 603894,4 hit 
+S 645ff4,4 hit 
+L 603994,4 hit 
+S 645ff8,4 hit 
+L 603a94,4 hit 
+S 645ffc,4 hit 
+L 603788,4 hit 
+L 603888,4 hit 
+L 603988,4 hit 
+L 603a88,4 hit 
+L 645cf0,4 hit 
+L 645cf4,4 hit 
+L 645cf8,4 hit 
+L 645cfc,4 hit 
+S 645cf0,4 hit 
+S 645cf4,4 hit 
+S 645cf8,4 hit 
+S 645cfc,4 hit 
+S 6460e0,4 miss eviction 
+S 6460e4,4 hit 
+S 6460e8,4 hit 
+S 6460ec,4 hit 
+L 603798,4 hit 
+S 6460f0,4 hit 
+L 603898,4 hit 
+S 6460f4,4 hit 
+L 603998,4 hit 
+S 6460f8,4 hit 
+L 603a98,4 hit 
+S 6460fc,4 hit 
+L 60378c,4 hit 
+L 60388c,4 hit 
+L 60398c,4 hit 
+L 603a8c,4 hit 
+L 645df0,4 hit 
+L 645df4,4 hit 
+L 645df8,4 hit 
+L 645dfc,4 hit 
+S 645df0,4 hit 
+S 645df4,4 hit 
+S 645df8,4 hit 
+S 645dfc,4 hit 
+S 6461e0,4 miss eviction 
+S 6461e4,4 hit 
+S 6461e8,4 hit 
+S 6461ec,4 hit 
+L 60379c,4 hit 
+S 6461f0,4 hit 
+L 60389c,4 hit 
+S 6461f4,4 hit 
+L 60399c,4 hit 
+S 6461f8,4 hit 
+L 603a9c,4 hit 
+S 6461fc,4 hit 
+L 6033a0,4 miss 
+L 6033a4,4 hit 
+L 6033a8,4 hit 
+L 6033ac,4 hit 
+L 6033b0,4 hit 
+L 6033b4,4 hit 
+L 6033b8,4 hit 
+L 6033bc,4 hit 
+S 6462e0,4 miss eviction 
+S 6463e0,4 miss eviction 
+S 6464e0,4 miss eviction 
+S 6465e0,4 miss eviction 
+S 6462f0,4 hit 
+S 6463f0,4 hit 
+S 6464f0,4 hit 
+S 6465f0,4 hit 
+L 6034a0,4 miss 
+L 6034a4,4 hit 
+L 6034a8,4 hit 
+L 6034ac,4 hit 
+L 6034b0,4 hit 
+L 6034b4,4 hit 
+L 6034b8,4 hit 
+L 6034bc,4 hit 
+S 6462e4,4 hit 
+S 6463e4,4 hit 
+S 6464e4,4 hit 
+S 6465e4,4 hit 
+S 6462f4,4 hit 
+S 6463f4,4 hit 
+S 6464f4,4 hit 
+S 6465f4,4 hit 
+L 6035a0,4 miss 
+L 6035a4,4 hit 
+L 6035a8,4 hit 
+L 6035ac,4 hit 
+L 6035b0,4 hit 
+L 6035b4,4 hit 
+L 6035b8,4 hit 
+L 6035bc,4 hit 
+S 6462e8,4 hit 
+S 6463e8,4 hit 
+S 6464e8,4 hit 
+S 6465e8,4 hit 
+S 6462f8,4 hit 
+S 6463f8,4 hit 
+S 6464f8,4 hit 
+S 6465f8,4 hit 
+L 6036a0,4 miss 
+L 6036a4,4 hit 
+L 6036a8,4 hit 
+L 6036ac,4 hit 
+L 6036b0,4 hit 
+L 6036b4,4 hit 
+L 6036b8,4 hit 
+L 6036bc,4 hit 
+S 6462ec,4 hit 
+S 6463ec,4 hit 
+S 6464ec,4 hit 
+S 6465ec,4 hit 
+S 6462fc,4 hit 
+S 6463fc,4 hit 
+S 6464fc,4 hit 
+S 6465fc,4 hit 
+L 6037a0,4 miss eviction 
+L 6038a0,4 miss eviction 
+L 6039a0,4 miss eviction 
+L 603aa0,4 miss eviction 
+L 6462f0,4 hit 
+L 6462f4,4 hit 
+L 6462f8,4 hit 
+L 6462fc,4 hit 
+S 6462f0,4 hit 
+S 6462f4,4 hit 
+S 6462f8,4 hit 
+S 6462fc,4 hit 
+S 6466e0,4 miss eviction 
+S 6466e4,4 hit 
+S 6466e8,4 hit 
+S 6466ec,4 hit 
+L 6037b0,4 hit 
+S 6466f0,4 hit 
+L 6038b0,4 hit 
+S 6466f4,4 hit 
+L 6039b0,4 hit 
+S 6466f8,4 hit 
+L 603ab0,4 hit 
+S 6466fc,4 hit 
+L 6037a4,4 hit 
+L 6038a4,4 hit 
+L 6039a4,4 hit 
+L 603aa4,4 hit 
+L 6463f0,4 hit 
+L 6463f4,4 hit 
+L 6463f8,4 hit 
+L 6463fc,4 hit 
+S 6463f0,4 hit 
+S 6463f4,4 hit 
+S 6463f8,4 hit 
+S 6463fc,4 hit 
+S 6467e0,4 miss eviction 
+S 6467e4,4 hit 
+S 6467e8,4 hit 
+S 6467ec,4 hit 
+L 6037b4,4 hit 
+S 6467f0,4 hit 
+L 6038b4,4 hit 
+S 6467f4,4 hit 
+L 6039b4,4 hit 
+S 6467f8,4 hit 
+L 603ab4,4 hit 
+S 6467fc,4 hit 
+L 6037a8,4 hit 
+L 6038a8,4 hit 
+L 6039a8,4 hit 
+L 603aa8,4 hit 
+L 6464f0,4 hit 
+L 6464f4,4 hit 
+L 6464f8,4 hit 
+L 6464fc,4 hit 
+S 6464f0,4 hit 
+S 6464f4,4 hit 
+S 6464f8,4 hit 
+S 6464fc,4 hit 
+S 6468e0,4 miss eviction 
+S 6468e4,4 hit 
+S 6468e8,4 hit 
+S 6468ec,4 hit 
+L 6037b8,4 hit 
+S 6468f0,4 hit 
+L 6038b8,4 hit 
+S 6468f4,4 hit 
+L 6039b8,4 hit 
+S 6468f8,4 hit 
+L 603ab8,4 hit 
+S 6468fc,4 hit 
+L 6037ac,4 hit 
+L 6038ac,4 hit 
+L 6039ac,4 hit 
+L 603aac,4 hit 
+L 6465f0,4 hit 
+L 6465f4,4 hit 
+L 6465f8,4 hit 
+L 6465fc,4 hit 
+S 6465f0,4 hit 
+S 6465f4,4 hit 
+S 6465f8,4 hit 
+S 6465fc,4 hit 
+S 6469e0,4 miss eviction 
+S 6469e4,4 hit 
+S 6469e8,4 hit 
+S 6469ec,4 hit 
+L 6037bc,4 hit 
+S 6469f0,4 hit 
+L 6038bc,4 hit 
+S 6469f4,4 hit 
+L 6039bc,4 hit 
+S 6469f8,4 hit 
+L 603abc,4 hit 
+S 6469fc,4 hit 
+L 6033c0,4 miss 
+L 6033c4,4 hit 
+L 6033c8,4 hit 
+L 6033cc,4 hit 
+L 6033d0,4 hit 
+L 6033d4,4 hit 
+L 6033d8,4 hit 
+L 6033dc,4 hit 
+S 646ae0,4 miss eviction 
+S 646be0,4 miss eviction 
+S 646ce0,4 miss eviction 
+S 646de0,4 miss eviction 
+S 646af0,4 hit 
+S 646bf0,4 hit 
+S 646cf0,4 hit 
+S 646df0,4 hit 
+L 6034c0,4 miss 
+L 6034c4,4 hit 
+L 6034c8,4 hit 
+L 6034cc,4 hit 
+L 6034d0,4 hit 
+L 6034d4,4 hit 
+L 6034d8,4 hit 
+L 6034dc,4 hit 
+S 646ae4,4 hit 
+S 646be4,4 hit 
+S 646ce4,4 hit 
+S 646de4,4 hit 
+S 646af4,4 hit 
+S 646bf4,4 hit 
+S 646cf4,4 hit 
+S 646df4,4 hit 
+L 6035c0,4 miss 
+L 6035c4,4 hit 
+L 6035c8,4 hit 
+L 6035cc,4 hit 
+L 6035d0,4 hit 
+L 6035d4,4 hit 
+L 6035d8,4 hit 
+L 6035dc,4 hit 
+S 646ae8,4 hit 
+S 646be8,4 hit 
+S 646ce8,4 hit 
+S 646de8,4 hit 
+S 646af8,4 hit 
+S 646bf8,4 hit 
+S 646cf8,4 hit 
+S 646df8,4 hit 
+L 6036c0,4 miss 
+L 6036c4,4 hit 
+L 6036c8,4 hit 
+L 6036cc,4 hit 
+L 6036d0,4 hit 
+L 6036d4,4 hit 
+L 6036d8,4 hit 
+L 6036dc,4 hit 
+S 646aec,4 hit 
+S 646bec,4 hit 
+S 646cec,4 hit 
+S 646dec,4 hit 
+S 646afc,4 hit 
+S 646bfc,4 hit 
+S 646cfc,4 hit 
+S 646dfc,4 hit 
+L 6037c0,4 miss eviction 
+L 6038c0,4 miss eviction 
+L 6039c0,4 miss eviction 
+L 603ac0,4 miss eviction 
+L 646af0,4 hit 
+L 646af4,4 hit 
+L 646af8,4 hit 
+L 646afc,4 hit 
+S 646af0,4 hit 
+S 646af4,4 hit 
+S 646af8,4 hit 
+S 646afc,4 hit 
+S 646ee0,4 miss eviction 
+S 646ee4,4 hit 
+S 646ee8,4 hit 
+S 646eec,4 hit 
+L 6037d0,4 hit 
+S 646ef0,4 hit 
+L 6038d0,4 hit 
+S 646ef4,4 hit 
+L 6039d0,4 hit 
+S 646ef8,4 hit 
+L 603ad0,4 hit 
+S 646efc,4 hit 
+L 6037c4,4 hit 
+L 6038c4,4 hit 
+L 6039c4,4 hit 
+L 603ac4,4 hit 
+L 646bf0,4 hit 
+L 646bf4,4 hit 
+L 646bf8,4 hit 
+L 646bfc,4 hit 
+S 646bf0,4 hit 
+S 646bf4,4 hit 
+S 646bf8,4 hit 
+S 646bfc,4 hit 
+S 646fe0,4 miss eviction 
+S 646fe4,4 hit 
+S 646fe8,4 hit 
+S 646fec,4 hit 
+L 6037d4,4 hit 
+S 646ff0,4 hit 
+L 6038d4,4 hit 
+S 646ff4,4 hit 
+L 6039d4,4 hit 
+S 646ff8,4 hit 
+L 603ad4,4 hit 
+S 646ffc,4 hit 
+L 6037c8,4 hit 
+L 6038c8,4 hit 
+L 6039c8,4 hit 
+L 603ac8,4 hit 
+L 646cf0,4 hit 
+L 646cf4,4 hit 
+L 646cf8,4 hit 
+L 646cfc,4 hit 
+S 646cf0,4 hit 
+S 646cf4,4 hit 
+S 646cf8,4 hit 
+S 646cfc,4 hit 
+S 6470e0,4 miss eviction 
+S 6470e4,4 hit 
+S 6470e8,4 hit 
+S 6470ec,4 hit 
+L 6037d8,4 hit 
+S 6470f0,4 hit 
+L 6038d8,4 hit 
+S 6470f4,4 hit 
+L 6039d8,4 hit 
+S 6470f8,4 hit 
+L 603ad8,4 hit 
+S 6470fc,4 hit 
+L 6037cc,4 hit 
+L 6038cc,4 hit 
+L 6039cc,4 hit 
+L 603acc,4 hit 
+L 646df0,4 hit 
+L 646df4,4 hit 
+L 646df8,4 hit 
+L 646dfc,4 hit 
+S 646df0,4 hit 
+S 646df4,4 hit 
+S 646df8,4 hit 
+S 646dfc,4 hit 
+S 6471e0,4 miss eviction 
+S 6471e4,4 hit 
+S 6471e8,4 hit 
+S 6471ec,4 hit 
+L 6037dc,4 hit 
+S 6471f0,4 hit 
+L 6038dc,4 hit 
+S 6471f4,4 hit 
+L 6039dc,4 hit 
+S 6471f8,4 hit 
+L 603adc,4 hit 
+S 6471fc,4 hit 
+L 603ae0,4 miss eviction 
+L 603ae4,4 hit 
+L 603ae8,4 hit 
+L 603aec,4 hit 
+L 603af0,4 hit 
+L 603af4,4 hit 
+L 603af8,4 hit 
+L 603afc,4 hit 
+S 643300,4 miss eviction 
+S 643400,4 miss eviction 
+S 643500,4 miss eviction 
+S 643600,4 miss eviction 
+S 643310,4 hit 
+S 643410,4 hit 
+S 643510,4 hit 
+S 643610,4 hit 
+L 603be0,4 miss eviction 
+L 603be4,4 hit 
+L 603be8,4 hit 
+L 603bec,4 hit 
+L 603bf0,4 hit 
+L 603bf4,4 hit 
+L 603bf8,4 hit 
+L 603bfc,4 hit 
+S 643304,4 hit 
+S 643404,4 hit 
+S 643504,4 hit 
+S 643604,4 hit 
+S 643314,4 hit 
+S 643414,4 hit 
+S 643514,4 hit 
+S 643614,4 hit 
+L 603ce0,4 miss eviction 
+L 603ce4,4 hit 
+L 603ce8,4 hit 
+L 603cec,4 hit 
+L 603cf0,4 hit 
+L 603cf4,4 hit 
+L 603cf8,4 hit 
+L 603cfc,4 hit 
+S 643308,4 hit 
+S 643408,4 hit 
+S 643508,4 hit 
+S 643608,4 hit 
+S 643318,4 hit 
+S 643418,4 hit 
+S 643518,4 hit 
+S 643618,4 hit 
+L 603de0,4 miss eviction 
+L 603de4,4 hit 
+L 603de8,4 hit 
+L 603dec,4 hit 
+L 603df0,4 hit 
+L 603df4,4 hit 
+L 603df8,4 hit 
+L 603dfc,4 hit 
+S 64330c,4 hit 
+S 64340c,4 hit 
+S 64350c,4 hit 
+S 64360c,4 hit 
+S 64331c,4 hit 
+S 64341c,4 hit 
+S 64351c,4 hit 
+S 64361c,4 hit 
+L 603ee0,4 miss eviction 
+L 603fe0,4 miss eviction 
+L 6040e0,4 miss eviction 
+L 6041e0,4 miss eviction 
+L 643310,4 hit 
+L 643314,4 hit 
+L 643318,4 hit 
+L 64331c,4 hit 
+S 643310,4 hit 
+S 643314,4 hit 
+S 643318,4 hit 
+S 64331c,4 hit 
+S 643700,4 miss eviction 
+S 643704,4 hit 
+S 643708,4 hit 
+S 64370c,4 hit 
+L 603ef0,4 hit 
+S 643710,4 hit 
+L 603ff0,4 hit 
+S 643714,4 hit 
+L 6040f0,4 hit 
+S 643718,4 hit 
+L 6041f0,4 hit 
+S 64371c,4 hit 
+L 603ee4,4 hit 
+L 603fe4,4 hit 
+L 6040e4,4 hit 
+L 6041e4,4 hit 
+L 643410,4 hit 
+L 643414,4 hit 
+L 643418,4 hit 
+L 64341c,4 hit 
+S 643410,4 hit 
+S 643414,4 hit 
+S 643418,4 hit 
+S 64341c,4 hit 
+S 643800,4 miss eviction 
+S 643804,4 hit 
+S 643808,4 hit 
+S 64380c,4 hit 
+L 603ef4,4 hit 
+S 643810,4 hit 
+L 603ff4,4 hit 
+S 643814,4 hit 
+L 6040f4,4 hit 
+S 643818,4 hit 
+L 6041f4,4 hit 
+S 64381c,4 hit 
+L 603ee8,4 hit 
+L 603fe8,4 hit 
+L 6040e8,4 hit 
+L 6041e8,4 hit 
+L 643510,4 hit 
+L 643514,4 hit 
+L 643518,4 hit 
+L 64351c,4 hit 
+S 643510,4 hit 
+S 643514,4 hit 
+S 643518,4 hit 
+S 64351c,4 hit 
+S 643900,4 miss eviction 
+S 643904,4 hit 
+S 643908,4 hit 
+S 64390c,4 hit 
+L 603ef8,4 hit 
+S 643910,4 hit 
+L 603ff8,4 hit 
+S 643914,4 hit 
+L 6040f8,4 hit 
+S 643918,4 hit 
+L 6041f8,4 hit 
+S 64391c,4 hit 
+L 603eec,4 hit 
+L 603fec,4 hit 
+L 6040ec,4 hit 
+L 6041ec,4 hit 
+L 643610,4 hit 
+L 643614,4 hit 
+L 643618,4 hit 
+L 64361c,4 hit 
+S 643610,4 hit 
+S 643614,4 hit 
+S 643618,4 hit 
+S 64361c,4 hit 
+S 643a00,4 miss eviction 
+S 643a04,4 hit 
+S 643a08,4 hit 
+S 643a0c,4 hit 
+L 603efc,4 hit 
+S 643a10,4 hit 
+L 603ffc,4 hit 
+S 643a14,4 hit 
+L 6040fc,4 hit 
+S 643a18,4 hit 
+L 6041fc,4 hit 
+S 643a1c,4 hit 
+L 603b00,4 miss eviction 
+L 603b04,4 hit 
+L 603b08,4 hit 
+L 603b0c,4 hit 
+L 603b10,4 hit 
+L 603b14,4 hit 
+L 603b18,4 hit 
+L 603b1c,4 hit 
+S 643b00,4 miss eviction 
+S 643c00,4 miss eviction 
+S 643d00,4 miss eviction 
+S 643e00,4 miss eviction 
+S 643b10,4 hit 
+S 643c10,4 hit 
+S 643d10,4 hit 
+S 643e10,4 hit 
+L 603c00,4 miss eviction 
+L 603c04,4 hit 
+L 603c08,4 hit 
+L 603c0c,4 hit 
+L 603c10,4 hit 
+L 603c14,4 hit 
+L 603c18,4 hit 
+L 603c1c,4 hit 
+S 643b04,4 hit 
+S 643c04,4 miss eviction 
+S 643d04,4 hit 
+S 643e04,4 hit 
+S 643b14,4 hit 
+S 643c14,4 hit 
+S 643d14,4 hit 
+S 643e14,4 hit 
+L 603d00,4 miss eviction 
+L 603d04,4 hit 
+L 603d08,4 hit 
+L 603d0c,4 hit 
+L 603d10,4 hit 
+L 603d14,4 hit 
+L 603d18,4 hit 
+L 603d1c,4 hit 
+S 643b08,4 hit 
+S 643c08,4 hit 
+S 643d08,4 miss eviction 
+S 643e08,4 hit 
+S 643b18,4 hit 
+S 643c18,4 hit 
+S 643d18,4 hit 
+S 643e18,4 hit 
+L 603e00,4 miss eviction 
+L 603e04,4 hit 
+L 603e08,4 hit 
+L 603e0c,4 hit 
+L 603e10,4 hit 
+L 603e14,4 hit 
+L 603e18,4 hit 
+L 603e1c,4 hit 
+S 643b0c,4 hit 
+S 643c0c,4 hit 
+S 643d0c,4 hit 
+S 643e0c,4 miss eviction 
+S 643b1c,4 hit 
+S 643c1c,4 hit 
+S 643d1c,4 hit 
+S 643e1c,4 hit 
+L 603f00,4 miss eviction 
+L 604000,4 miss eviction 
+L 604100,4 miss eviction 
+L 604200,4 miss eviction 
+L 643b10,4 miss eviction 
+L 643b14,4 hit 
+L 643b18,4 hit 
+L 643b1c,4 hit 
+S 643b10,4 hit 
+S 643b14,4 hit 
+S 643b18,4 hit 
+S 643b1c,4 hit 
+S 643f00,4 miss eviction 
+S 643f04,4 hit 
+S 643f08,4 hit 
+S 643f0c,4 hit 
+L 603f10,4 miss eviction 
+S 643f10,4 miss eviction 
+L 604010,4 hit 
+S 643f14,4 hit 
+L 604110,4 hit 
+S 643f18,4 hit 
+L 604210,4 hit 
+S 643f1c,4 hit 
+L 603f04,4 miss eviction 
+L 604004,4 hit 
+L 604104,4 hit 
+L 604204,4 hit 
+L 643c10,4 miss eviction 
+L 643c14,4 hit 
+L 643c18,4 hit 
+L 643c1c,4 hit 
+S 643c10,4 hit 
+S 643c14,4 hit 
+S 643c18,4 hit 
+S 643c1c,4 hit 
+S 644000,4 miss eviction 
+S 644004,4 hit 
+S 644008,4 hit 
+S 64400c,4 hit 
+L 603f14,4 hit 
+S 644010,4 hit 
+L 604014,4 miss eviction 
+S 644014,4 miss eviction 
+L 604114,4 hit 
+S 644018,4 hit 
+L 604214,4 hit 
+S 64401c,4 hit 
+L 603f08,4 hit 
+L 604008,4 miss eviction 
+L 604108,4 hit 
+L 604208,4 hit 
+L 643d10,4 miss eviction 
+L 643d14,4 hit 
+L 643d18,4 hit 
+L 643d1c,4 hit 
+S 643d10,4 hit 
+S 643d14,4 hit 
+S 643d18,4 hit 
+S 643d1c,4 hit 
+S 644100,4 miss eviction 
+S 644104,4 hit 
+S 644108,4 hit 
+S 64410c,4 hit 
+L 603f18,4 hit 
+S 644110,4 hit 
+L 604018,4 hit 
+S 644114,4 hit 
+L 604118,4 miss eviction 
+S 644118,4 miss eviction 
+L 604218,4 hit 
+S 64411c,4 hit 
+L 603f0c,4 hit 
+L 60400c,4 hit 
+L 60410c,4 miss eviction 
+L 60420c,4 hit 
+L 643e10,4 miss eviction 
+L 643e14,4 hit 
+L 643e18,4 hit 
+L 643e1c,4 hit 
+S 643e10,4 hit 
+S 643e14,4 hit 
+S 643e18,4 hit 
+S 643e1c,4 hit 
+S 644200,4 miss eviction 
+S 644204,4 hit 
+S 644208,4 hit 
+S 64420c,4 hit 
+L 603f1c,4 hit 
+S 644210,4 hit 
+L 60401c,4 hit 
+S 644214,4 hit 
+L 60411c,4 hit 
+S 644218,4 hit 
+L 60421c,4 miss eviction 
+S 64421c,4 miss eviction 
+L 603b20,4 miss eviction 
+L 603b24,4 hit 
+L 603b28,4 hit 
+L 603b2c,4 hit 
+L 603b30,4 hit 
+L 603b34,4 hit 
+L 603b38,4 hit 
+L 603b3c,4 hit 
+S 644300,4 miss eviction 
+S 644400,4 miss eviction 
+S 644500,4 miss eviction 
+S 644600,4 miss eviction 
+S 644310,4 hit 
+S 644410,4 hit 
+S 644510,4 hit 
+S 644610,4 hit 
+L 603c20,4 miss eviction 
+L 603c24,4 hit 
+L 603c28,4 hit 
+L 603c2c,4 hit 
+L 603c30,4 hit 
+L 603c34,4 hit 
+L 603c38,4 hit 
+L 603c3c,4 hit 
+S 644304,4 hit 
+S 644404,4 hit 
+S 644504,4 hit 
+S 644604,4 hit 
+S 644314,4 hit 
+S 644414,4 hit 
+S 644514,4 hit 
+S 644614,4 hit 
+L 603d20,4 miss eviction 
+L 603d24,4 hit 
+L 603d28,4 hit 
+L 603d2c,4 hit 
+L 603d30,4 hit 
+L 603d34,4 hit 
+L 603d38,4 hit 
+L 603d3c,4 hit 
+S 644308,4 hit 
+S 644408,4 hit 
+S 644508,4 hit 
+S 644608,4 hit 
+S 644318,4 hit 
+S 644418,4 hit 
+S 644518,4 hit 
+S 644618,4 hit 
+L 603e20,4 miss eviction 
+L 603e24,4 hit 
+L 603e28,4 hit 
+L 603e2c,4 hit 
+L 603e30,4 hit 
+L 603e34,4 hit 
+L 603e38,4 hit 
+L 603e3c,4 hit 
+S 64430c,4 hit 
+S 64440c,4 hit 
+S 64450c,4 hit 
+S 64460c,4 hit 
+S 64431c,4 hit 
+S 64441c,4 hit 
+S 64451c,4 hit 
+S 64461c,4 hit 
+L 603f20,4 miss eviction 
+L 604020,4 miss eviction 
+L 604120,4 miss eviction 
+L 604220,4 miss eviction 
+L 644310,4 hit 
+L 644314,4 hit 
+L 644318,4 hit 
+L 64431c,4 hit 
+S 644310,4 hit 
+S 644314,4 hit 
+S 644318,4 hit 
+S 64431c,4 hit 
+S 644700,4 miss eviction 
+S 644704,4 hit 
+S 644708,4 hit 
+S 64470c,4 hit 
+L 603f30,4 hit 
+S 644710,4 hit 
+L 604030,4 hit 
+S 644714,4 hit 
+L 604130,4 hit 
+S 644718,4 hit 
+L 604230,4 hit 
+S 64471c,4 hit 
+L 603f24,4 hit 
+L 604024,4 hit 
+L 604124,4 hit 
+L 604224,4 hit 
+L 644410,4 hit 
+L 644414,4 hit 
+L 644418,4 hit 
+L 64441c,4 hit 
+S 644410,4 hit 
+S 644414,4 hit 
+S 644418,4 hit 
+S 64441c,4 hit 
+S 644800,4 miss eviction 
+S 644804,4 hit 
+S 644808,4 hit 
+S 64480c,4 hit 
+L 603f34,4 hit 
+S 644810,4 hit 
+L 604034,4 hit 
+S 644814,4 hit 
+L 604134,4 hit 
+S 644818,4 hit 
+L 604234,4 hit 
+S 64481c,4 hit 
+L 603f28,4 hit 
+L 604028,4 hit 
+L 604128,4 hit 
+L 604228,4 hit 
+L 644510,4 hit 
+L 644514,4 hit 
+L 644518,4 hit 
+L 64451c,4 hit 
+S 644510,4 hit 
+S 644514,4 hit 
+S 644518,4 hit 
+S 64451c,4 hit 
+S 644900,4 miss eviction 
+S 644904,4 hit 
+S 644908,4 hit 
+S 64490c,4 hit 
+L 603f38,4 hit 
+S 644910,4 hit 
+L 604038,4 hit 
+S 644914,4 hit 
+L 604138,4 hit 
+S 644918,4 hit 
+L 604238,4 hit 
+S 64491c,4 hit 
+L 603f2c,4 hit 
+L 60402c,4 hit 
+L 60412c,4 hit 
+L 60422c,4 hit 
+L 644610,4 hit 
+L 644614,4 hit 
+L 644618,4 hit 
+L 64461c,4 hit 
+S 644610,4 hit 
+S 644614,4 hit 
+S 644618,4 hit 
+S 64461c,4 hit 
+S 644a00,4 miss eviction 
+S 644a04,4 hit 
+S 644a08,4 hit 
+S 644a0c,4 hit 
+L 603f3c,4 hit 
+S 644a10,4 hit 
+L 60403c,4 hit 
+S 644a14,4 hit 
+L 60413c,4 hit 
+S 644a18,4 hit 
+L 60423c,4 hit 
+S 644a1c,4 hit 
+L 603b40,4 miss eviction 
+L 603b44,4 hit 
+L 603b48,4 hit 
+L 603b4c,4 hit 
+L 603b50,4 hit 
+L 603b54,4 hit 
+L 603b58,4 hit 
+L 603b5c,4 hit 
+S 644b00,4 miss eviction 
+S 644c00,4 miss eviction 
+S 644d00,4 miss eviction 
+S 644e00,4 miss eviction 
+S 644b10,4 hit 
+S 644c10,4 hit 
+S 644d10,4 hit 
+S 644e10,4 hit 
+L 603c40,4 miss eviction 
+L 603c44,4 hit 
+L 603c48,4 hit 
+L 603c4c,4 hit 
+L 603c50,4 hit 
+L 603c54,4 hit 
+L 603c58,4 hit 
+L 603c5c,4 hit 
+S 644b04,4 hit 
+S 644c04,4 hit 
+S 644d04,4 hit 
+S 644e04,4 hit 
+S 644b14,4 hit 
+S 644c14,4 hit 
+S 644d14,4 hit 
+S 644e14,4 hit 
+L 603d40,4 miss eviction 
+L 603d44,4 hit 
+L 603d48,4 hit 
+L 603d4c,4 hit 
+L 603d50,4 hit 
+L 603d54,4 hit 
+L 603d58,4 hit 
+L 603d5c,4 hit 
+S 644b08,4 hit 
+S 644c08,4 hit 
+S 644d08,4 hit 
+S 644e08,4 hit 
+S 644b18,4 hit 
+S 644c18,4 hit 
+S 644d18,4 hit 
+S 644e18,4 hit 
+L 603e40,4 miss eviction 
+L 603e44,4 hit 
+L 603e48,4 hit 
+L 603e4c,4 hit 
+L 603e50,4 hit 
+L 603e54,4 hit 
+L 603e58,4 hit 
+L 603e5c,4 hit 
+S 644b0c,4 hit 
+S 644c0c,4 hit 
+S 644d0c,4 hit 
+S 644e0c,4 hit 
+S 644b1c,4 hit 
+S 644c1c,4 hit 
+S 644d1c,4 hit 
+S 644e1c,4 hit 
+L 603f40,4 miss eviction 
+L 604040,4 miss eviction 
+L 604140,4 miss eviction 
+L 604240,4 miss eviction 
+L 644b10,4 hit 
+L 644b14,4 hit 
+L 644b18,4 hit 
+L 644b1c,4 hit 
+S 644b10,4 hit 
+S 644b14,4 hit 
+S 644b18,4 hit 
+S 644b1c,4 hit 
+S 644f00,4 miss eviction 
+S 644f04,4 hit 
+S 644f08,4 hit 
+S 644f0c,4 hit 
+L 603f50,4 hit 
+S 644f10,4 hit 
+L 604050,4 hit 
+S 644f14,4 hit 
+L 604150,4 hit 
+S 644f18,4 hit 
+L 604250,4 hit 
+S 644f1c,4 hit 
+L 603f44,4 hit 
+L 604044,4 hit 
+L 604144,4 hit 
+L 604244,4 hit 
+L 644c10,4 hit 
+L 644c14,4 hit 
+L 644c18,4 hit 
+L 644c1c,4 hit 
+S 644c10,4 hit 
+S 644c14,4 hit 
+S 644c18,4 hit 
+S 644c1c,4 hit 
+S 645000,4 miss eviction 
+S 645004,4 hit 
+S 645008,4 hit 
+S 64500c,4 hit 
+L 603f54,4 hit 
+S 645010,4 hit 
+L 604054,4 hit 
+S 645014,4 hit 
+L 604154,4 hit 
+S 645018,4 hit 
+L 604254,4 hit 
+S 64501c,4 hit 
+L 603f48,4 hit 
+L 604048,4 hit 
+L 604148,4 hit 
+L 604248,4 hit 
+L 644d10,4 hit 
+L 644d14,4 hit 
+L 644d18,4 hit 
+L 644d1c,4 hit 
+S 644d10,4 hit 
+S 644d14,4 hit 
+S 644d18,4 hit 
+S 644d1c,4 hit 
+S 645100,4 miss eviction 
+S 645104,4 hit 
+S 645108,4 hit 
+S 64510c,4 hit 
+L 603f58,4 hit 
+S 645110,4 hit 
+L 604058,4 hit 
+S 645114,4 hit 
+L 604158,4 hit 
+S 645118,4 hit 
+L 604258,4 hit 
+S 64511c,4 hit 
+L 603f4c,4 hit 
+L 60404c,4 hit 
+L 60414c,4 hit 
+L 60424c,4 hit 
+L 644e10,4 hit 
+L 644e14,4 hit 
+L 644e18,4 hit 
+L 644e1c,4 hit 
+S 644e10,4 hit 
+S 644e14,4 hit 
+S 644e18,4 hit 
+S 644e1c,4 hit 
+S 645200,4 miss eviction 
+S 645204,4 hit 
+S 645208,4 hit 
+S 64520c,4 hit 
+L 603f5c,4 hit 
+S 645210,4 hit 
+L 60405c,4 hit 
+S 645214,4 hit 
+L 60415c,4 hit 
+S 645218,4 hit 
+L 60425c,4 hit 
+S 64521c,4 hit 
+L 603b60,4 miss eviction 
+L 603b64,4 hit 
+L 603b68,4 hit 
+L 603b6c,4 hit 
+L 603b70,4 hit 
+L 603b74,4 hit 
+L 603b78,4 hit 
+L 603b7c,4 hit 
+S 645300,4 miss eviction 
+S 645400,4 miss eviction 
+S 645500,4 miss eviction 
+S 645600,4 miss eviction 
+S 645310,4 hit 
+S 645410,4 hit 
+S 645510,4 hit 
+S 645610,4 hit 
+L 603c60,4 miss eviction 
+L 603c64,4 hit 
+L 603c68,4 hit 
+L 603c6c,4 hit 
+L 603c70,4 hit 
+L 603c74,4 hit 
+L 603c78,4 hit 
+L 603c7c,4 hit 
+S 645304,4 hit 
+S 645404,4 hit 
+S 645504,4 hit 
+S 645604,4 hit 
+S 645314,4 hit 
+S 645414,4 hit 
+S 645514,4 hit 
+S 645614,4 hit 
+L 603d60,4 miss eviction 
+L 603d64,4 hit 
+L 603d68,4 hit 
+L 603d6c,4 hit 
+L 603d70,4 hit 
+L 603d74,4 hit 
+L 603d78,4 hit 
+L 603d7c,4 hit 
+S 645308,4 hit 
+S 645408,4 hit 
+S 645508,4 hit 
+S 645608,4 hit 
+S 645318,4 hit 
+S 645418,4 hit 
+S 645518,4 hit 
+S 645618,4 hit 
+L 603e60,4 miss eviction 
+L 603e64,4 hit 
+L 603e68,4 hit 
+L 603e6c,4 hit 
+L 603e70,4 hit 
+L 603e74,4 hit 
+L 603e78,4 hit 
+L 603e7c,4 hit 
+S 64530c,4 hit 
+S 64540c,4 hit 
+S 64550c,4 hit 
+S 64560c,4 hit 
+S 64531c,4 hit 
+S 64541c,4 hit 
+S 64551c,4 hit 
+S 64561c,4 hit 
+L 603f60,4 miss eviction 
+L 604060,4 miss eviction 
+L 604160,4 miss eviction 
+L 604260,4 miss eviction 
+L 645310,4 hit 
+L 645314,4 hit 
+L 645318,4 hit 
+L 64531c,4 hit 
+S 645310,4 hit 
+S 645314,4 hit 
+S 645318,4 hit 
+S 64531c,4 hit 
+S 645700,4 miss eviction 
+S 645704,4 hit 
+S 645708,4 hit 
+S 64570c,4 hit 
+L 603f70,4 hit 
+S 645710,4 hit 
+L 604070,4 hit 
+S 645714,4 hit 
+L 604170,4 hit 
+S 645718,4 hit 
+L 604270,4 hit 
+S 64571c,4 hit 
+L 603f64,4 hit 
+L 604064,4 hit 
+L 604164,4 hit 
+L 604264,4 hit 
+L 645410,4 hit 
+L 645414,4 hit 
+L 645418,4 hit 
+L 64541c,4 hit 
+S 645410,4 hit 
+S 645414,4 hit 
+S 645418,4 hit 
+S 64541c,4 hit 
+S 645800,4 miss eviction 
+S 645804,4 hit 
+S 645808,4 hit 
+S 64580c,4 hit 
+L 603f74,4 hit 
+S 645810,4 hit 
+L 604074,4 hit 
+S 645814,4 hit 
+L 604174,4 hit 
+S 645818,4 hit 
+L 604274,4 hit 
+S 64581c,4 hit 
+L 603f68,4 hit 
+L 604068,4 hit 
+L 604168,4 hit 
+L 604268,4 hit 
+L 645510,4 hit 
+L 645514,4 hit 
+L 645518,4 hit 
+L 64551c,4 hit 
+S 645510,4 hit 
+S 645514,4 hit 
+S 645518,4 hit 
+S 64551c,4 hit 
+S 645900,4 miss eviction 
+S 645904,4 hit 
+S 645908,4 hit 
+S 64590c,4 hit 
+L 603f78,4 hit 
+S 645910,4 hit 
+L 604078,4 hit 
+S 645914,4 hit 
+L 604178,4 hit 
+S 645918,4 hit 
+L 604278,4 hit 
+S 64591c,4 hit 
+L 603f6c,4 hit 
+L 60406c,4 hit 
+L 60416c,4 hit 
+L 60426c,4 hit 
+L 645610,4 hit 
+L 645614,4 hit 
+L 645618,4 hit 
+L 64561c,4 hit 
+S 645610,4 hit 
+S 645614,4 hit 
+S 645618,4 hit 
+S 64561c,4 hit 
+S 645a00,4 miss eviction 
+S 645a04,4 hit 
+S 645a08,4 hit 
+S 645a0c,4 hit 
+L 603f7c,4 hit 
+S 645a10,4 hit 
+L 60407c,4 hit 
+S 645a14,4 hit 
+L 60417c,4 hit 
+S 645a18,4 hit 
+L 60427c,4 hit 
+S 645a1c,4 hit 
+L 603b80,4 miss eviction 
+L 603b84,4 hit 
+L 603b88,4 hit 
+L 603b8c,4 hit 
+L 603b90,4 hit 
+L 603b94,4 hit 
+L 603b98,4 hit 
+L 603b9c,4 hit 
+S 645b00,4 miss eviction 
+S 645c00,4 miss eviction 
+S 645d00,4 miss eviction 
+S 645e00,4 miss eviction 
+S 645b10,4 hit 
+S 645c10,4 hit 
+S 645d10,4 hit 
+S 645e10,4 hit 
+L 603c80,4 miss eviction 
+L 603c84,4 hit 
+L 603c88,4 hit 
+L 603c8c,4 hit 
+L 603c90,4 hit 
+L 603c94,4 hit 
+L 603c98,4 hit 
+L 603c9c,4 hit 
+S 645b04,4 hit 
+S 645c04,4 hit 
+S 645d04,4 hit 
+S 645e04,4 hit 
+S 645b14,4 hit 
+S 645c14,4 hit 
+S 645d14,4 hit 
+S 645e14,4 hit 
+L 603d80,4 miss eviction 
+L 603d84,4 hit 
+L 603d88,4 hit 
+L 603d8c,4 hit 
+L 603d90,4 hit 
+L 603d94,4 hit 
+L 603d98,4 hit 
+L 603d9c,4 hit 
+S 645b08,4 hit 
+S 645c08,4 hit 
+S 645d08,4 hit 
+S 645e08,4 hit 
+S 645b18,4 hit 
+S 645c18,4 hit 
+S 645d18,4 hit 
+S 645e18,4 hit 
+L 603e80,4 miss eviction 
+L 603e84,4 hit 
+L 603e88,4 hit 
+L 603e8c,4 hit 
+L 603e90,4 hit 
+L 603e94,4 hit 
+L 603e98,4 hit 
+L 603e9c,4 hit 
+S 645b0c,4 hit 
+S 645c0c,4 hit 
+S 645d0c,4 hit 
+S 645e0c,4 hit 
+S 645b1c,4 hit 
+S 645c1c,4 hit 
+S 645d1c,4 hit 
+S 645e1c,4 hit 
+L 603f80,4 miss eviction 
+L 604080,4 miss eviction 
+L 604180,4 miss eviction 
+L 604280,4 miss eviction 
+L 645b10,4 hit 
+L 645b14,4 hit 
+L 645b18,4 hit 
+L 645b1c,4 hit 
+S 645b10,4 hit 
+S 645b14,4 hit 
+S 645b18,4 hit 
+S 645b1c,4 hit 
+S 645f00,4 miss eviction 
+S 645f04,4 hit 
+S 645f08,4 hit 
+S 645f0c,4 hit 
+L 603f90,4 hit 
+S 645f10,4 hit 
+L 604090,4 hit 
+S 645f14,4 hit 
+L 604190,4 hit 
+S 645f18,4 hit 
+L 604290,4 hit 
+S 645f1c,4 hit 
+L 603f84,4 hit 
+L 604084,4 hit 
+L 604184,4 hit 
+L 604284,4 hit 
+L 645c10,4 hit 
+L 645c14,4 hit 
+L 645c18,4 hit 
+L 645c1c,4 hit 
+S 645c10,4 hit 
+S 645c14,4 hit 
+S 645c18,4 hit 
+S 645c1c,4 hit 
+S 646000,4 miss eviction 
+S 646004,4 hit 
+S 646008,4 hit 
+S 64600c,4 hit 
+L 603f94,4 hit 
+S 646010,4 hit 
+L 604094,4 hit 
+S 646014,4 hit 
+L 604194,4 hit 
+S 646018,4 hit 
+L 604294,4 hit 
+S 64601c,4 hit 
+L 603f88,4 hit 
+L 604088,4 hit 
+L 604188,4 hit 
+L 604288,4 hit 
+L 645d10,4 hit 
+L 645d14,4 hit 
+L 645d18,4 hit 
+L 645d1c,4 hit 
+S 645d10,4 hit 
+S 645d14,4 hit 
+S 645d18,4 hit 
+S 645d1c,4 hit 
+S 646100,4 miss eviction 
+S 646104,4 hit 
+S 646108,4 hit 
+S 64610c,4 hit 
+L 603f98,4 hit 
+S 646110,4 hit 
+L 604098,4 hit 
+S 646114,4 hit 
+L 604198,4 hit 
+S 646118,4 hit 
+L 604298,4 hit 
+S 64611c,4 hit 
+L 603f8c,4 hit 
+L 60408c,4 hit 
+L 60418c,4 hit 
+L 60428c,4 hit 
+L 645e10,4 hit 
+L 645e14,4 hit 
+L 645e18,4 hit 
+L 645e1c,4 hit 
+S 645e10,4 hit 
+S 645e14,4 hit 
+S 645e18,4 hit 
+S 645e1c,4 hit 
+S 646200,4 miss eviction 
+S 646204,4 hit 
+S 646208,4 hit 
+S 64620c,4 hit 
+L 603f9c,4 hit 
+S 646210,4 hit 
+L 60409c,4 hit 
+S 646214,4 hit 
+L 60419c,4 hit 
+S 646218,4 hit 
+L 60429c,4 hit 
+S 64621c,4 hit 
+L 603ba0,4 miss eviction 
+L 603ba4,4 hit 
+L 603ba8,4 hit 
+L 603bac,4 hit 
+L 603bb0,4 hit 
+L 603bb4,4 hit 
+L 603bb8,4 hit 
+L 603bbc,4 hit 
+S 646300,4 miss eviction 
+S 646400,4 miss eviction 
+S 646500,4 miss eviction 
+S 646600,4 miss eviction 
+S 646310,4 hit 
+S 646410,4 hit 
+S 646510,4 hit 
+S 646610,4 hit 
+L 603ca0,4 miss eviction 
+L 603ca4,4 hit 
+L 603ca8,4 hit 
+L 603cac,4 hit 
+L 603cb0,4 hit 
+L 603cb4,4 hit 
+L 603cb8,4 hit 
+L 603cbc,4 hit 
+S 646304,4 hit 
+S 646404,4 hit 
+S 646504,4 hit 
+S 646604,4 hit 
+S 646314,4 hit 
+S 646414,4 hit 
+S 646514,4 hit 
+S 646614,4 hit 
+L 603da0,4 miss eviction 
+L 603da4,4 hit 
+L 603da8,4 hit 
+L 603dac,4 hit 
+L 603db0,4 hit 
+L 603db4,4 hit 
+L 603db8,4 hit 
+L 603dbc,4 hit 
+S 646308,4 hit 
+S 646408,4 hit 
+S 646508,4 hit 
+S 646608,4 hit 
+S 646318,4 hit 
+S 646418,4 hit 
+S 646518,4 hit 
+S 646618,4 hit 
+L 603ea0,4 miss eviction 
+L 603ea4,4 hit 
+L 603ea8,4 hit 
+L 603eac,4 hit 
+L 603eb0,4 hit 
+L 603eb4,4 hit 
+L 603eb8,4 hit 
+L 603ebc,4 hit 
+S 64630c,4 hit 
+S 64640c,4 hit 
+S 64650c,4 hit 
+S 64660c,4 hit 
+S 64631c,4 hit 
+S 64641c,4 hit 
+S 64651c,4 hit 
+S 64661c,4 hit 
+L 603fa0,4 miss eviction 
+L 6040a0,4 miss eviction 
+L 6041a0,4 miss eviction 
+L 6042a0,4 miss eviction 
+L 646310,4 hit 
+L 646314,4 hit 
+L 646318,4 hit 
+L 64631c,4 hit 
+S 646310,4 hit 
+S 646314,4 hit 
+S 646318,4 hit 
+S 64631c,4 hit 
+S 646700,4 miss eviction 
+S 646704,4 hit 
+S 646708,4 hit 
+S 64670c,4 hit 
+L 603fb0,4 hit 
+S 646710,4 hit 
+L 6040b0,4 hit 
+S 646714,4 hit 
+L 6041b0,4 hit 
+S 646718,4 hit 
+L 6042b0,4 hit 
+S 64671c,4 hit 
+L 603fa4,4 hit 
+L 6040a4,4 hit 
+L 6041a4,4 hit 
+L 6042a4,4 hit 
+L 646410,4 hit 
+L 646414,4 hit 
+L 646418,4 hit 
+L 64641c,4 hit 
+S 646410,4 hit 
+S 646414,4 hit 
+S 646418,4 hit 
+S 64641c,4 hit 
+S 646800,4 miss eviction 
+S 646804,4 hit 
+S 646808,4 hit 
+S 64680c,4 hit 
+L 603fb4,4 hit 
+S 646810,4 hit 
+L 6040b4,4 hit 
+S 646814,4 hit 
+L 6041b4,4 hit 
+S 646818,4 hit 
+L 6042b4,4 hit 
+S 64681c,4 hit 
+L 603fa8,4 hit 
+L 6040a8,4 hit 
+L 6041a8,4 hit 
+L 6042a8,4 hit 
+L 646510,4 hit 
+L 646514,4 hit 
+L 646518,4 hit 
+L 64651c,4 hit 
+S 646510,4 hit 
+S 646514,4 hit 
+S 646518,4 hit 
+S 64651c,4 hit 
+S 646900,4 miss eviction 
+S 646904,4 hit 
+S 646908,4 hit 
+S 64690c,4 hit 
+L 603fb8,4 hit 
+S 646910,4 hit 
+L 6040b8,4 hit 
+S 646914,4 hit 
+L 6041b8,4 hit 
+S 646918,4 hit 
+L 6042b8,4 hit 
+S 64691c,4 hit 
+L 603fac,4 hit 
+L 6040ac,4 hit 
+L 6041ac,4 hit 
+L 6042ac,4 hit 
+L 646610,4 hit 
+L 646614,4 hit 
+L 646618,4 hit 
+L 64661c,4 hit 
+S 646610,4 hit 
+S 646614,4 hit 
+S 646618,4 hit 
+S 64661c,4 hit 
+S 646a00,4 miss eviction 
+S 646a04,4 hit 
+S 646a08,4 hit 
+S 646a0c,4 hit 
+L 603fbc,4 hit 
+S 646a10,4 hit 
+L 6040bc,4 hit 
+S 646a14,4 hit 
+L 6041bc,4 hit 
+S 646a18,4 hit 
+L 6042bc,4 hit 
+S 646a1c,4 hit 
+L 603bc0,4 miss eviction 
+L 603bc4,4 hit 
+L 603bc8,4 hit 
+L 603bcc,4 hit 
+L 603bd0,4 hit 
+L 603bd4,4 hit 
+L 603bd8,4 hit 
+L 603bdc,4 hit 
+S 646b00,4 miss eviction 
+S 646c00,4 miss eviction 
+S 646d00,4 miss eviction 
+S 646e00,4 miss eviction 
+S 646b10,4 hit 
+S 646c10,4 hit 
+S 646d10,4 hit 
+S 646e10,4 hit 
+L 603cc0,4 miss eviction 
+L 603cc4,4 hit 
+L 603cc8,4 hit 
+L 603ccc,4 hit 
+L 603cd0,4 hit 
+L 603cd4,4 hit 
+L 603cd8,4 hit 
+L 603cdc,4 hit 
+S 646b04,4 hit 
+S 646c04,4 hit 
+S 646d04,4 hit 
+S 646e04,4 hit 
+S 646b14,4 hit 
+S 646c14,4 hit 
+S 646d14,4 hit 
+S 646e14,4 hit 
+L 603dc0,4 miss eviction 
+L 603dc4,4 hit 
+L 603dc8,4 hit 
+L 603dcc,4 hit 
+L 603dd0,4 hit 
+L 603dd4,4 hit 
+L 603dd8,4 hit 
+L 603ddc,4 hit 
+S 646b08,4 hit 
+S 646c08,4 hit 
+S 646d08,4 hit 
+S 646e08,4 hit 
+S 646b18,4 hit 
+S 646c18,4 hit 
+S 646d18,4 hit 
+S 646e18,4 hit 
+L 603ec0,4 miss eviction 
+L 603ec4,4 hit 
+L 603ec8,4 hit 
+L 603ecc,4 hit 
+L 603ed0,4 hit 
+L 603ed4,4 hit 
+L 603ed8,4 hit 
+L 603edc,4 hit 
+S 646b0c,4 hit 
+S 646c0c,4 hit 
+S 646d0c,4 hit 
+S 646e0c,4 hit 
+S 646b1c,4 hit 
+S 646c1c,4 hit 
+S 646d1c,4 hit 
+S 646e1c,4 hit 
+L 603fc0,4 miss eviction 
+L 6040c0,4 miss eviction 
+L 6041c0,4 miss eviction 
+L 6042c0,4 miss eviction 
+L 646b10,4 hit 
+L 646b14,4 hit 
+L 646b18,4 hit 
+L 646b1c,4 hit 
+S 646b10,4 hit 
+S 646b14,4 hit 
+S 646b18,4 hit 
+S 646b1c,4 hit 
+S 646f00,4 miss eviction 
+S 646f04,4 hit 
+S 646f08,4 hit 
+S 646f0c,4 hit 
+L 603fd0,4 hit 
+S 646f10,4 hit 
+L 6040d0,4 hit 
+S 646f14,4 hit 
+L 6041d0,4 hit 
+S 646f18,4 hit 
+L 6042d0,4 hit 
+S 646f1c,4 hit 
+L 603fc4,4 hit 
+L 6040c4,4 hit 
+L 6041c4,4 hit 
+L 6042c4,4 hit 
+L 646c10,4 hit 
+L 646c14,4 hit 
+L 646c18,4 hit 
+L 646c1c,4 hit 
+S 646c10,4 hit 
+S 646c14,4 hit 
+S 646c18,4 hit 
+S 646c1c,4 hit 
+S 647000,4 miss eviction 
+S 647004,4 hit 
+S 647008,4 hit 
+S 64700c,4 hit 
+L 603fd4,4 hit 
+S 647010,4 hit 
+L 6040d4,4 hit 
+S 647014,4 hit 
+L 6041d4,4 hit 
+S 647018,4 hit 
+L 6042d4,4 hit 
+S 64701c,4 hit 
+L 603fc8,4 hit 
+L 6040c8,4 hit 
+L 6041c8,4 hit 
+L 6042c8,4 hit 
+L 646d10,4 hit 
+L 646d14,4 hit 
+L 646d18,4 hit 
+L 646d1c,4 hit 
+S 646d10,4 hit 
+S 646d14,4 hit 
+S 646d18,4 hit 
+S 646d1c,4 hit 
+S 647100,4 miss eviction 
+S 647104,4 hit 
+S 647108,4 hit 
+S 64710c,4 hit 
+L 603fd8,4 hit 
+S 647110,4 hit 
+L 6040d8,4 hit 
+S 647114,4 hit 
+L 6041d8,4 hit 
+S 647118,4 hit 
+L 6042d8,4 hit 
+S 64711c,4 hit 
+L 603fcc,4 hit 
+L 6040cc,4 hit 
+L 6041cc,4 hit 
+L 6042cc,4 hit 
+L 646e10,4 hit 
+L 646e14,4 hit 
+L 646e18,4 hit 
+L 646e1c,4 hit 
+S 646e10,4 hit 
+S 646e14,4 hit 
+S 646e18,4 hit 
+S 646e1c,4 hit 
+S 647200,4 miss eviction 
+S 647204,4 hit 
+S 647208,4 hit 
+S 64720c,4 hit 
+L 603fdc,4 hit 
+S 647210,4 hit 
+L 6040dc,4 hit 
+S 647214,4 hit 
+L 6041dc,4 hit 
+S 647218,4 hit 
+L 6042dc,4 hit 
+S 64721c,4 hit 
+L 6042e0,4 miss eviction 
+L 6042e4,4 hit 
+L 6042e8,4 hit 
+L 6042ec,4 hit 
+L 6042f0,4 hit 
+L 6042f4,4 hit 
+L 6042f8,4 hit 
+L 6042fc,4 hit 
+S 643320,4 miss eviction 
+S 643420,4 miss eviction 
+S 643520,4 miss eviction 
+S 643620,4 miss eviction 
+S 643330,4 hit 
+S 643430,4 hit 
+S 643530,4 hit 
+S 643630,4 hit 
+L 6043e0,4 miss eviction 
+L 6043e4,4 hit 
+L 6043e8,4 hit 
+L 6043ec,4 hit 
+L 6043f0,4 hit 
+L 6043f4,4 hit 
+L 6043f8,4 hit 
+L 6043fc,4 hit 
+S 643324,4 hit 
+S 643424,4 hit 
+S 643524,4 hit 
+S 643624,4 hit 
+S 643334,4 hit 
+S 643434,4 hit 
+S 643534,4 hit 
+S 643634,4 hit 
+L 6044e0,4 miss eviction 
+L 6044e4,4 hit 
+L 6044e8,4 hit 
+L 6044ec,4 hit 
+L 6044f0,4 hit 
+L 6044f4,4 hit 
+L 6044f8,4 hit 
+L 6044fc,4 hit 
+S 643328,4 hit 
+S 643428,4 hit 
+S 643528,4 hit 
+S 643628,4 hit 
+S 643338,4 hit 
+S 643438,4 hit 
+S 643538,4 hit 
+S 643638,4 hit 
+L 6045e0,4 miss eviction 
+L 6045e4,4 hit 
+L 6045e8,4 hit 
+L 6045ec,4 hit 
+L 6045f0,4 hit 
+L 6045f4,4 hit 
+L 6045f8,4 hit 
+L 6045fc,4 hit 
+S 64332c,4 hit 
+S 64342c,4 hit 
+S 64352c,4 hit 
+S 64362c,4 hit 
+S 64333c,4 hit 
+S 64343c,4 hit 
+S 64353c,4 hit 
+S 64363c,4 hit 
+L 6046e0,4 miss eviction 
+L 6047e0,4 miss eviction 
+L 6048e0,4 miss eviction 
+L 6049e0,4 miss eviction 
+L 643330,4 hit 
+L 643334,4 hit 
+L 643338,4 hit 
+L 64333c,4 hit 
+S 643330,4 hit 
+S 643334,4 hit 
+S 643338,4 hit 
+S 64333c,4 hit 
+S 643720,4 miss eviction 
+S 643724,4 hit 
+S 643728,4 hit 
+S 64372c,4 hit 
+L 6046f0,4 hit 
+S 643730,4 hit 
+L 6047f0,4 hit 
+S 643734,4 hit 
+L 6048f0,4 hit 
+S 643738,4 hit 
+L 6049f0,4 hit 
+S 64373c,4 hit 
+L 6046e4,4 hit 
+L 6047e4,4 hit 
+L 6048e4,4 hit 
+L 6049e4,4 hit 
+L 643430,4 hit 
+L 643434,4 hit 
+L 643438,4 hit 
+L 64343c,4 hit 
+S 643430,4 hit 
+S 643434,4 hit 
+S 643438,4 hit 
+S 64343c,4 hit 
+S 643820,4 miss eviction 
+S 643824,4 hit 
+S 643828,4 hit 
+S 64382c,4 hit 
+L 6046f4,4 hit 
+S 643830,4 hit 
+L 6047f4,4 hit 
+S 643834,4 hit 
+L 6048f4,4 hit 
+S 643838,4 hit 
+L 6049f4,4 hit 
+S 64383c,4 hit 
+L 6046e8,4 hit 
+L 6047e8,4 hit 
+L 6048e8,4 hit 
+L 6049e8,4 hit 
+L 643530,4 hit 
+L 643534,4 hit 
+L 643538,4 hit 
+L 64353c,4 hit 
+S 643530,4 hit 
+S 643534,4 hit 
+S 643538,4 hit 
+S 64353c,4 hit 
+S 643920,4 miss eviction 
+S 643924,4 hit 
+S 643928,4 hit 
+S 64392c,4 hit 
+L 6046f8,4 hit 
+S 643930,4 hit 
+L 6047f8,4 hit 
+S 643934,4 hit 
+L 6048f8,4 hit 
+S 643938,4 hit 
+L 6049f8,4 hit 
+S 64393c,4 hit 
+L 6046ec,4 hit 
+L 6047ec,4 hit 
+L 6048ec,4 hit 
+L 6049ec,4 hit 
+L 643630,4 hit 
+L 643634,4 hit 
+L 643638,4 hit 
+L 64363c,4 hit 
+S 643630,4 hit 
+S 643634,4 hit 
+S 643638,4 hit 
+S 64363c,4 hit 
+S 643a20,4 miss eviction 
+S 643a24,4 hit 
+S 643a28,4 hit 
+S 643a2c,4 hit 
+L 6046fc,4 hit 
+S 643a30,4 hit 
+L 6047fc,4 hit 
+S 643a34,4 hit 
+L 6048fc,4 hit 
+S 643a38,4 hit 
+L 6049fc,4 hit 
+S 643a3c,4 hit 
+L 604300,4 miss eviction 
+L 604304,4 hit 
+L 604308,4 hit 
+L 60430c,4 hit 
+L 604310,4 hit 
+L 604314,4 hit 
+L 604318,4 hit 
+L 60431c,4 hit 
+S 643b20,4 miss eviction 
+S 643c20,4 miss eviction 
+S 643d20,4 miss eviction 
+S 643e20,4 miss eviction 
+S 643b30,4 hit 
+S 643c30,4 hit 
+S 643d30,4 hit 
+S 643e30,4 hit 
+L 604400,4 miss eviction 
+L 604404,4 hit 
+L 604408,4 hit 
+L 60440c,4 hit 
+L 604410,4 hit 
+L 604414,4 hit 
+L 604418,4 hit 
+L 60441c,4 hit 
+S 643b24,4 hit 
+S 643c24,4 hit 
+S 643d24,4 hit 
+S 643e24,4 hit 
+S 643b34,4 hit 
+S 643c34,4 hit 
+S 643d34,4 hit 
+S 643e34,4 hit 
+L 604500,4 miss eviction 
+L 604504,4 hit 
+L 604508,4 hit 
+L 60450c,4 hit 
+L 604510,4 hit 
+L 604514,4 hit 
+L 604518,4 hit 
+L 60451c,4 hit 
+S 643b28,4 hit 
+S 643c28,4 hit 
+S 643d28,4 hit 
+S 643e28,4 hit 
+S 643b38,4 hit 
+S 643c38,4 hit 
+S 643d38,4 hit 
+S 643e38,4 hit 
+L 604600,4 miss eviction 
+L 604604,4 hit 
+L 604608,4 hit 
+L 60460c,4 hit 
+L 604610,4 hit 
+L 604614,4 hit 
+L 604618,4 hit 
+L 60461c,4 hit 
+S 643b2c,4 hit 
+S 643c2c,4 hit 
+S 643d2c,4 hit 
+S 643e2c,4 hit 
+S 643b3c,4 hit 
+S 643c3c,4 hit 
+S 643d3c,4 hit 
+S 643e3c,4 hit 
+L 604700,4 miss eviction 
+L 604800,4 miss eviction 
+L 604900,4 miss eviction 
+L 604a00,4 miss eviction 
+L 643b30,4 hit 
+L 643b34,4 hit 
+L 643b38,4 hit 
+L 643b3c,4 hit 
+S 643b30,4 hit 
+S 643b34,4 hit 
+S 643b38,4 hit 
+S 643b3c,4 hit 
+S 643f20,4 miss eviction 
+S 643f24,4 hit 
+S 643f28,4 hit 
+S 643f2c,4 hit 
+L 604710,4 hit 
+S 643f30,4 hit 
+L 604810,4 hit 
+S 643f34,4 hit 
+L 604910,4 hit 
+S 643f38,4 hit 
+L 604a10,4 hit 
+S 643f3c,4 hit 
+L 604704,4 hit 
+L 604804,4 hit 
+L 604904,4 hit 
+L 604a04,4 hit 
+L 643c30,4 hit 
+L 643c34,4 hit 
+L 643c38,4 hit 
+L 643c3c,4 hit 
+S 643c30,4 hit 
+S 643c34,4 hit 
+S 643c38,4 hit 
+S 643c3c,4 hit 
+S 644020,4 miss eviction 
+S 644024,4 hit 
+S 644028,4 hit 
+S 64402c,4 hit 
+L 604714,4 hit 
+S 644030,4 hit 
+L 604814,4 hit 
+S 644034,4 hit 
+L 604914,4 hit 
+S 644038,4 hit 
+L 604a14,4 hit 
+S 64403c,4 hit 
+L 604708,4 hit 
+L 604808,4 hit 
+L 604908,4 hit 
+L 604a08,4 hit 
+L 643d30,4 hit 
+L 643d34,4 hit 
+L 643d38,4 hit 
+L 643d3c,4 hit 
+S 643d30,4 hit 
+S 643d34,4 hit 
+S 643d38,4 hit 
+S 643d3c,4 hit 
+S 644120,4 miss eviction 
+S 644124,4 hit 
+S 644128,4 hit 
+S 64412c,4 hit 
+L 604718,4 hit 
+S 644130,4 hit 
+L 604818,4 hit 
+S 644134,4 hit 
+L 604918,4 hit 
+S 644138,4 hit 
+L 604a18,4 hit 
+S 64413c,4 hit 
+L 60470c,4 hit 
+L 60480c,4 hit 
+L 60490c,4 hit 
+L 604a0c,4 hit 
+L 643e30,4 hit 
+L 643e34,4 hit 
+L 643e38,4 hit 
+L 643e3c,4 hit 
+S 643e30,4 hit 
+S 643e34,4 hit 
+S 643e38,4 hit 
+S 643e3c,4 hit 
+S 644220,4 miss eviction 
+S 644224,4 hit 
+S 644228,4 hit 
+S 64422c,4 hit 
+L 60471c,4 hit 
+S 644230,4 hit 
+L 60481c,4 hit 
+S 644234,4 hit 
+L 60491c,4 hit 
+S 644238,4 hit 
+L 604a1c,4 hit 
+S 64423c,4 hit 
+L 604320,4 miss eviction 
+L 604324,4 hit 
+L 604328,4 hit 
+L 60432c,4 hit 
+L 604330,4 hit 
+L 604334,4 hit 
+L 604338,4 hit 
+L 60433c,4 hit 
+S 644320,4 miss eviction 
+S 644420,4 miss eviction 
+S 644520,4 miss eviction 
+S 644620,4 miss eviction 
+S 644330,4 hit 
+S 644430,4 hit 
+S 644530,4 hit 
+S 644630,4 hit 
+L 604420,4 miss eviction 
+L 604424,4 hit 
+L 604428,4 hit 
+L 60442c,4 hit 
+L 604430,4 hit 
+L 604434,4 hit 
+L 604438,4 hit 
+L 60443c,4 hit 
+S 644324,4 hit 
+S 644424,4 miss eviction 
+S 644524,4 hit 
+S 644624,4 hit 
+S 644334,4 hit 
+S 644434,4 hit 
+S 644534,4 hit 
+S 644634,4 hit 
+L 604520,4 miss eviction 
+L 604524,4 hit 
+L 604528,4 hit 
+L 60452c,4 hit 
+L 604530,4 hit 
+L 604534,4 hit 
+L 604538,4 hit 
+L 60453c,4 hit 
+S 644328,4 hit 
+S 644428,4 hit 
+S 644528,4 miss eviction 
+S 644628,4 hit 
+S 644338,4 hit 
+S 644438,4 hit 
+S 644538,4 hit 
+S 644638,4 hit 
+L 604620,4 miss eviction 
+L 604624,4 hit 
+L 604628,4 hit 
+L 60462c,4 hit 
+L 604630,4 hit 
+L 604634,4 hit 
+L 604638,4 hit 
+L 60463c,4 hit 
+S 64432c,4 hit 
+S 64442c,4 hit 
+S 64452c,4 hit 
+S 64462c,4 miss eviction 
+S 64433c,4 hit 
+S 64443c,4 hit 
+S 64453c,4 hit 
+S 64463c,4 hit 
+L 604720,4 miss eviction 
+L 604820,4 miss eviction 
+L 604920,4 miss eviction 
+L 604a20,4 miss eviction 
+L 644330,4 miss eviction 
+L 644334,4 hit 
+L 644338,4 hit 
+L 64433c,4 hit 
+S 644330,4 hit 
+S 644334,4 hit 
+S 644338,4 hit 
+S 64433c,4 hit 
+S 644720,4 miss eviction 
+S 644724,4 hit 
+S 644728,4 hit 
+S 64472c,4 hit 
+L 604730,4 miss eviction 
+S 644730,4 miss eviction 
+L 604830,4 hit 
+S 644734,4 hit 
+L 604930,4 hit 
+S 644738,4 hit 
+L 604a30,4 hit 
+S 64473c,4 hit 
+L 604724,4 miss eviction 
+L 604824,4 hit 
+L 604924,4 hit 
+L 604a24,4 hit 
+L 644430,4 miss eviction 
+L 644434,4 hit 
+L 644438,4 hit 
+L 64443c,4 hit 
+S 644430,4 hit 
+S 644434,4 hit 
+S 644438,4 hit 
+S 64443c,4 hit 
+S 644820,4 miss eviction 
+S 644824,4 hit 
+S 644828,4 hit 
+S 64482c,4 hit 
+L 604734,4 hit 
+S 644830,4 hit 
+L 604834,4 miss eviction 
+S 644834,4 miss eviction 
+L 604934,4 hit 
+S 644838,4 hit 
+L 604a34,4 hit 
+S 64483c,4 hit 
+L 604728,4 hit 
+L 604828,4 miss eviction 
+L 604928,4 hit 
+L 604a28,4 hit 
+L 644530,4 miss eviction 
+L 644534,4 hit 
+L 644538,4 hit 
+L 64453c,4 hit 
+S 644530,4 hit 
+S 644534,4 hit 
+S 644538,4 hit 
+S 64453c,4 hit 
+S 644920,4 miss eviction 
+S 644924,4 hit 
+S 644928,4 hit 
+S 64492c,4 hit 
+L 604738,4 hit 
+S 644930,4 hit 
+L 604838,4 hit 
+S 644934,4 hit 
+L 604938,4 miss eviction 
+S 644938,4 miss eviction 
+L 604a38,4 hit 
+S 64493c,4 hit 
+L 60472c,4 hit 
+L 60482c,4 hit 
+L 60492c,4 miss eviction 
+L 604a2c,4 hit 
+L 644630,4 miss eviction 
+L 644634,4 hit 
+L 644638,4 hit 
+L 64463c,4 hit 
+S 644630,4 hit 
+S 644634,4 hit 
+S 644638,4 hit 
+S 64463c,4 hit 
+S 644a20,4 miss eviction 
+S 644a24,4 hit 
+S 644a28,4 hit 
+S 644a2c,4 hit 
+L 60473c,4 hit 
+S 644a30,4 hit 
+L 60483c,4 hit 
+S 644a34,4 hit 
+L 60493c,4 hit 
+S 644a38,4 hit 
+L 604a3c,4 miss eviction 
+S 644a3c,4 miss eviction 
+L 604340,4 miss eviction 
+L 604344,4 hit 
+L 604348,4 hit 
+L 60434c,4 hit 
+L 604350,4 hit 
+L 604354,4 hit 
+L 604358,4 hit 
+L 60435c,4 hit 
+S 644b20,4 miss eviction 
+S 644c20,4 miss eviction 
+S 644d20,4 miss eviction 
+S 644e20,4 miss eviction 
+S 644b30,4 hit 
+S 644c30,4 hit 
+S 644d30,4 hit 
+S 644e30,4 hit 
+L 604440,4 miss eviction 
+L 604444,4 hit 
+L 604448,4 hit 
+L 60444c,4 hit 
+L 604450,4 hit 
+L 604454,4 hit 
+L 604458,4 hit 
+L 60445c,4 hit 
+S 644b24,4 hit 
+S 644c24,4 hit 
+S 644d24,4 hit 
+S 644e24,4 hit 
+S 644b34,4 hit 
+S 644c34,4 hit 
+S 644d34,4 hit 
+S 644e34,4 hit 
+L 604540,4 miss eviction 
+L 604544,4 hit 
+L 604548,4 hit 
+L 60454c,4 hit 
+L 604550,4 hit 
+L 604554,4 hit 
+L 604558,4 hit 
+L 60455c,4 hit 
+S 644b28,4 hit 
+S 644c28,4 hit 
+S 644d28,4 hit 
+S 644e28,4 hit 
+S 644b38,4 hit 
+S 644c38,4 hit 
+S 644d38,4 hit 
+S 644e38,4 hit 
+L 604640,4 miss eviction 
+L 604644,4 hit 
+L 604648,4 hit 
+L 60464c,4 hit 
+L 604650,4 hit 
+L 604654,4 hit 
+L 604658,4 hit 
+L 60465c,4 hit 
+S 644b2c,4 hit 
+S 644c2c,4 hit 
+S 644d2c,4 hit 
+S 644e2c,4 hit 
+S 644b3c,4 hit 
+S 644c3c,4 hit 
+S 644d3c,4 hit 
+S 644e3c,4 hit 
+L 604740,4 miss eviction 
+L 604840,4 miss eviction 
+L 604940,4 miss eviction 
+L 604a40,4 miss eviction 
+L 644b30,4 hit 
+L 644b34,4 hit 
+L 644b38,4 hit 
+L 644b3c,4 hit 
+S 644b30,4 hit 
+S 644b34,4 hit 
+S 644b38,4 hit 
+S 644b3c,4 hit 
+S 644f20,4 miss eviction 
+S 644f24,4 hit 
+S 644f28,4 hit 
+S 644f2c,4 hit 
+L 604750,4 hit 
+S 644f30,4 hit 
+L 604850,4 hit 
+S 644f34,4 hit 
+L 604950,4 hit 
+S 644f38,4 hit 
+L 604a50,4 hit 
+S 644f3c,4 hit 
+L 604744,4 hit 
+L 604844,4 hit 
+L 604944,4 hit 
+L 604a44,4 hit 
+L 644c30,4 hit 
+L 644c34,4 hit 
+L 644c38,4 hit 
+L 644c3c,4 hit 
+S 644c30,4 hit 
+S 644c34,4 hit 
+S 644c38,4 hit 
+S 644c3c,4 hit 
+S 645020,4 miss eviction 
+S 645024,4 hit 
+S 645028,4 hit 
+S 64502c,4 hit 
+L 604754,4 hit 
+S 645030,4 hit 
+L 604854,4 hit 
+S 645034,4 hit 
+L 604954,4 hit 
+S 645038,4 hit 
+L 604a54,4 hit 
+S 64503c,4 hit 
+L 604748,4 hit 
+L 604848,4 hit 
+L 604948,4 hit 
+L 604a48,4 hit 
+L 644d30,4 hit 
+L 644d34,4 hit 
+L 644d38,4 hit 
+L 644d3c,4 hit 
+S 644d30,4 hit 
+S 644d34,4 hit 
+S 644d38,4 hit 
+S 644d3c,4 hit 
+S 645120,4 miss eviction 
+S 645124,4 hit 
+S 645128,4 hit 
+S 64512c,4 hit 
+L 604758,4 hit 
+S 645130,4 hit 
+L 604858,4 hit 
+S 645134,4 hit 
+L 604958,4 hit 
+S 645138,4 hit 
+L 604a58,4 hit 
+S 64513c,4 hit 
+L 60474c,4 hit 
+L 60484c,4 hit 
+L 60494c,4 hit 
+L 604a4c,4 hit 
+L 644e30,4 hit 
+L 644e34,4 hit 
+L 644e38,4 hit 
+L 644e3c,4 hit 
+S 644e30,4 hit 
+S 644e34,4 hit 
+S 644e38,4 hit 
+S 644e3c,4 hit 
+S 645220,4 miss eviction 
+S 645224,4 hit 
+S 645228,4 hit 
+S 64522c,4 hit 
+L 60475c,4 hit 
+S 645230,4 hit 
+L 60485c,4 hit 
+S 645234,4 hit 
+L 60495c,4 hit 
+S 645238,4 hit 
+L 604a5c,4 hit 
+S 64523c,4 hit 
+L 604360,4 miss eviction 
+L 604364,4 hit 
+L 604368,4 hit 
+L 60436c,4 hit 
+L 604370,4 hit 
+L 604374,4 hit 
+L 604378,4 hit 
+L 60437c,4 hit 
+S 645320,4 miss eviction 
+S 645420,4 miss eviction 
+S 645520,4 miss eviction 
+S 645620,4 miss eviction 
+S 645330,4 hit 
+S 645430,4 hit 
+S 645530,4 hit 
+S 645630,4 hit 
+L 604460,4 miss eviction 
+L 604464,4 hit 
+L 604468,4 hit 
+L 60446c,4 hit 
+L 604470,4 hit 
+L 604474,4 hit 
+L 604478,4 hit 
+L 60447c,4 hit 
+S 645324,4 hit 
+S 645424,4 hit 
+S 645524,4 hit 
+S 645624,4 hit 
+S 645334,4 hit 
+S 645434,4 hit 
+S 645534,4 hit 
+S 645634,4 hit 
+L 604560,4 miss eviction 
+L 604564,4 hit 
+L 604568,4 hit 
+L 60456c,4 hit 
+L 604570,4 hit 
+L 604574,4 hit 
+L 604578,4 hit 
+L 60457c,4 hit 
+S 645328,4 hit 
+S 645428,4 hit 
+S 645528,4 hit 
+S 645628,4 hit 
+S 645338,4 hit 
+S 645438,4 hit 
+S 645538,4 hit 
+S 645638,4 hit 
+L 604660,4 miss eviction 
+L 604664,4 hit 
+L 604668,4 hit 
+L 60466c,4 hit 
+L 604670,4 hit 
+L 604674,4 hit 
+L 604678,4 hit 
+L 60467c,4 hit 
+S 64532c,4 hit 
+S 64542c,4 hit 
+S 64552c,4 hit 
+S 64562c,4 hit 
+S 64533c,4 hit 
+S 64543c,4 hit 
+S 64553c,4 hit 
+S 64563c,4 hit 
+L 604760,4 miss eviction 
+L 604860,4 miss eviction 
+L 604960,4 miss eviction 
+L 604a60,4 miss eviction 
+L 645330,4 hit 
+L 645334,4 hit 
+L 645338,4 hit 
+L 64533c,4 hit 
+S 645330,4 hit 
+S 645334,4 hit 
+S 645338,4 hit 
+S 64533c,4 hit 
+S 645720,4 miss eviction 
+S 645724,4 hit 
+S 645728,4 hit 
+S 64572c,4 hit 
+L 604770,4 hit 
+S 645730,4 hit 
+L 604870,4 hit 
+S 645734,4 hit 
+L 604970,4 hit 
+S 645738,4 hit 
+L 604a70,4 hit 
+S 64573c,4 hit 
+L 604764,4 hit 
+L 604864,4 hit 
+L 604964,4 hit 
+L 604a64,4 hit 
+L 645430,4 hit 
+L 645434,4 hit 
+L 645438,4 hit 
+L 64543c,4 hit 
+S 645430,4 hit 
+S 645434,4 hit 
+S 645438,4 hit 
+S 64543c,4 hit 
+S 645820,4 miss eviction 
+S 645824,4 hit 
+S 645828,4 hit 
+S 64582c,4 hit 
+L 604774,4 hit 
+S 645830,4 hit 
+L 604874,4 hit 
+S 645834,4 hit 
+L 604974,4 hit 
+S 645838,4 hit 
+L 604a74,4 hit 
+S 64583c,4 hit 
+L 604768,4 hit 
+L 604868,4 hit 
+L 604968,4 hit 
+L 604a68,4 hit 
+L 645530,4 hit 
+L 645534,4 hit 
+L 645538,4 hit 
+L 64553c,4 hit 
+S 645530,4 hit 
+S 645534,4 hit 
+S 645538,4 hit 
+S 64553c,4 hit 
+S 645920,4 miss eviction 
+S 645924,4 hit 
+S 645928,4 hit 
+S 64592c,4 hit 
+L 604778,4 hit 
+S 645930,4 hit 
+L 604878,4 hit 
+S 645934,4 hit 
+L 604978,4 hit 
+S 645938,4 hit 
+L 604a78,4 hit 
+S 64593c,4 hit 
+L 60476c,4 hit 
+L 60486c,4 hit 
+L 60496c,4 hit 
+L 604a6c,4 hit 
+L 645630,4 hit 
+L 645634,4 hit 
+L 645638,4 hit 
+L 64563c,4 hit 
+S 645630,4 hit 
+S 645634,4 hit 
+S 645638,4 hit 
+S 64563c,4 hit 
+S 645a20,4 miss eviction 
+S 645a24,4 hit 
+S 645a28,4 hit 
+S 645a2c,4 hit 
+L 60477c,4 hit 
+S 645a30,4 hit 
+L 60487c,4 hit 
+S 645a34,4 hit 
+L 60497c,4 hit 
+S 645a38,4 hit 
+L 604a7c,4 hit 
+S 645a3c,4 hit 
+L 604380,4 miss eviction 
+L 604384,4 hit 
+L 604388,4 hit 
+L 60438c,4 hit 
+L 604390,4 hit 
+L 604394,4 hit 
+L 604398,4 hit 
+L 60439c,4 hit 
+S 645b20,4 miss eviction 
+S 645c20,4 miss eviction 
+S 645d20,4 miss eviction 
+S 645e20,4 miss eviction 
+S 645b30,4 hit 
+S 645c30,4 hit 
+S 645d30,4 hit 
+S 645e30,4 hit 
+L 604480,4 miss eviction 
+L 604484,4 hit 
+L 604488,4 hit 
+L 60448c,4 hit 
+L 604490,4 hit 
+L 604494,4 hit 
+L 604498,4 hit 
+L 60449c,4 hit 
+S 645b24,4 hit 
+S 645c24,4 hit 
+S 645d24,4 hit 
+S 645e24,4 hit 
+S 645b34,4 hit 
+S 645c34,4 hit 
+S 645d34,4 hit 
+S 645e34,4 hit 
+L 604580,4 miss eviction 
+L 604584,4 hit 
+L 604588,4 hit 
+L 60458c,4 hit 
+L 604590,4 hit 
+L 604594,4 hit 
+L 604598,4 hit 
+L 60459c,4 hit 
+S 645b28,4 hit 
+S 645c28,4 hit 
+S 645d28,4 hit 
+S 645e28,4 hit 
+S 645b38,4 hit 
+S 645c38,4 hit 
+S 645d38,4 hit 
+S 645e38,4 hit 
+L 604680,4 miss eviction 
+L 604684,4 hit 
+L 604688,4 hit 
+L 60468c,4 hit 
+L 604690,4 hit 
+L 604694,4 hit 
+L 604698,4 hit 
+L 60469c,4 hit 
+S 645b2c,4 hit 
+S 645c2c,4 hit 
+S 645d2c,4 hit 
+S 645e2c,4 hit 
+S 645b3c,4 hit 
+S 645c3c,4 hit 
+S 645d3c,4 hit 
+S 645e3c,4 hit 
+L 604780,4 miss eviction 
+L 604880,4 miss eviction 
+L 604980,4 miss eviction 
+L 604a80,4 miss eviction 
+L 645b30,4 hit 
+L 645b34,4 hit 
+L 645b38,4 hit 
+L 645b3c,4 hit 
+S 645b30,4 hit 
+S 645b34,4 hit 
+S 645b38,4 hit 
+S 645b3c,4 hit 
+S 645f20,4 miss eviction 
+S 645f24,4 hit 
+S 645f28,4 hit 
+S 645f2c,4 hit 
+L 604790,4 hit 
+S 645f30,4 hit 
+L 604890,4 hit 
+S 645f34,4 hit 
+L 604990,4 hit 
+S 645f38,4 hit 
+L 604a90,4 hit 
+S 645f3c,4 hit 
+L 604784,4 hit 
+L 604884,4 hit 
+L 604984,4 hit 
+L 604a84,4 hit 
+L 645c30,4 hit 
+L 645c34,4 hit 
+L 645c38,4 hit 
+L 645c3c,4 hit 
+S 645c30,4 hit 
+S 645c34,4 hit 
+S 645c38,4 hit 
+S 645c3c,4 hit 
+S 646020,4 miss eviction 
+S 646024,4 hit 
+S 646028,4 hit 
+S 64602c,4 hit 
+L 604794,4 hit 
+S 646030,4 hit 
+L 604894,4 hit 
+S 646034,4 hit 
+L 604994,4 hit 
+S 646038,4 hit 
+L 604a94,4 hit 
+S 64603c,4 hit 
+L 604788,4 hit 
+L 604888,4 hit 
+L 604988,4 hit 
+L 604a88,4 hit 
+L 645d30,4 hit 
+L 645d34,4 hit 
+L 645d38,4 hit 
+L 645d3c,4 hit 
+S 645d30,4 hit 
+S 645d34,4 hit 
+S 645d38,4 hit 
+S 645d3c,4 hit 
+S 646120,4 miss eviction 
+S 646124,4 hit 
+S 646128,4 hit 
+S 64612c,4 hit 
+L 604798,4 hit 
+S 646130,4 hit 
+L 604898,4 hit 
+S 646134,4 hit 
+L 604998,4 hit 
+S 646138,4 hit 
+L 604a98,4 hit 
+S 64613c,4 hit 
+L 60478c,4 hit 
+L 60488c,4 hit 
+L 60498c,4 hit 
+L 604a8c,4 hit 
+L 645e30,4 hit 
+L 645e34,4 hit 
+L 645e38,4 hit 
+L 645e3c,4 hit 
+S 645e30,4 hit 
+S 645e34,4 hit 
+S 645e38,4 hit 
+S 645e3c,4 hit 
+S 646220,4 miss eviction 
+S 646224,4 hit 
+S 646228,4 hit 
+S 64622c,4 hit 
+L 60479c,4 hit 
+S 646230,4 hit 
+L 60489c,4 hit 
+S 646234,4 hit 
+L 60499c,4 hit 
+S 646238,4 hit 
+L 604a9c,4 hit 
+S 64623c,4 hit 
+L 6043a0,4 miss eviction 
+L 6043a4,4 hit 
+L 6043a8,4 hit 
+L 6043ac,4 hit 
+L 6043b0,4 hit 
+L 6043b4,4 hit 
+L 6043b8,4 hit 
+L 6043bc,4 hit 
+S 646320,4 miss eviction 
+S 646420,4 miss eviction 
+S 646520,4 miss eviction 
+S 646620,4 miss eviction 
+S 646330,4 hit 
+S 646430,4 hit 
+S 646530,4 hit 
+S 646630,4 hit 
+L 6044a0,4 miss eviction 
+L 6044a4,4 hit 
+L 6044a8,4 hit 
+L 6044ac,4 hit 
+L 6044b0,4 hit 
+L 6044b4,4 hit 
+L 6044b8,4 hit 
+L 6044bc,4 hit 
+S 646324,4 hit 
+S 646424,4 hit 
+S 646524,4 hit 
+S 646624,4 hit 
+S 646334,4 hit 
+S 646434,4 hit 
+S 646534,4 hit 
+S 646634,4 hit 
+L 6045a0,4 miss eviction 
+L 6045a4,4 hit 
+L 6045a8,4 hit 
+L 6045ac,4 hit 
+L 6045b0,4 hit 
+L 6045b4,4 hit 
+L 6045b8,4 hit 
+L 6045bc,4 hit 
+S 646328,4 hit 
+S 646428,4 hit 
+S 646528,4 hit 
+S 646628,4 hit 
+S 646338,4 hit 
+S 646438,4 hit 
+S 646538,4 hit 
+S 646638,4 hit 
+L 6046a0,4 miss eviction 
+L 6046a4,4 hit 
+L 6046a8,4 hit 
+L 6046ac,4 hit 
+L 6046b0,4 hit 
+L 6046b4,4 hit 
+L 6046b8,4 hit 
+L 6046bc,4 hit 
+S 64632c,4 hit 
+S 64642c,4 hit 
+S 64652c,4 hit 
+S 64662c,4 hit 
+S 64633c,4 hit 
+S 64643c,4 hit 
+S 64653c,4 hit 
+S 64663c,4 hit 
+L 6047a0,4 miss eviction 
+L 6048a0,4 miss eviction 
+L 6049a0,4 miss eviction 
+L 604aa0,4 miss eviction 
+L 646330,4 hit 
+L 646334,4 hit 
+L 646338,4 hit 
+L 64633c,4 hit 
+S 646330,4 hit 
+S 646334,4 hit 
+S 646338,4 hit 
+S 64633c,4 hit 
+S 646720,4 miss eviction 
+S 646724,4 hit 
+S 646728,4 hit 
+S 64672c,4 hit 
+L 6047b0,4 hit 
+S 646730,4 hit 
+L 6048b0,4 hit 
+S 646734,4 hit 
+L 6049b0,4 hit 
+S 646738,4 hit 
+L 604ab0,4 hit 
+S 64673c,4 hit 
+L 6047a4,4 hit 
+L 6048a4,4 hit 
+L 6049a4,4 hit 
+L 604aa4,4 hit 
+L 646430,4 hit 
+L 646434,4 hit 
+L 646438,4 hit 
+L 64643c,4 hit 
+S 646430,4 hit 
+S 646434,4 hit 
+S 646438,4 hit 
+S 64643c,4 hit 
+S 646820,4 miss eviction 
+S 646824,4 hit 
+S 646828,4 hit 
+S 64682c,4 hit 
+L 6047b4,4 hit 
+S 646830,4 hit 
+L 6048b4,4 hit 
+S 646834,4 hit 
+L 6049b4,4 hit 
+S 646838,4 hit 
+L 604ab4,4 hit 
+S 64683c,4 hit 
+L 6047a8,4 hit 
+L 6048a8,4 hit 
+L 6049a8,4 hit 
+L 604aa8,4 hit 
+L 646530,4 hit 
+L 646534,4 hit 
+L 646538,4 hit 
+L 64653c,4 hit 
+S 646530,4 hit 
+S 646534,4 hit 
+S 646538,4 hit 
+S 64653c,4 hit 
+S 646920,4 miss eviction 
+S 646924,4 hit 
+S 646928,4 hit 
+S 64692c,4 hit 
+L 6047b8,4 hit 
+S 646930,4 hit 
+L 6048b8,4 hit 
+S 646934,4 hit 
+L 6049b8,4 hit 
+S 646938,4 hit 
+L 604ab8,4 hit 
+S 64693c,4 hit 
+L 6047ac,4 hit 
+L 6048ac,4 hit 
+L 6049ac,4 hit 
+L 604aac,4 hit 
+L 646630,4 hit 
+L 646634,4 hit 
+L 646638,4 hit 
+L 64663c,4 hit 
+S 646630,4 hit 
+S 646634,4 hit 
+S 646638,4 hit 
+S 64663c,4 hit 
+S 646a20,4 miss eviction 
+S 646a24,4 hit 
+S 646a28,4 hit 
+S 646a2c,4 hit 
+L 6047bc,4 hit 
+S 646a30,4 hit 
+L 6048bc,4 hit 
+S 646a34,4 hit 
+L 6049bc,4 hit 
+S 646a38,4 hit 
+L 604abc,4 hit 
+S 646a3c,4 hit 
+L 6043c0,4 miss eviction 
+L 6043c4,4 hit 
+L 6043c8,4 hit 
+L 6043cc,4 hit 
+L 6043d0,4 hit 
+L 6043d4,4 hit 
+L 6043d8,4 hit 
+L 6043dc,4 hit 
+S 646b20,4 miss eviction 
+S 646c20,4 miss eviction 
+S 646d20,4 miss eviction 
+S 646e20,4 miss eviction 
+S 646b30,4 hit 
+S 646c30,4 hit 
+S 646d30,4 hit 
+S 646e30,4 hit 
+L 6044c0,4 miss eviction 
+L 6044c4,4 hit 
+L 6044c8,4 hit 
+L 6044cc,4 hit 
+L 6044d0,4 hit 
+L 6044d4,4 hit 
+L 6044d8,4 hit 
+L 6044dc,4 hit 
+S 646b24,4 hit 
+S 646c24,4 hit 
+S 646d24,4 hit 
+S 646e24,4 hit 
+S 646b34,4 hit 
+S 646c34,4 hit 
+S 646d34,4 hit 
+S 646e34,4 hit 
+L 6045c0,4 miss eviction 
+L 6045c4,4 hit 
+L 6045c8,4 hit 
+L 6045cc,4 hit 
+L 6045d0,4 hit 
+L 6045d4,4 hit 
+L 6045d8,4 hit 
+L 6045dc,4 hit 
+S 646b28,4 hit 
+S 646c28,4 hit 
+S 646d28,4 hit 
+S 646e28,4 hit 
+S 646b38,4 hit 
+S 646c38,4 hit 
+S 646d38,4 hit 
+S 646e38,4 hit 
+L 6046c0,4 miss eviction 
+L 6046c4,4 hit 
+L 6046c8,4 hit 
+L 6046cc,4 hit 
+L 6046d0,4 hit 
+L 6046d4,4 hit 
+L 6046d8,4 hit 
+L 6046dc,4 hit 
+S 646b2c,4 hit 
+S 646c2c,4 hit 
+S 646d2c,4 hit 
+S 646e2c,4 hit 
+S 646b3c,4 hit 
+S 646c3c,4 hit 
+S 646d3c,4 hit 
+S 646e3c,4 hit 
+L 6047c0,4 miss eviction 
+L 6048c0,4 miss eviction 
+L 6049c0,4 miss eviction 
+L 604ac0,4 miss eviction 
+L 646b30,4 hit 
+L 646b34,4 hit 
+L 646b38,4 hit 
+L 646b3c,4 hit 
+S 646b30,4 hit 
+S 646b34,4 hit 
+S 646b38,4 hit 
+S 646b3c,4 hit 
+S 646f20,4 miss eviction 
+S 646f24,4 hit 
+S 646f28,4 hit 
+S 646f2c,4 hit 
+L 6047d0,4 hit 
+S 646f30,4 hit 
+L 6048d0,4 hit 
+S 646f34,4 hit 
+L 6049d0,4 hit 
+S 646f38,4 hit 
+L 604ad0,4 hit 
+S 646f3c,4 hit 
+L 6047c4,4 hit 
+L 6048c4,4 hit 
+L 6049c4,4 hit 
+L 604ac4,4 hit 
+L 646c30,4 hit 
+L 646c34,4 hit 
+L 646c38,4 hit 
+L 646c3c,4 hit 
+S 646c30,4 hit 
+S 646c34,4 hit 
+S 646c38,4 hit 
+S 646c3c,4 hit 
+S 647020,4 miss eviction 
+S 647024,4 hit 
+S 647028,4 hit 
+S 64702c,4 hit 
+L 6047d4,4 hit 
+S 647030,4 hit 
+L 6048d4,4 hit 
+S 647034,4 hit 
+L 6049d4,4 hit 
+S 647038,4 hit 
+L 604ad4,4 hit 
+S 64703c,4 hit 
+L 6047c8,4 hit 
+L 6048c8,4 hit 
+L 6049c8,4 hit 
+L 604ac8,4 hit 
+L 646d30,4 hit 
+L 646d34,4 hit 
+L 646d38,4 hit 
+L 646d3c,4 hit 
+S 646d30,4 hit 
+S 646d34,4 hit 
+S 646d38,4 hit 
+S 646d3c,4 hit 
+S 647120,4 miss eviction 
+S 647124,4 hit 
+S 647128,4 hit 
+S 64712c,4 hit 
+L 6047d8,4 hit 
+S 647130,4 hit 
+L 6048d8,4 hit 
+S 647134,4 hit 
+L 6049d8,4 hit 
+S 647138,4 hit 
+L 604ad8,4 hit 
+S 64713c,4 hit 
+L 6047cc,4 hit 
+L 6048cc,4 hit 
+L 6049cc,4 hit 
+L 604acc,4 hit 
+L 646e30,4 hit 
+L 646e34,4 hit 
+L 646e38,4 hit 
+L 646e3c,4 hit 
+S 646e30,4 hit 
+S 646e34,4 hit 
+S 646e38,4 hit 
+S 646e3c,4 hit 
+S 647220,4 miss eviction 
+S 647224,4 hit 
+S 647228,4 hit 
+S 64722c,4 hit 
+L 6047dc,4 hit 
+S 647230,4 hit 
+L 6048dc,4 hit 
+S 647234,4 hit 
+L 6049dc,4 hit 
+S 647238,4 hit 
+L 604adc,4 hit 
+S 64723c,4 hit 
+L 604ae0,4 miss eviction 
+L 604ae4,4 hit 
+L 604ae8,4 hit 
+L 604aec,4 hit 
+L 604af0,4 hit 
+L 604af4,4 hit 
+L 604af8,4 hit 
+L 604afc,4 hit 
+S 643340,4 miss eviction 
+S 643440,4 miss eviction 
+S 643540,4 miss eviction 
+S 643640,4 miss eviction 
+S 643350,4 hit 
+S 643450,4 hit 
+S 643550,4 hit 
+S 643650,4 hit 
+L 604be0,4 miss eviction 
+L 604be4,4 hit 
+L 604be8,4 hit 
+L 604bec,4 hit 
+L 604bf0,4 hit 
+L 604bf4,4 hit 
+L 604bf8,4 hit 
+L 604bfc,4 hit 
+S 643344,4 hit 
+S 643444,4 hit 
+S 643544,4 hit 
+S 643644,4 hit 
+S 643354,4 hit 
+S 643454,4 hit 
+S 643554,4 hit 
+S 643654,4 hit 
+L 604ce0,4 miss eviction 
+L 604ce4,4 hit 
+L 604ce8,4 hit 
+L 604cec,4 hit 
+L 604cf0,4 hit 
+L 604cf4,4 hit 
+L 604cf8,4 hit 
+L 604cfc,4 hit 
+S 643348,4 hit 
+S 643448,4 hit 
+S 643548,4 hit 
+S 643648,4 hit 
+S 643358,4 hit 
+S 643458,4 hit 
+S 643558,4 hit 
+S 643658,4 hit 
+L 604de0,4 miss eviction 
+L 604de4,4 hit 
+L 604de8,4 hit 
+L 604dec,4 hit 
+L 604df0,4 hit 
+L 604df4,4 hit 
+L 604df8,4 hit 
+L 604dfc,4 hit 
+S 64334c,4 hit 
+S 64344c,4 hit 
+S 64354c,4 hit 
+S 64364c,4 hit 
+S 64335c,4 hit 
+S 64345c,4 hit 
+S 64355c,4 hit 
+S 64365c,4 hit 
+L 604ee0,4 miss eviction 
+L 604fe0,4 miss eviction 
+L 6050e0,4 miss eviction 
+L 6051e0,4 miss eviction 
+L 643350,4 hit 
+L 643354,4 hit 
+L 643358,4 hit 
+L 64335c,4 hit 
+S 643350,4 hit 
+S 643354,4 hit 
+S 643358,4 hit 
+S 64335c,4 hit 
+S 643740,4 miss eviction 
+S 643744,4 hit 
+S 643748,4 hit 
+S 64374c,4 hit 
+L 604ef0,4 hit 
+S 643750,4 hit 
+L 604ff0,4 hit 
+S 643754,4 hit 
+L 6050f0,4 hit 
+S 643758,4 hit 
+L 6051f0,4 hit 
+S 64375c,4 hit 
+L 604ee4,4 hit 
+L 604fe4,4 hit 
+L 6050e4,4 hit 
+L 6051e4,4 hit 
+L 643450,4 hit 
+L 643454,4 hit 
+L 643458,4 hit 
+L 64345c,4 hit 
+S 643450,4 hit 
+S 643454,4 hit 
+S 643458,4 hit 
+S 64345c,4 hit 
+S 643840,4 miss eviction 
+S 643844,4 hit 
+S 643848,4 hit 
+S 64384c,4 hit 
+L 604ef4,4 hit 
+S 643850,4 hit 
+L 604ff4,4 hit 
+S 643854,4 hit 
+L 6050f4,4 hit 
+S 643858,4 hit 
+L 6051f4,4 hit 
+S 64385c,4 hit 
+L 604ee8,4 hit 
+L 604fe8,4 hit 
+L 6050e8,4 hit 
+L 6051e8,4 hit 
+L 643550,4 hit 
+L 643554,4 hit 
+L 643558,4 hit 
+L 64355c,4 hit 
+S 643550,4 hit 
+S 643554,4 hit 
+S 643558,4 hit 
+S 64355c,4 hit 
+S 643940,4 miss eviction 
+S 643944,4 hit 
+S 643948,4 hit 
+S 64394c,4 hit 
+L 604ef8,4 hit 
+S 643950,4 hit 
+L 604ff8,4 hit 
+S 643954,4 hit 
+L 6050f8,4 hit 
+S 643958,4 hit 
+L 6051f8,4 hit 
+S 64395c,4 hit 
+L 604eec,4 hit 
+L 604fec,4 hit 
+L 6050ec,4 hit 
+L 6051ec,4 hit 
+L 643650,4 hit 
+L 643654,4 hit 
+L 643658,4 hit 
+L 64365c,4 hit 
+S 643650,4 hit 
+S 643654,4 hit 
+S 643658,4 hit 
+S 64365c,4 hit 
+S 643a40,4 miss eviction 
+S 643a44,4 hit 
+S 643a48,4 hit 
+S 643a4c,4 hit 
+L 604efc,4 hit 
+S 643a50,4 hit 
+L 604ffc,4 hit 
+S 643a54,4 hit 
+L 6050fc,4 hit 
+S 643a58,4 hit 
+L 6051fc,4 hit 
+S 643a5c,4 hit 
+L 604b00,4 miss eviction 
+L 604b04,4 hit 
+L 604b08,4 hit 
+L 604b0c,4 hit 
+L 604b10,4 hit 
+L 604b14,4 hit 
+L 604b18,4 hit 
+L 604b1c,4 hit 
+S 643b40,4 miss eviction 
+S 643c40,4 miss eviction 
+S 643d40,4 miss eviction 
+S 643e40,4 miss eviction 
+S 643b50,4 hit 
+S 643c50,4 hit 
+S 643d50,4 hit 
+S 643e50,4 hit 
+L 604c00,4 miss eviction 
+L 604c04,4 hit 
+L 604c08,4 hit 
+L 604c0c,4 hit 
+L 604c10,4 hit 
+L 604c14,4 hit 
+L 604c18,4 hit 
+L 604c1c,4 hit 
+S 643b44,4 hit 
+S 643c44,4 hit 
+S 643d44,4 hit 
+S 643e44,4 hit 
+S 643b54,4 hit 
+S 643c54,4 hit 
+S 643d54,4 hit 
+S 643e54,4 hit 
+L 604d00,4 miss eviction 
+L 604d04,4 hit 
+L 604d08,4 hit 
+L 604d0c,4 hit 
+L 604d10,4 hit 
+L 604d14,4 hit 
+L 604d18,4 hit 
+L 604d1c,4 hit 
+S 643b48,4 hit 
+S 643c48,4 hit 
+S 643d48,4 hit 
+S 643e48,4 hit 
+S 643b58,4 hit 
+S 643c58,4 hit 
+S 643d58,4 hit 
+S 643e58,4 hit 
+L 604e00,4 miss eviction 
+L 604e04,4 hit 
+L 604e08,4 hit 
+L 604e0c,4 hit 
+L 604e10,4 hit 
+L 604e14,4 hit 
+L 604e18,4 hit 
+L 604e1c,4 hit 
+S 643b4c,4 hit 
+S 643c4c,4 hit 
+S 643d4c,4 hit 
+S 643e4c,4 hit 
+S 643b5c,4 hit 
+S 643c5c,4 hit 
+S 643d5c,4 hit 
+S 643e5c,4 hit 
+L 604f00,4 miss eviction 
+L 605000,4 miss eviction 
+L 605100,4 miss eviction 
+L 605200,4 miss eviction 
+L 643b50,4 hit 
+L 643b54,4 hit 
+L 643b58,4 hit 
+L 643b5c,4 hit 
+S 643b50,4 hit 
+S 643b54,4 hit 
+S 643b58,4 hit 
+S 643b5c,4 hit 
+S 643f40,4 miss eviction 
+S 643f44,4 hit 
+S 643f48,4 hit 
+S 643f4c,4 hit 
+L 604f10,4 hit 
+S 643f50,4 hit 
+L 605010,4 hit 
+S 643f54,4 hit 
+L 605110,4 hit 
+S 643f58,4 hit 
+L 605210,4 hit 
+S 643f5c,4 hit 
+L 604f04,4 hit 
+L 605004,4 hit 
+L 605104,4 hit 
+L 605204,4 hit 
+L 643c50,4 hit 
+L 643c54,4 hit 
+L 643c58,4 hit 
+L 643c5c,4 hit 
+S 643c50,4 hit 
+S 643c54,4 hit 
+S 643c58,4 hit 
+S 643c5c,4 hit 
+S 644040,4 miss eviction 
+S 644044,4 hit 
+S 644048,4 hit 
+S 64404c,4 hit 
+L 604f14,4 hit 
+S 644050,4 hit 
+L 605014,4 hit 
+S 644054,4 hit 
+L 605114,4 hit 
+S 644058,4 hit 
+L 605214,4 hit 
+S 64405c,4 hit 
+L 604f08,4 hit 
+L 605008,4 hit 
+L 605108,4 hit 
+L 605208,4 hit 
+L 643d50,4 hit 
+L 643d54,4 hit 
+L 643d58,4 hit 
+L 643d5c,4 hit 
+S 643d50,4 hit 
+S 643d54,4 hit 
+S 643d58,4 hit 
+S 643d5c,4 hit 
+S 644140,4 miss eviction 
+S 644144,4 hit 
+S 644148,4 hit 
+S 64414c,4 hit 
+L 604f18,4 hit 
+S 644150,4 hit 
+L 605018,4 hit 
+S 644154,4 hit 
+L 605118,4 hit 
+S 644158,4 hit 
+L 605218,4 hit 
+S 64415c,4 hit 
+L 604f0c,4 hit 
+L 60500c,4 hit 
+L 60510c,4 hit 
+L 60520c,4 hit 
+L 643e50,4 hit 
+L 643e54,4 hit 
+L 643e58,4 hit 
+L 643e5c,4 hit 
+S 643e50,4 hit 
+S 643e54,4 hit 
+S 643e58,4 hit 
+S 643e5c,4 hit 
+S 644240,4 miss eviction 
+S 644244,4 hit 
+S 644248,4 hit 
+S 64424c,4 hit 
+L 604f1c,4 hit 
+S 644250,4 hit 
+L 60501c,4 hit 
+S 644254,4 hit 
+L 60511c,4 hit 
+S 644258,4 hit 
+L 60521c,4 hit 
+S 64425c,4 hit 
+L 604b20,4 miss eviction 
+L 604b24,4 hit 
+L 604b28,4 hit 
+L 604b2c,4 hit 
+L 604b30,4 hit 
+L 604b34,4 hit 
+L 604b38,4 hit 
+L 604b3c,4 hit 
+S 644340,4 miss eviction 
+S 644440,4 miss eviction 
+S 644540,4 miss eviction 
+S 644640,4 miss eviction 
+S 644350,4 hit 
+S 644450,4 hit 
+S 644550,4 hit 
+S 644650,4 hit 
+L 604c20,4 miss eviction 
+L 604c24,4 hit 
+L 604c28,4 hit 
+L 604c2c,4 hit 
+L 604c30,4 hit 
+L 604c34,4 hit 
+L 604c38,4 hit 
+L 604c3c,4 hit 
+S 644344,4 hit 
+S 644444,4 hit 
+S 644544,4 hit 
+S 644644,4 hit 
+S 644354,4 hit 
+S 644454,4 hit 
+S 644554,4 hit 
+S 644654,4 hit 
+L 604d20,4 miss eviction 
+L 604d24,4 hit 
+L 604d28,4 hit 
+L 604d2c,4 hit 
+L 604d30,4 hit 
+L 604d34,4 hit 
+L 604d38,4 hit 
+L 604d3c,4 hit 
+S 644348,4 hit 
+S 644448,4 hit 
+S 644548,4 hit 
+S 644648,4 hit 
+S 644358,4 hit 
+S 644458,4 hit 
+S 644558,4 hit 
+S 644658,4 hit 
+L 604e20,4 miss eviction 
+L 604e24,4 hit 
+L 604e28,4 hit 
+L 604e2c,4 hit 
+L 604e30,4 hit 
+L 604e34,4 hit 
+L 604e38,4 hit 
+L 604e3c,4 hit 
+S 64434c,4 hit 
+S 64444c,4 hit 
+S 64454c,4 hit 
+S 64464c,4 hit 
+S 64435c,4 hit 
+S 64445c,4 hit 
+S 64455c,4 hit 
+S 64465c,4 hit 
+L 604f20,4 miss eviction 
+L 605020,4 miss eviction 
+L 605120,4 miss eviction 
+L 605220,4 miss eviction 
+L 644350,4 hit 
+L 644354,4 hit 
+L 644358,4 hit 
+L 64435c,4 hit 
+S 644350,4 hit 
+S 644354,4 hit 
+S 644358,4 hit 
+S 64435c,4 hit 
+S 644740,4 miss eviction 
+S 644744,4 hit 
+S 644748,4 hit 
+S 64474c,4 hit 
+L 604f30,4 hit 
+S 644750,4 hit 
+L 605030,4 hit 
+S 644754,4 hit 
+L 605130,4 hit 
+S 644758,4 hit 
+L 605230,4 hit 
+S 64475c,4 hit 
+L 604f24,4 hit 
+L 605024,4 hit 
+L 605124,4 hit 
+L 605224,4 hit 
+L 644450,4 hit 
+L 644454,4 hit 
+L 644458,4 hit 
+L 64445c,4 hit 
+S 644450,4 hit 
+S 644454,4 hit 
+S 644458,4 hit 
+S 64445c,4 hit 
+S 644840,4 miss eviction 
+S 644844,4 hit 
+S 644848,4 hit 
+S 64484c,4 hit 
+L 604f34,4 hit 
+S 644850,4 hit 
+L 605034,4 hit 
+S 644854,4 hit 
+L 605134,4 hit 
+S 644858,4 hit 
+L 605234,4 hit 
+S 64485c,4 hit 
+L 604f28,4 hit 
+L 605028,4 hit 
+L 605128,4 hit 
+L 605228,4 hit 
+L 644550,4 hit 
+L 644554,4 hit 
+L 644558,4 hit 
+L 64455c,4 hit 
+S 644550,4 hit 
+S 644554,4 hit 
+S 644558,4 hit 
+S 64455c,4 hit 
+S 644940,4 miss eviction 
+S 644944,4 hit 
+S 644948,4 hit 
+S 64494c,4 hit 
+L 604f38,4 hit 
+S 644950,4 hit 
+L 605038,4 hit 
+S 644954,4 hit 
+L 605138,4 hit 
+S 644958,4 hit 
+L 605238,4 hit 
+S 64495c,4 hit 
+L 604f2c,4 hit 
+L 60502c,4 hit 
+L 60512c,4 hit 
+L 60522c,4 hit 
+L 644650,4 hit 
+L 644654,4 hit 
+L 644658,4 hit 
+L 64465c,4 hit 
+S 644650,4 hit 
+S 644654,4 hit 
+S 644658,4 hit 
+S 64465c,4 hit 
+S 644a40,4 miss eviction 
+S 644a44,4 hit 
+S 644a48,4 hit 
+S 644a4c,4 hit 
+L 604f3c,4 hit 
+S 644a50,4 hit 
+L 60503c,4 hit 
+S 644a54,4 hit 
+L 60513c,4 hit 
+S 644a58,4 hit 
+L 60523c,4 hit 
+S 644a5c,4 hit 
+L 604b40,4 miss eviction 
+L 604b44,4 hit 
+L 604b48,4 hit 
+L 604b4c,4 hit 
+L 604b50,4 hit 
+L 604b54,4 hit 
+L 604b58,4 hit 
+L 604b5c,4 hit 
+S 644b40,4 miss eviction 
+S 644c40,4 miss eviction 
+S 644d40,4 miss eviction 
+S 644e40,4 miss eviction 
+S 644b50,4 hit 
+S 644c50,4 hit 
+S 644d50,4 hit 
+S 644e50,4 hit 
+L 604c40,4 miss eviction 
+L 604c44,4 hit 
+L 604c48,4 hit 
+L 604c4c,4 hit 
+L 604c50,4 hit 
+L 604c54,4 hit 
+L 604c58,4 hit 
+L 604c5c,4 hit 
+S 644b44,4 hit 
+S 644c44,4 miss eviction 
+S 644d44,4 hit 
+S 644e44,4 hit 
+S 644b54,4 hit 
+S 644c54,4 hit 
+S 644d54,4 hit 
+S 644e54,4 hit 
+L 604d40,4 miss eviction 
+L 604d44,4 hit 
+L 604d48,4 hit 
+L 604d4c,4 hit 
+L 604d50,4 hit 
+L 604d54,4 hit 
+L 604d58,4 hit 
+L 604d5c,4 hit 
+S 644b48,4 hit 
+S 644c48,4 hit 
+S 644d48,4 miss eviction 
+S 644e48,4 hit 
+S 644b58,4 hit 
+S 644c58,4 hit 
+S 644d58,4 hit 
+S 644e58,4 hit 
+L 604e40,4 miss eviction 
+L 604e44,4 hit 
+L 604e48,4 hit 
+L 604e4c,4 hit 
+L 604e50,4 hit 
+L 604e54,4 hit 
+L 604e58,4 hit 
+L 604e5c,4 hit 
+S 644b4c,4 hit 
+S 644c4c,4 hit 
+S 644d4c,4 hit 
+S 644e4c,4 miss eviction 
+S 644b5c,4 hit 
+S 644c5c,4 hit 
+S 644d5c,4 hit 
+S 644e5c,4 hit 
+L 604f40,4 miss eviction 
+L 605040,4 miss eviction 
+L 605140,4 miss eviction 
+L 605240,4 miss eviction 
+L 644b50,4 miss eviction 
+L 644b54,4 hit 
+L 644b58,4 hit 
+L 644b5c,4 hit 
+S 644b50,4 hit 
+S 644b54,4 hit 
+S 644b58,4 hit 
+S 644b5c,4 hit 
+S 644f40,4 miss eviction 
+S 644f44,4 hit 
+S 644f48,4 hit 
+S 644f4c,4 hit 
+L 604f50,4 miss eviction 
+S 644f50,4 miss eviction 
+L 605050,4 hit 
+S 644f54,4 hit 
+L 605150,4 hit 
+S 644f58,4 hit 
+L 605250,4 hit 
+S 644f5c,4 hit 
+L 604f44,4 miss eviction 
+L 605044,4 hit 
+L 605144,4 hit 
+L 605244,4 hit 
+L 644c50,4 miss eviction 
+L 644c54,4 hit 
+L 644c58,4 hit 
+L 644c5c,4 hit 
+S 644c50,4 hit 
+S 644c54,4 hit 
+S 644c58,4 hit 
+S 644c5c,4 hit 
+S 645040,4 miss eviction 
+S 645044,4 hit 
+S 645048,4 hit 
+S 64504c,4 hit 
+L 604f54,4 hit 
+S 645050,4 hit 
+L 605054,4 miss eviction 
+S 645054,4 miss eviction 
+L 605154,4 hit 
+S 645058,4 hit 
+L 605254,4 hit 
+S 64505c,4 hit 
+L 604f48,4 hit 
+L 605048,4 miss eviction 
+L 605148,4 hit 
+L 605248,4 hit 
+L 644d50,4 miss eviction 
+L 644d54,4 hit 
+L 644d58,4 hit 
+L 644d5c,4 hit 
+S 644d50,4 hit 
+S 644d54,4 hit 
+S 644d58,4 hit 
+S 644d5c,4 hit 
+S 645140,4 miss eviction 
+S 645144,4 hit 
+S 645148,4 hit 
+S 64514c,4 hit 
+L 604f58,4 hit 
+S 645150,4 hit 
+L 605058,4 hit 
+S 645154,4 hit 
+L 605158,4 miss eviction 
+S 645158,4 miss eviction 
+L 605258,4 hit 
+S 64515c,4 hit 
+L 604f4c,4 hit 
+L 60504c,4 hit 
+L 60514c,4 miss eviction 
+L 60524c,4 hit 
+L 644e50,4 miss eviction 
+L 644e54,4 hit 
+L 644e58,4 hit 
+L 644e5c,4 hit 
+S 644e50,4 hit 
+S 644e54,4 hit 
+S 644e58,4 hit 
+S 644e5c,4 hit 
+S 645240,4 miss eviction 
+S 645244,4 hit 
+S 645248,4 hit 
+S 64524c,4 hit 
+L 604f5c,4 hit 
+S 645250,4 hit 
+L 60505c,4 hit 
+S 645254,4 hit 
+L 60515c,4 hit 
+S 645258,4 hit 
+L 60525c,4 miss eviction 
+S 64525c,4 miss eviction 
+L 604b60,4 miss eviction 
+L 604b64,4 hit 
+L 604b68,4 hit 
+L 604b6c,4 hit 
+L 604b70,4 hit 
+L 604b74,4 hit 
+L 604b78,4 hit 
+L 604b7c,4 hit 
+S 645340,4 miss eviction 
+S 645440,4 miss eviction 
+S 645540,4 miss eviction 
+S 645640,4 miss eviction 
+S 645350,4 hit 
+S 645450,4 hit 
+S 645550,4 hit 
+S 645650,4 hit 
+L 604c60,4 miss eviction 
+L 604c64,4 hit 
+L 604c68,4 hit 
+L 604c6c,4 hit 
+L 604c70,4 hit 
+L 604c74,4 hit 
+L 604c78,4 hit 
+L 604c7c,4 hit 
+S 645344,4 hit 
+S 645444,4 hit 
+S 645544,4 hit 
+S 645644,4 hit 
+S 645354,4 hit 
+S 645454,4 hit 
+S 645554,4 hit 
+S 645654,4 hit 
+L 604d60,4 miss eviction 
+L 604d64,4 hit 
+L 604d68,4 hit 
+L 604d6c,4 hit 
+L 604d70,4 hit 
+L 604d74,4 hit 
+L 604d78,4 hit 
+L 604d7c,4 hit 
+S 645348,4 hit 
+S 645448,4 hit 
+S 645548,4 hit 
+S 645648,4 hit 
+S 645358,4 hit 
+S 645458,4 hit 
+S 645558,4 hit 
+S 645658,4 hit 
+L 604e60,4 miss eviction 
+L 604e64,4 hit 
+L 604e68,4 hit 
+L 604e6c,4 hit 
+L 604e70,4 hit 
+L 604e74,4 hit 
+L 604e78,4 hit 
+L 604e7c,4 hit 
+S 64534c,4 hit 
+S 64544c,4 hit 
+S 64554c,4 hit 
+S 64564c,4 hit 
+S 64535c,4 hit 
+S 64545c,4 hit 
+S 64555c,4 hit 
+S 64565c,4 hit 
+L 604f60,4 miss eviction 
+L 605060,4 miss eviction 
+L 605160,4 miss eviction 
+L 605260,4 miss eviction 
+L 645350,4 hit 
+L 645354,4 hit 
+L 645358,4 hit 
+L 64535c,4 hit 
+S 645350,4 hit 
+S 645354,4 hit 
+S 645358,4 hit 
+S 64535c,4 hit 
+S 645740,4 miss eviction 
+S 645744,4 hit 
+S 645748,4 hit 
+S 64574c,4 hit 
+L 604f70,4 hit 
+S 645750,4 hit 
+L 605070,4 hit 
+S 645754,4 hit 
+L 605170,4 hit 
+S 645758,4 hit 
+L 605270,4 hit 
+S 64575c,4 hit 
+L 604f64,4 hit 
+L 605064,4 hit 
+L 605164,4 hit 
+L 605264,4 hit 
+L 645450,4 hit 
+L 645454,4 hit 
+L 645458,4 hit 
+L 64545c,4 hit 
+S 645450,4 hit 
+S 645454,4 hit 
+S 645458,4 hit 
+S 64545c,4 hit 
+S 645840,4 miss eviction 
+S 645844,4 hit 
+S 645848,4 hit 
+S 64584c,4 hit 
+L 604f74,4 hit 
+S 645850,4 hit 
+L 605074,4 hit 
+S 645854,4 hit 
+L 605174,4 hit 
+S 645858,4 hit 
+L 605274,4 hit 
+S 64585c,4 hit 
+L 604f68,4 hit 
+L 605068,4 hit 
+L 605168,4 hit 
+L 605268,4 hit 
+L 645550,4 hit 
+L 645554,4 hit 
+L 645558,4 hit 
+L 64555c,4 hit 
+S 645550,4 hit 
+S 645554,4 hit 
+S 645558,4 hit 
+S 64555c,4 hit 
+S 645940,4 miss eviction 
+S 645944,4 hit 
+S 645948,4 hit 
+S 64594c,4 hit 
+L 604f78,4 hit 
+S 645950,4 hit 
+L 605078,4 hit 
+S 645954,4 hit 
+L 605178,4 hit 
+S 645958,4 hit 
+L 605278,4 hit 
+S 64595c,4 hit 
+L 604f6c,4 hit 
+L 60506c,4 hit 
+L 60516c,4 hit 
+L 60526c,4 hit 
+L 645650,4 hit 
+L 645654,4 hit 
+L 645658,4 hit 
+L 64565c,4 hit 
+S 645650,4 hit 
+S 645654,4 hit 
+S 645658,4 hit 
+S 64565c,4 hit 
+S 645a40,4 miss eviction 
+S 645a44,4 hit 
+S 645a48,4 hit 
+S 645a4c,4 hit 
+L 604f7c,4 hit 
+S 645a50,4 hit 
+L 60507c,4 hit 
+S 645a54,4 hit 
+L 60517c,4 hit 
+S 645a58,4 hit 
+L 60527c,4 hit 
+S 645a5c,4 hit 
+L 604b80,4 miss eviction 
+L 604b84,4 hit 
+L 604b88,4 hit 
+L 604b8c,4 hit 
+L 604b90,4 hit 
+L 604b94,4 hit 
+L 604b98,4 hit 
+L 604b9c,4 hit 
+S 645b40,4 miss eviction 
+S 645c40,4 miss eviction 
+S 645d40,4 miss eviction 
+S 645e40,4 miss eviction 
+S 645b50,4 hit 
+S 645c50,4 hit 
+S 645d50,4 hit 
+S 645e50,4 hit 
+L 604c80,4 miss eviction 
+L 604c84,4 hit 
+L 604c88,4 hit 
+L 604c8c,4 hit 
+L 604c90,4 hit 
+L 604c94,4 hit 
+L 604c98,4 hit 
+L 604c9c,4 hit 
+S 645b44,4 hit 
+S 645c44,4 hit 
+S 645d44,4 hit 
+S 645e44,4 hit 
+S 645b54,4 hit 
+S 645c54,4 hit 
+S 645d54,4 hit 
+S 645e54,4 hit 
+L 604d80,4 miss eviction 
+L 604d84,4 hit 
+L 604d88,4 hit 
+L 604d8c,4 hit 
+L 604d90,4 hit 
+L 604d94,4 hit 
+L 604d98,4 hit 
+L 604d9c,4 hit 
+S 645b48,4 hit 
+S 645c48,4 hit 
+S 645d48,4 hit 
+S 645e48,4 hit 
+S 645b58,4 hit 
+S 645c58,4 hit 
+S 645d58,4 hit 
+S 645e58,4 hit 
+L 604e80,4 miss eviction 
+L 604e84,4 hit 
+L 604e88,4 hit 
+L 604e8c,4 hit 
+L 604e90,4 hit 
+L 604e94,4 hit 
+L 604e98,4 hit 
+L 604e9c,4 hit 
+S 645b4c,4 hit 
+S 645c4c,4 hit 
+S 645d4c,4 hit 
+S 645e4c,4 hit 
+S 645b5c,4 hit 
+S 645c5c,4 hit 
+S 645d5c,4 hit 
+S 645e5c,4 hit 
+L 604f80,4 miss eviction 
+L 605080,4 miss eviction 
+L 605180,4 miss eviction 
+L 605280,4 miss eviction 
+L 645b50,4 hit 
+L 645b54,4 hit 
+L 645b58,4 hit 
+L 645b5c,4 hit 
+S 645b50,4 hit 
+S 645b54,4 hit 
+S 645b58,4 hit 
+S 645b5c,4 hit 
+S 645f40,4 miss eviction 
+S 645f44,4 hit 
+S 645f48,4 hit 
+S 645f4c,4 hit 
+L 604f90,4 hit 
+S 645f50,4 hit 
+L 605090,4 hit 
+S 645f54,4 hit 
+L 605190,4 hit 
+S 645f58,4 hit 
+L 605290,4 hit 
+S 645f5c,4 hit 
+L 604f84,4 hit 
+L 605084,4 hit 
+L 605184,4 hit 
+L 605284,4 hit 
+L 645c50,4 hit 
+L 645c54,4 hit 
+L 645c58,4 hit 
+L 645c5c,4 hit 
+S 645c50,4 hit 
+S 645c54,4 hit 
+S 645c58,4 hit 
+S 645c5c,4 hit 
+S 646040,4 miss eviction 
+S 646044,4 hit 
+S 646048,4 hit 
+S 64604c,4 hit 
+L 604f94,4 hit 
+S 646050,4 hit 
+L 605094,4 hit 
+S 646054,4 hit 
+L 605194,4 hit 
+S 646058,4 hit 
+L 605294,4 hit 
+S 64605c,4 hit 
+L 604f88,4 hit 
+L 605088,4 hit 
+L 605188,4 hit 
+L 605288,4 hit 
+L 645d50,4 hit 
+L 645d54,4 hit 
+L 645d58,4 hit 
+L 645d5c,4 hit 
+S 645d50,4 hit 
+S 645d54,4 hit 
+S 645d58,4 hit 
+S 645d5c,4 hit 
+S 646140,4 miss eviction 
+S 646144,4 hit 
+S 646148,4 hit 
+S 64614c,4 hit 
+L 604f98,4 hit 
+S 646150,4 hit 
+L 605098,4 hit 
+S 646154,4 hit 
+L 605198,4 hit 
+S 646158,4 hit 
+L 605298,4 hit 
+S 64615c,4 hit 
+L 604f8c,4 hit 
+L 60508c,4 hit 
+L 60518c,4 hit 
+L 60528c,4 hit 
+L 645e50,4 hit 
+L 645e54,4 hit 
+L 645e58,4 hit 
+L 645e5c,4 hit 
+S 645e50,4 hit 
+S 645e54,4 hit 
+S 645e58,4 hit 
+S 645e5c,4 hit 
+S 646240,4 miss eviction 
+S 646244,4 hit 
+S 646248,4 hit 
+S 64624c,4 hit 
+L 604f9c,4 hit 
+S 646250,4 hit 
+L 60509c,4 hit 
+S 646254,4 hit 
+L 60519c,4 hit 
+S 646258,4 hit 
+L 60529c,4 hit 
+S 64625c,4 hit 
+L 604ba0,4 miss eviction 
+L 604ba4,4 hit 
+L 604ba8,4 hit 
+L 604bac,4 hit 
+L 604bb0,4 hit 
+L 604bb4,4 hit 
+L 604bb8,4 hit 
+L 604bbc,4 hit 
+S 646340,4 miss eviction 
+S 646440,4 miss eviction 
+S 646540,4 miss eviction 
+S 646640,4 miss eviction 
+S 646350,4 hit 
+S 646450,4 hit 
+S 646550,4 hit 
+S 646650,4 hit 
+L 604ca0,4 miss eviction 
+L 604ca4,4 hit 
+L 604ca8,4 hit 
+L 604cac,4 hit 
+L 604cb0,4 hit 
+L 604cb4,4 hit 
+L 604cb8,4 hit 
+L 604cbc,4 hit 
+S 646344,4 hit 
+S 646444,4 hit 
+S 646544,4 hit 
+S 646644,4 hit 
+S 646354,4 hit 
+S 646454,4 hit 
+S 646554,4 hit 
+S 646654,4 hit 
+L 604da0,4 miss eviction 
+L 604da4,4 hit 
+L 604da8,4 hit 
+L 604dac,4 hit 
+L 604db0,4 hit 
+L 604db4,4 hit 
+L 604db8,4 hit 
+L 604dbc,4 hit 
+S 646348,4 hit 
+S 646448,4 hit 
+S 646548,4 hit 
+S 646648,4 hit 
+S 646358,4 hit 
+S 646458,4 hit 
+S 646558,4 hit 
+S 646658,4 hit 
+L 604ea0,4 miss eviction 
+L 604ea4,4 hit 
+L 604ea8,4 hit 
+L 604eac,4 hit 
+L 604eb0,4 hit 
+L 604eb4,4 hit 
+L 604eb8,4 hit 
+L 604ebc,4 hit 
+S 64634c,4 hit 
+S 64644c,4 hit 
+S 64654c,4 hit 
+S 64664c,4 hit 
+S 64635c,4 hit 
+S 64645c,4 hit 
+S 64655c,4 hit 
+S 64665c,4 hit 
+L 604fa0,4 miss eviction 
+L 6050a0,4 miss eviction 
+L 6051a0,4 miss eviction 
+L 6052a0,4 miss eviction 
+L 646350,4 hit 
+L 646354,4 hit 
+L 646358,4 hit 
+L 64635c,4 hit 
+S 646350,4 hit 
+S 646354,4 hit 
+S 646358,4 hit 
+S 64635c,4 hit 
+S 646740,4 miss eviction 
+S 646744,4 hit 
+S 646748,4 hit 
+S 64674c,4 hit 
+L 604fb0,4 hit 
+S 646750,4 hit 
+L 6050b0,4 hit 
+S 646754,4 hit 
+L 6051b0,4 hit 
+S 646758,4 hit 
+L 6052b0,4 hit 
+S 64675c,4 hit 
+L 604fa4,4 hit 
+L 6050a4,4 hit 
+L 6051a4,4 hit 
+L 6052a4,4 hit 
+L 646450,4 hit 
+L 646454,4 hit 
+L 646458,4 hit 
+L 64645c,4 hit 
+S 646450,4 hit 
+S 646454,4 hit 
+S 646458,4 hit 
+S 64645c,4 hit 
+S 646840,4 miss eviction 
+S 646844,4 hit 
+S 646848,4 hit 
+S 64684c,4 hit 
+L 604fb4,4 hit 
+S 646850,4 hit 
+L 6050b4,4 hit 
+S 646854,4 hit 
+L 6051b4,4 hit 
+S 646858,4 hit 
+L 6052b4,4 hit 
+S 64685c,4 hit 
+L 604fa8,4 hit 
+L 6050a8,4 hit 
+L 6051a8,4 hit 
+L 6052a8,4 hit 
+L 646550,4 hit 
+L 646554,4 hit 
+L 646558,4 hit 
+L 64655c,4 hit 
+S 646550,4 hit 
+S 646554,4 hit 
+S 646558,4 hit 
+S 64655c,4 hit 
+S 646940,4 miss eviction 
+S 646944,4 hit 
+S 646948,4 hit 
+S 64694c,4 hit 
+L 604fb8,4 hit 
+S 646950,4 hit 
+L 6050b8,4 hit 
+S 646954,4 hit 
+L 6051b8,4 hit 
+S 646958,4 hit 
+L 6052b8,4 hit 
+S 64695c,4 hit 
+L 604fac,4 hit 
+L 6050ac,4 hit 
+L 6051ac,4 hit 
+L 6052ac,4 hit 
+L 646650,4 hit 
+L 646654,4 hit 
+L 646658,4 hit 
+L 64665c,4 hit 
+S 646650,4 hit 
+S 646654,4 hit 
+S 646658,4 hit 
+S 64665c,4 hit 
+S 646a40,4 miss eviction 
+S 646a44,4 hit 
+S 646a48,4 hit 
+S 646a4c,4 hit 
+L 604fbc,4 hit 
+S 646a50,4 hit 
+L 6050bc,4 hit 
+S 646a54,4 hit 
+L 6051bc,4 hit 
+S 646a58,4 hit 
+L 6052bc,4 hit 
+S 646a5c,4 hit 
+L 604bc0,4 miss eviction 
+L 604bc4,4 hit 
+L 604bc8,4 hit 
+L 604bcc,4 hit 
+L 604bd0,4 hit 
+L 604bd4,4 hit 
+L 604bd8,4 hit 
+L 604bdc,4 hit 
+S 646b40,4 miss eviction 
+S 646c40,4 miss eviction 
+S 646d40,4 miss eviction 
+S 646e40,4 miss eviction 
+S 646b50,4 hit 
+S 646c50,4 hit 
+S 646d50,4 hit 
+S 646e50,4 hit 
+L 604cc0,4 miss eviction 
+L 604cc4,4 hit 
+L 604cc8,4 hit 
+L 604ccc,4 hit 
+L 604cd0,4 hit 
+L 604cd4,4 hit 
+L 604cd8,4 hit 
+L 604cdc,4 hit 
+S 646b44,4 hit 
+S 646c44,4 hit 
+S 646d44,4 hit 
+S 646e44,4 hit 
+S 646b54,4 hit 
+S 646c54,4 hit 
+S 646d54,4 hit 
+S 646e54,4 hit 
+L 604dc0,4 miss eviction 
+L 604dc4,4 hit 
+L 604dc8,4 hit 
+L 604dcc,4 hit 
+L 604dd0,4 hit 
+L 604dd4,4 hit 
+L 604dd8,4 hit 
+L 604ddc,4 hit 
+S 646b48,4 hit 
+S 646c48,4 hit 
+S 646d48,4 hit 
+S 646e48,4 hit 
+S 646b58,4 hit 
+S 646c58,4 hit 
+S 646d58,4 hit 
+S 646e58,4 hit 
+L 604ec0,4 miss eviction 
+L 604ec4,4 hit 
+L 604ec8,4 hit 
+L 604ecc,4 hit 
+L 604ed0,4 hit 
+L 604ed4,4 hit 
+L 604ed8,4 hit 
+L 604edc,4 hit 
+S 646b4c,4 hit 
+S 646c4c,4 hit 
+S 646d4c,4 hit 
+S 646e4c,4 hit 
+S 646b5c,4 hit 
+S 646c5c,4 hit 
+S 646d5c,4 hit 
+S 646e5c,4 hit 
+L 604fc0,4 miss eviction 
+L 6050c0,4 miss eviction 
+L 6051c0,4 miss eviction 
+L 6052c0,4 miss eviction 
+L 646b50,4 hit 
+L 646b54,4 hit 
+L 646b58,4 hit 
+L 646b5c,4 hit 
+S 646b50,4 hit 
+S 646b54,4 hit 
+S 646b58,4 hit 
+S 646b5c,4 hit 
+S 646f40,4 miss eviction 
+S 646f44,4 hit 
+S 646f48,4 hit 
+S 646f4c,4 hit 
+L 604fd0,4 hit 
+S 646f50,4 hit 
+L 6050d0,4 hit 
+S 646f54,4 hit 
+L 6051d0,4 hit 
+S 646f58,4 hit 
+L 6052d0,4 hit 
+S 646f5c,4 hit 
+L 604fc4,4 hit 
+L 6050c4,4 hit 
+L 6051c4,4 hit 
+L 6052c4,4 hit 
+L 646c50,4 hit 
+L 646c54,4 hit 
+L 646c58,4 hit 
+L 646c5c,4 hit 
+S 646c50,4 hit 
+S 646c54,4 hit 
+S 646c58,4 hit 
+S 646c5c,4 hit 
+S 647040,4 miss eviction 
+S 647044,4 hit 
+S 647048,4 hit 
+S 64704c,4 hit 
+L 604fd4,4 hit 
+S 647050,4 hit 
+L 6050d4,4 hit 
+S 647054,4 hit 
+L 6051d4,4 hit 
+S 647058,4 hit 
+L 6052d4,4 hit 
+S 64705c,4 hit 
+L 604fc8,4 hit 
+L 6050c8,4 hit 
+L 6051c8,4 hit 
+L 6052c8,4 hit 
+L 646d50,4 hit 
+L 646d54,4 hit 
+L 646d58,4 hit 
+L 646d5c,4 hit 
+S 646d50,4 hit 
+S 646d54,4 hit 
+S 646d58,4 hit 
+S 646d5c,4 hit 
+S 647140,4 miss eviction 
+S 647144,4 hit 
+S 647148,4 hit 
+S 64714c,4 hit 
+L 604fd8,4 hit 
+S 647150,4 hit 
+L 6050d8,4 hit 
+S 647154,4 hit 
+L 6051d8,4 hit 
+S 647158,4 hit 
+L 6052d8,4 hit 
+S 64715c,4 hit 
+L 604fcc,4 hit 
+L 6050cc,4 hit 
+L 6051cc,4 hit 
+L 6052cc,4 hit 
+L 646e50,4 hit 
+L 646e54,4 hit 
+L 646e58,4 hit 
+L 646e5c,4 hit 
+S 646e50,4 hit 
+S 646e54,4 hit 
+S 646e58,4 hit 
+S 646e5c,4 hit 
+S 647240,4 miss eviction 
+S 647244,4 hit 
+S 647248,4 hit 
+S 64724c,4 hit 
+L 604fdc,4 hit 
+S 647250,4 hit 
+L 6050dc,4 hit 
+S 647254,4 hit 
+L 6051dc,4 hit 
+S 647258,4 hit 
+L 6052dc,4 hit 
+S 64725c,4 hit 
+L 6052e0,4 miss eviction 
+L 6052e4,4 hit 
+L 6052e8,4 hit 
+L 6052ec,4 hit 
+L 6052f0,4 hit 
+L 6052f4,4 hit 
+L 6052f8,4 hit 
+L 6052fc,4 hit 
+S 643360,4 miss eviction 
+S 643460,4 miss eviction 
+S 643560,4 miss eviction 
+S 643660,4 miss eviction 
+S 643370,4 hit 
+S 643470,4 hit 
+S 643570,4 hit 
+S 643670,4 hit 
+L 6053e0,4 miss eviction 
+L 6053e4,4 hit 
+L 6053e8,4 hit 
+L 6053ec,4 hit 
+L 6053f0,4 hit 
+L 6053f4,4 hit 
+L 6053f8,4 hit 
+L 6053fc,4 hit 
+S 643364,4 hit 
+S 643464,4 hit 
+S 643564,4 hit 
+S 643664,4 hit 
+S 643374,4 hit 
+S 643474,4 hit 
+S 643574,4 hit 
+S 643674,4 hit 
+L 6054e0,4 miss eviction 
+L 6054e4,4 hit 
+L 6054e8,4 hit 
+L 6054ec,4 hit 
+L 6054f0,4 hit 
+L 6054f4,4 hit 
+L 6054f8,4 hit 
+L 6054fc,4 hit 
+S 643368,4 hit 
+S 643468,4 hit 
+S 643568,4 hit 
+S 643668,4 hit 
+S 643378,4 hit 
+S 643478,4 hit 
+S 643578,4 hit 
+S 643678,4 hit 
+L 6055e0,4 miss eviction 
+L 6055e4,4 hit 
+L 6055e8,4 hit 
+L 6055ec,4 hit 
+L 6055f0,4 hit 
+L 6055f4,4 hit 
+L 6055f8,4 hit 
+L 6055fc,4 hit 
+S 64336c,4 hit 
+S 64346c,4 hit 
+S 64356c,4 hit 
+S 64366c,4 hit 
+S 64337c,4 hit 
+S 64347c,4 hit 
+S 64357c,4 hit 
+S 64367c,4 hit 
+L 6056e0,4 miss eviction 
+L 6057e0,4 miss eviction 
+L 6058e0,4 miss eviction 
+L 6059e0,4 miss eviction 
+L 643370,4 hit 
+L 643374,4 hit 
+L 643378,4 hit 
+L 64337c,4 hit 
+S 643370,4 hit 
+S 643374,4 hit 
+S 643378,4 hit 
+S 64337c,4 hit 
+S 643760,4 miss eviction 
+S 643764,4 hit 
+S 643768,4 hit 
+S 64376c,4 hit 
+L 6056f0,4 hit 
+S 643770,4 hit 
+L 6057f0,4 hit 
+S 643774,4 hit 
+L 6058f0,4 hit 
+S 643778,4 hit 
+L 6059f0,4 hit 
+S 64377c,4 hit 
+L 6056e4,4 hit 
+L 6057e4,4 hit 
+L 6058e4,4 hit 
+L 6059e4,4 hit 
+L 643470,4 hit 
+L 643474,4 hit 
+L 643478,4 hit 
+L 64347c,4 hit 
+S 643470,4 hit 
+S 643474,4 hit 
+S 643478,4 hit 
+S 64347c,4 hit 
+S 643860,4 miss eviction 
+S 643864,4 hit 
+S 643868,4 hit 
+S 64386c,4 hit 
+L 6056f4,4 hit 
+S 643870,4 hit 
+L 6057f4,4 hit 
+S 643874,4 hit 
+L 6058f4,4 hit 
+S 643878,4 hit 
+L 6059f4,4 hit 
+S 64387c,4 hit 
+L 6056e8,4 hit 
+L 6057e8,4 hit 
+L 6058e8,4 hit 
+L 6059e8,4 hit 
+L 643570,4 hit 
+L 643574,4 hit 
+L 643578,4 hit 
+L 64357c,4 hit 
+S 643570,4 hit 
+S 643574,4 hit 
+S 643578,4 hit 
+S 64357c,4 hit 
+S 643960,4 miss eviction 
+S 643964,4 hit 
+S 643968,4 hit 
+S 64396c,4 hit 
+L 6056f8,4 hit 
+S 643970,4 hit 
+L 6057f8,4 hit 
+S 643974,4 hit 
+L 6058f8,4 hit 
+S 643978,4 hit 
+L 6059f8,4 hit 
+S 64397c,4 hit 
+L 6056ec,4 hit 
+L 6057ec,4 hit 
+L 6058ec,4 hit 
+L 6059ec,4 hit 
+L 643670,4 hit 
+L 643674,4 hit 
+L 643678,4 hit 
+L 64367c,4 hit 
+S 643670,4 hit 
+S 643674,4 hit 
+S 643678,4 hit 
+S 64367c,4 hit 
+S 643a60,4 miss eviction 
+S 643a64,4 hit 
+S 643a68,4 hit 
+S 643a6c,4 hit 
+L 6056fc,4 hit 
+S 643a70,4 hit 
+L 6057fc,4 hit 
+S 643a74,4 hit 
+L 6058fc,4 hit 
+S 643a78,4 hit 
+L 6059fc,4 hit 
+S 643a7c,4 hit 
+L 605300,4 miss eviction 
+L 605304,4 hit 
+L 605308,4 hit 
+L 60530c,4 hit 
+L 605310,4 hit 
+L 605314,4 hit 
+L 605318,4 hit 
+L 60531c,4 hit 
+S 643b60,4 miss eviction 
+S 643c60,4 miss eviction 
+S 643d60,4 miss eviction 
+S 643e60,4 miss eviction 
+S 643b70,4 hit 
+S 643c70,4 hit 
+S 643d70,4 hit 
+S 643e70,4 hit 
+L 605400,4 miss eviction 
+L 605404,4 hit 
+L 605408,4 hit 
+L 60540c,4 hit 
+L 605410,4 hit 
+L 605414,4 hit 
+L 605418,4 hit 
+L 60541c,4 hit 
+S 643b64,4 hit 
+S 643c64,4 hit 
+S 643d64,4 hit 
+S 643e64,4 hit 
+S 643b74,4 hit 
+S 643c74,4 hit 
+S 643d74,4 hit 
+S 643e74,4 hit 
+L 605500,4 miss eviction 
+L 605504,4 hit 
+L 605508,4 hit 
+L 60550c,4 hit 
+L 605510,4 hit 
+L 605514,4 hit 
+L 605518,4 hit 
+L 60551c,4 hit 
+S 643b68,4 hit 
+S 643c68,4 hit 
+S 643d68,4 hit 
+S 643e68,4 hit 
+S 643b78,4 hit 
+S 643c78,4 hit 
+S 643d78,4 hit 
+S 643e78,4 hit 
+L 605600,4 miss eviction 
+L 605604,4 hit 
+L 605608,4 hit 
+L 60560c,4 hit 
+L 605610,4 hit 
+L 605614,4 hit 
+L 605618,4 hit 
+L 60561c,4 hit 
+S 643b6c,4 hit 
+S 643c6c,4 hit 
+S 643d6c,4 hit 
+S 643e6c,4 hit 
+S 643b7c,4 hit 
+S 643c7c,4 hit 
+S 643d7c,4 hit 
+S 643e7c,4 hit 
+L 605700,4 miss eviction 
+L 605800,4 miss eviction 
+L 605900,4 miss eviction 
+L 605a00,4 miss eviction 
+L 643b70,4 hit 
+L 643b74,4 hit 
+L 643b78,4 hit 
+L 643b7c,4 hit 
+S 643b70,4 hit 
+S 643b74,4 hit 
+S 643b78,4 hit 
+S 643b7c,4 hit 
+S 643f60,4 miss eviction 
+S 643f64,4 hit 
+S 643f68,4 hit 
+S 643f6c,4 hit 
+L 605710,4 hit 
+S 643f70,4 hit 
+L 605810,4 hit 
+S 643f74,4 hit 
+L 605910,4 hit 
+S 643f78,4 hit 
+L 605a10,4 hit 
+S 643f7c,4 hit 
+L 605704,4 hit 
+L 605804,4 hit 
+L 605904,4 hit 
+L 605a04,4 hit 
+L 643c70,4 hit 
+L 643c74,4 hit 
+L 643c78,4 hit 
+L 643c7c,4 hit 
+S 643c70,4 hit 
+S 643c74,4 hit 
+S 643c78,4 hit 
+S 643c7c,4 hit 
+S 644060,4 miss eviction 
+S 644064,4 hit 
+S 644068,4 hit 
+S 64406c,4 hit 
+L 605714,4 hit 
+S 644070,4 hit 
+L 605814,4 hit 
+S 644074,4 hit 
+L 605914,4 hit 
+S 644078,4 hit 
+L 605a14,4 hit 
+S 64407c,4 hit 
+L 605708,4 hit 
+L 605808,4 hit 
+L 605908,4 hit 
+L 605a08,4 hit 
+L 643d70,4 hit 
+L 643d74,4 hit 
+L 643d78,4 hit 
+L 643d7c,4 hit 
+S 643d70,4 hit 
+S 643d74,4 hit 
+S 643d78,4 hit 
+S 643d7c,4 hit 
+S 644160,4 miss eviction 
+S 644164,4 hit 
+S 644168,4 hit 
+S 64416c,4 hit 
+L 605718,4 hit 
+S 644170,4 hit 
+L 605818,4 hit 
+S 644174,4 hit 
+L 605918,4 hit 
+S 644178,4 hit 
+L 605a18,4 hit 
+S 64417c,4 hit 
+L 60570c,4 hit 
+L 60580c,4 hit 
+L 60590c,4 hit 
+L 605a0c,4 hit 
+L 643e70,4 hit 
+L 643e74,4 hit 
+L 643e78,4 hit 
+L 643e7c,4 hit 
+S 643e70,4 hit 
+S 643e74,4 hit 
+S 643e78,4 hit 
+S 643e7c,4 hit 
+S 644260,4 miss eviction 
+S 644264,4 hit 
+S 644268,4 hit 
+S 64426c,4 hit 
+L 60571c,4 hit 
+S 644270,4 hit 
+L 60581c,4 hit 
+S 644274,4 hit 
+L 60591c,4 hit 
+S 644278,4 hit 
+L 605a1c,4 hit 
+S 64427c,4 hit 
+L 605320,4 miss eviction 
+L 605324,4 hit 
+L 605328,4 hit 
+L 60532c,4 hit 
+L 605330,4 hit 
+L 605334,4 hit 
+L 605338,4 hit 
+L 60533c,4 hit 
+S 644360,4 miss eviction 
+S 644460,4 miss eviction 
+S 644560,4 miss eviction 
+S 644660,4 miss eviction 
+S 644370,4 hit 
+S 644470,4 hit 
+S 644570,4 hit 
+S 644670,4 hit 
+L 605420,4 miss eviction 
+L 605424,4 hit 
+L 605428,4 hit 
+L 60542c,4 hit 
+L 605430,4 hit 
+L 605434,4 hit 
+L 605438,4 hit 
+L 60543c,4 hit 
+S 644364,4 hit 
+S 644464,4 hit 
+S 644564,4 hit 
+S 644664,4 hit 
+S 644374,4 hit 
+S 644474,4 hit 
+S 644574,4 hit 
+S 644674,4 hit 
+L 605520,4 miss eviction 
+L 605524,4 hit 
+L 605528,4 hit 
+L 60552c,4 hit 
+L 605530,4 hit 
+L 605534,4 hit 
+L 605538,4 hit 
+L 60553c,4 hit 
+S 644368,4 hit 
+S 644468,4 hit 
+S 644568,4 hit 
+S 644668,4 hit 
+S 644378,4 hit 
+S 644478,4 hit 
+S 644578,4 hit 
+S 644678,4 hit 
+L 605620,4 miss eviction 
+L 605624,4 hit 
+L 605628,4 hit 
+L 60562c,4 hit 
+L 605630,4 hit 
+L 605634,4 hit 
+L 605638,4 hit 
+L 60563c,4 hit 
+S 64436c,4 hit 
+S 64446c,4 hit 
+S 64456c,4 hit 
+S 64466c,4 hit 
+S 64437c,4 hit 
+S 64447c,4 hit 
+S 64457c,4 hit 
+S 64467c,4 hit 
+L 605720,4 miss eviction 
+L 605820,4 miss eviction 
+L 605920,4 miss eviction 
+L 605a20,4 miss eviction 
+L 644370,4 hit 
+L 644374,4 hit 
+L 644378,4 hit 
+L 64437c,4 hit 
+S 644370,4 hit 
+S 644374,4 hit 
+S 644378,4 hit 
+S 64437c,4 hit 
+S 644760,4 miss eviction 
+S 644764,4 hit 
+S 644768,4 hit 
+S 64476c,4 hit 
+L 605730,4 hit 
+S 644770,4 hit 
+L 605830,4 hit 
+S 644774,4 hit 
+L 605930,4 hit 
+S 644778,4 hit 
+L 605a30,4 hit 
+S 64477c,4 hit 
+L 605724,4 hit 
+L 605824,4 hit 
+L 605924,4 hit 
+L 605a24,4 hit 
+L 644470,4 hit 
+L 644474,4 hit 
+L 644478,4 hit 
+L 64447c,4 hit 
+S 644470,4 hit 
+S 644474,4 hit 
+S 644478,4 hit 
+S 64447c,4 hit 
+S 644860,4 miss eviction 
+S 644864,4 hit 
+S 644868,4 hit 
+S 64486c,4 hit 
+L 605734,4 hit 
+S 644870,4 hit 
+L 605834,4 hit 
+S 644874,4 hit 
+L 605934,4 hit 
+S 644878,4 hit 
+L 605a34,4 hit 
+S 64487c,4 hit 
+L 605728,4 hit 
+L 605828,4 hit 
+L 605928,4 hit 
+L 605a28,4 hit 
+L 644570,4 hit 
+L 644574,4 hit 
+L 644578,4 hit 
+L 64457c,4 hit 
+S 644570,4 hit 
+S 644574,4 hit 
+S 644578,4 hit 
+S 64457c,4 hit 
+S 644960,4 miss eviction 
+S 644964,4 hit 
+S 644968,4 hit 
+S 64496c,4 hit 
+L 605738,4 hit 
+S 644970,4 hit 
+L 605838,4 hit 
+S 644974,4 hit 
+L 605938,4 hit 
+S 644978,4 hit 
+L 605a38,4 hit 
+S 64497c,4 hit 
+L 60572c,4 hit 
+L 60582c,4 hit 
+L 60592c,4 hit 
+L 605a2c,4 hit 
+L 644670,4 hit 
+L 644674,4 hit 
+L 644678,4 hit 
+L 64467c,4 hit 
+S 644670,4 hit 
+S 644674,4 hit 
+S 644678,4 hit 
+S 64467c,4 hit 
+S 644a60,4 miss eviction 
+S 644a64,4 hit 
+S 644a68,4 hit 
+S 644a6c,4 hit 
+L 60573c,4 hit 
+S 644a70,4 hit 
+L 60583c,4 hit 
+S 644a74,4 hit 
+L 60593c,4 hit 
+S 644a78,4 hit 
+L 605a3c,4 hit 
+S 644a7c,4 hit 
+L 605340,4 miss eviction 
+L 605344,4 hit 
+L 605348,4 hit 
+L 60534c,4 hit 
+L 605350,4 hit 
+L 605354,4 hit 
+L 605358,4 hit 
+L 60535c,4 hit 
+S 644b60,4 miss eviction 
+S 644c60,4 miss eviction 
+S 644d60,4 miss eviction 
+S 644e60,4 miss eviction 
+S 644b70,4 hit 
+S 644c70,4 hit 
+S 644d70,4 hit 
+S 644e70,4 hit 
+L 605440,4 miss eviction 
+L 605444,4 hit 
+L 605448,4 hit 
+L 60544c,4 hit 
+L 605450,4 hit 
+L 605454,4 hit 
+L 605458,4 hit 
+L 60545c,4 hit 
+S 644b64,4 hit 
+S 644c64,4 hit 
+S 644d64,4 hit 
+S 644e64,4 hit 
+S 644b74,4 hit 
+S 644c74,4 hit 
+S 644d74,4 hit 
+S 644e74,4 hit 
+L 605540,4 miss eviction 
+L 605544,4 hit 
+L 605548,4 hit 
+L 60554c,4 hit 
+L 605550,4 hit 
+L 605554,4 hit 
+L 605558,4 hit 
+L 60555c,4 hit 
+S 644b68,4 hit 
+S 644c68,4 hit 
+S 644d68,4 hit 
+S 644e68,4 hit 
+S 644b78,4 hit 
+S 644c78,4 hit 
+S 644d78,4 hit 
+S 644e78,4 hit 
+L 605640,4 miss eviction 
+L 605644,4 hit 
+L 605648,4 hit 
+L 60564c,4 hit 
+L 605650,4 hit 
+L 605654,4 hit 
+L 605658,4 hit 
+L 60565c,4 hit 
+S 644b6c,4 hit 
+S 644c6c,4 hit 
+S 644d6c,4 hit 
+S 644e6c,4 hit 
+S 644b7c,4 hit 
+S 644c7c,4 hit 
+S 644d7c,4 hit 
+S 644e7c,4 hit 
+L 605740,4 miss eviction 
+L 605840,4 miss eviction 
+L 605940,4 miss eviction 
+L 605a40,4 miss eviction 
+L 644b70,4 hit 
+L 644b74,4 hit 
+L 644b78,4 hit 
+L 644b7c,4 hit 
+S 644b70,4 hit 
+S 644b74,4 hit 
+S 644b78,4 hit 
+S 644b7c,4 hit 
+S 644f60,4 miss eviction 
+S 644f64,4 hit 
+S 644f68,4 hit 
+S 644f6c,4 hit 
+L 605750,4 hit 
+S 644f70,4 hit 
+L 605850,4 hit 
+S 644f74,4 hit 
+L 605950,4 hit 
+S 644f78,4 hit 
+L 605a50,4 hit 
+S 644f7c,4 hit 
+L 605744,4 hit 
+L 605844,4 hit 
+L 605944,4 hit 
+L 605a44,4 hit 
+L 644c70,4 hit 
+L 644c74,4 hit 
+L 644c78,4 hit 
+L 644c7c,4 hit 
+S 644c70,4 hit 
+S 644c74,4 hit 
+S 644c78,4 hit 
+S 644c7c,4 hit 
+S 645060,4 miss eviction 
+S 645064,4 hit 
+S 645068,4 hit 
+S 64506c,4 hit 
+L 605754,4 hit 
+S 645070,4 hit 
+L 605854,4 hit 
+S 645074,4 hit 
+L 605954,4 hit 
+S 645078,4 hit 
+L 605a54,4 hit 
+S 64507c,4 hit 
+L 605748,4 hit 
+L 605848,4 hit 
+L 605948,4 hit 
+L 605a48,4 hit 
+L 644d70,4 hit 
+L 644d74,4 hit 
+L 644d78,4 hit 
+L 644d7c,4 hit 
+S 644d70,4 hit 
+S 644d74,4 hit 
+S 644d78,4 hit 
+S 644d7c,4 hit 
+S 645160,4 miss eviction 
+S 645164,4 hit 
+S 645168,4 hit 
+S 64516c,4 hit 
+L 605758,4 hit 
+S 645170,4 hit 
+L 605858,4 hit 
+S 645174,4 hit 
+L 605958,4 hit 
+S 645178,4 hit 
+L 605a58,4 hit 
+S 64517c,4 hit 
+L 60574c,4 hit 
+L 60584c,4 hit 
+L 60594c,4 hit 
+L 605a4c,4 hit 
+L 644e70,4 hit 
+L 644e74,4 hit 
+L 644e78,4 hit 
+L 644e7c,4 hit 
+S 644e70,4 hit 
+S 644e74,4 hit 
+S 644e78,4 hit 
+S 644e7c,4 hit 
+S 645260,4 miss eviction 
+S 645264,4 hit 
+S 645268,4 hit 
+S 64526c,4 hit 
+L 60575c,4 hit 
+S 645270,4 hit 
+L 60585c,4 hit 
+S 645274,4 hit 
+L 60595c,4 hit 
+S 645278,4 hit 
+L 605a5c,4 hit 
+S 64527c,4 hit 
+L 605360,4 miss eviction 
+L 605364,4 hit 
+L 605368,4 hit 
+L 60536c,4 hit 
+L 605370,4 hit 
+L 605374,4 hit 
+L 605378,4 hit 
+L 60537c,4 hit 
+S 645360,4 miss eviction 
+S 645460,4 miss eviction 
+S 645560,4 miss eviction 
+S 645660,4 miss eviction 
+S 645370,4 hit 
+S 645470,4 hit 
+S 645570,4 hit 
+S 645670,4 hit 
+L 605460,4 miss eviction 
+L 605464,4 hit 
+L 605468,4 hit 
+L 60546c,4 hit 
+L 605470,4 hit 
+L 605474,4 hit 
+L 605478,4 hit 
+L 60547c,4 hit 
+S 645364,4 hit 
+S 645464,4 miss eviction 
+S 645564,4 hit 
+S 645664,4 hit 
+S 645374,4 hit 
+S 645474,4 hit 
+S 645574,4 hit 
+S 645674,4 hit 
+L 605560,4 miss eviction 
+L 605564,4 hit 
+L 605568,4 hit 
+L 60556c,4 hit 
+L 605570,4 hit 
+L 605574,4 hit 
+L 605578,4 hit 
+L 60557c,4 hit 
+S 645368,4 hit 
+S 645468,4 hit 
+S 645568,4 miss eviction 
+S 645668,4 hit 
+S 645378,4 hit 
+S 645478,4 hit 
+S 645578,4 hit 
+S 645678,4 hit 
+L 605660,4 miss eviction 
+L 605664,4 hit 
+L 605668,4 hit 
+L 60566c,4 hit 
+L 605670,4 hit 
+L 605674,4 hit 
+L 605678,4 hit 
+L 60567c,4 hit 
+S 64536c,4 hit 
+S 64546c,4 hit 
+S 64556c,4 hit 
+S 64566c,4 miss eviction 
+S 64537c,4 hit 
+S 64547c,4 hit 
+S 64557c,4 hit 
+S 64567c,4 hit 
+L 605760,4 miss eviction 
+L 605860,4 miss eviction 
+L 605960,4 miss eviction 
+L 605a60,4 miss eviction 
+L 645370,4 miss eviction 
+L 645374,4 hit 
+L 645378,4 hit 
+L 64537c,4 hit 
+S 645370,4 hit 
+S 645374,4 hit 
+S 645378,4 hit 
+S 64537c,4 hit 
+S 645760,4 miss eviction 
+S 645764,4 hit 
+S 645768,4 hit 
+S 64576c,4 hit 
+L 605770,4 miss eviction 
+S 645770,4 miss eviction 
+L 605870,4 hit 
+S 645774,4 hit 
+L 605970,4 hit 
+S 645778,4 hit 
+L 605a70,4 hit 
+S 64577c,4 hit 
+L 605764,4 miss eviction 
+L 605864,4 hit 
+L 605964,4 hit 
+L 605a64,4 hit 
+L 645470,4 miss eviction 
+L 645474,4 hit 
+L 645478,4 hit 
+L 64547c,4 hit 
+S 645470,4 hit 
+S 645474,4 hit 
+S 645478,4 hit 
+S 64547c,4 hit 
+S 645860,4 miss eviction 
+S 645864,4 hit 
+S 645868,4 hit 
+S 64586c,4 hit 
+L 605774,4 hit 
+S 645870,4 hit 
+L 605874,4 miss eviction 
+S 645874,4 miss eviction 
+L 605974,4 hit 
+S 645878,4 hit 
+L 605a74,4 hit 
+S 64587c,4 hit 
+L 605768,4 hit 
+L 605868,4 miss eviction 
+L 605968,4 hit 
+L 605a68,4 hit 
+L 645570,4 miss eviction 
+L 645574,4 hit 
+L 645578,4 hit 
+L 64557c,4 hit 
+S 645570,4 hit 
+S 645574,4 hit 
+S 645578,4 hit 
+S 64557c,4 hit 
+S 645960,4 miss eviction 
+S 645964,4 hit 
+S 645968,4 hit 
+S 64596c,4 hit 
+L 605778,4 hit 
+S 645970,4 hit 
+L 605878,4 hit 
+S 645974,4 hit 
+L 605978,4 miss eviction 
+S 645978,4 miss eviction 
+L 605a78,4 hit 
+S 64597c,4 hit 
+L 60576c,4 hit 
+L 60586c,4 hit 
+L 60596c,4 miss eviction 
+L 605a6c,4 hit 
+L 645670,4 miss eviction 
+L 645674,4 hit 
+L 645678,4 hit 
+L 64567c,4 hit 
+S 645670,4 hit 
+S 645674,4 hit 
+S 645678,4 hit 
+S 64567c,4 hit 
+S 645a60,4 miss eviction 
+S 645a64,4 hit 
+S 645a68,4 hit 
+S 645a6c,4 hit 
+L 60577c,4 hit 
+S 645a70,4 hit 
+L 60587c,4 hit 
+S 645a74,4 hit 
+L 60597c,4 hit 
+S 645a78,4 hit 
+L 605a7c,4 miss eviction 
+S 645a7c,4 miss eviction 
+L 605380,4 miss eviction 
+L 605384,4 hit 
+L 605388,4 hit 
+L 60538c,4 hit 
+L 605390,4 hit 
+L 605394,4 hit 
+L 605398,4 hit 
+L 60539c,4 hit 
+S 645b60,4 miss eviction 
+S 645c60,4 miss eviction 
+S 645d60,4 miss eviction 
+S 645e60,4 miss eviction 
+S 645b70,4 hit 
+S 645c70,4 hit 
+S 645d70,4 hit 
+S 645e70,4 hit 
+L 605480,4 miss eviction 
+L 605484,4 hit 
+L 605488,4 hit 
+L 60548c,4 hit 
+L 605490,4 hit 
+L 605494,4 hit 
+L 605498,4 hit 
+L 60549c,4 hit 
+S 645b64,4 hit 
+S 645c64,4 hit 
+S 645d64,4 hit 
+S 645e64,4 hit 
+S 645b74,4 hit 
+S 645c74,4 hit 
+S 645d74,4 hit 
+S 645e74,4 hit 
+L 605580,4 miss eviction 
+L 605584,4 hit 
+L 605588,4 hit 
+L 60558c,4 hit 
+L 605590,4 hit 
+L 605594,4 hit 
+L 605598,4 hit 
+L 60559c,4 hit 
+S 645b68,4 hit 
+S 645c68,4 hit 
+S 645d68,4 hit 
+S 645e68,4 hit 
+S 645b78,4 hit 
+S 645c78,4 hit 
+S 645d78,4 hit 
+S 645e78,4 hit 
+L 605680,4 miss eviction 
+L 605684,4 hit 
+L 605688,4 hit 
+L 60568c,4 hit 
+L 605690,4 hit 
+L 605694,4 hit 
+L 605698,4 hit 
+L 60569c,4 hit 
+S 645b6c,4 hit 
+S 645c6c,4 hit 
+S 645d6c,4 hit 
+S 645e6c,4 hit 
+S 645b7c,4 hit 
+S 645c7c,4 hit 
+S 645d7c,4 hit 
+S 645e7c,4 hit 
+L 605780,4 miss eviction 
+L 605880,4 miss eviction 
+L 605980,4 miss eviction 
+L 605a80,4 miss eviction 
+L 645b70,4 hit 
+L 645b74,4 hit 
+L 645b78,4 hit 
+L 645b7c,4 hit 
+S 645b70,4 hit 
+S 645b74,4 hit 
+S 645b78,4 hit 
+S 645b7c,4 hit 
+S 645f60,4 miss eviction 
+S 645f64,4 hit 
+S 645f68,4 hit 
+S 645f6c,4 hit 
+L 605790,4 hit 
+S 645f70,4 hit 
+L 605890,4 hit 
+S 645f74,4 hit 
+L 605990,4 hit 
+S 645f78,4 hit 
+L 605a90,4 hit 
+S 645f7c,4 hit 
+L 605784,4 hit 
+L 605884,4 hit 
+L 605984,4 hit 
+L 605a84,4 hit 
+L 645c70,4 hit 
+L 645c74,4 hit 
+L 645c78,4 hit 
+L 645c7c,4 hit 
+S 645c70,4 hit 
+S 645c74,4 hit 
+S 645c78,4 hit 
+S 645c7c,4 hit 
+S 646060,4 miss eviction 
+S 646064,4 hit 
+S 646068,4 hit 
+S 64606c,4 hit 
+L 605794,4 hit 
+S 646070,4 hit 
+L 605894,4 hit 
+S 646074,4 hit 
+L 605994,4 hit 
+S 646078,4 hit 
+L 605a94,4 hit 
+S 64607c,4 hit 
+L 605788,4 hit 
+L 605888,4 hit 
+L 605988,4 hit 
+L 605a88,4 hit 
+L 645d70,4 hit 
+L 645d74,4 hit 
+L 645d78,4 hit 
+L 645d7c,4 hit 
+S 645d70,4 hit 
+S 645d74,4 hit 
+S 645d78,4 hit 
+S 645d7c,4 hit 
+S 646160,4 miss eviction 
+S 646164,4 hit 
+S 646168,4 hit 
+S 64616c,4 hit 
+L 605798,4 hit 
+S 646170,4 hit 
+L 605898,4 hit 
+S 646174,4 hit 
+L 605998,4 hit 
+S 646178,4 hit 
+L 605a98,4 hit 
+S 64617c,4 hit 
+L 60578c,4 hit 
+L 60588c,4 hit 
+L 60598c,4 hit 
+L 605a8c,4 hit 
+L 645e70,4 hit 
+L 645e74,4 hit 
+L 645e78,4 hit 
+L 645e7c,4 hit 
+S 645e70,4 hit 
+S 645e74,4 hit 
+S 645e78,4 hit 
+S 645e7c,4 hit 
+S 646260,4 miss eviction 
+S 646264,4 hit 
+S 646268,4 hit 
+S 64626c,4 hit 
+L 60579c,4 hit 
+S 646270,4 hit 
+L 60589c,4 hit 
+S 646274,4 hit 
+L 60599c,4 hit 
+S 646278,4 hit 
+L 605a9c,4 hit 
+S 64627c,4 hit 
+L 6053a0,4 miss eviction 
+L 6053a4,4 hit 
+L 6053a8,4 hit 
+L 6053ac,4 hit 
+L 6053b0,4 hit 
+L 6053b4,4 hit 
+L 6053b8,4 hit 
+L 6053bc,4 hit 
+S 646360,4 miss eviction 
+S 646460,4 miss eviction 
+S 646560,4 miss eviction 
+S 646660,4 miss eviction 
+S 646370,4 hit 
+S 646470,4 hit 
+S 646570,4 hit 
+S 646670,4 hit 
+L 6054a0,4 miss eviction 
+L 6054a4,4 hit 
+L 6054a8,4 hit 
+L 6054ac,4 hit 
+L 6054b0,4 hit 
+L 6054b4,4 hit 
+L 6054b8,4 hit 
+L 6054bc,4 hit 
+S 646364,4 hit 
+S 646464,4 hit 
+S 646564,4 hit 
+S 646664,4 hit 
+S 646374,4 hit 
+S 646474,4 hit 
+S 646574,4 hit 
+S 646674,4 hit 
+L 6055a0,4 miss eviction 
+L 6055a4,4 hit 
+L 6055a8,4 hit 
+L 6055ac,4 hit 
+L 6055b0,4 hit 
+L 6055b4,4 hit 
+L 6055b8,4 hit 
+L 6055bc,4 hit 
+S 646368,4 hit 
+S 646468,4 hit 
+S 646568,4 hit 
+S 646668,4 hit 
+S 646378,4 hit 
+S 646478,4 hit 
+S 646578,4 hit 
+S 646678,4 hit 
+L 6056a0,4 miss eviction 
+L 6056a4,4 hit 
+L 6056a8,4 hit 
+L 6056ac,4 hit 
+L 6056b0,4 hit 
+L 6056b4,4 hit 
+L 6056b8,4 hit 
+L 6056bc,4 hit 
+S 64636c,4 hit 
+S 64646c,4 hit 
+S 64656c,4 hit 
+S 64666c,4 hit 
+S 64637c,4 hit 
+S 64647c,4 hit 
+S 64657c,4 hit 
+S 64667c,4 hit 
+L 6057a0,4 miss eviction 
+L 6058a0,4 miss eviction 
+L 6059a0,4 miss eviction 
+L 605aa0,4 miss eviction 
+L 646370,4 hit 
+L 646374,4 hit 
+L 646378,4 hit 
+L 64637c,4 hit 
+S 646370,4 hit 
+S 646374,4 hit 
+S 646378,4 hit 
+S 64637c,4 hit 
+S 646760,4 miss eviction 
+S 646764,4 hit 
+S 646768,4 hit 
+S 64676c,4 hit 
+L 6057b0,4 hit 
+S 646770,4 hit 
+L 6058b0,4 hit 
+S 646774,4 hit 
+L 6059b0,4 hit 
+S 646778,4 hit 
+L 605ab0,4 hit 
+S 64677c,4 hit 
+L 6057a4,4 hit 
+L 6058a4,4 hit 
+L 6059a4,4 hit 
+L 605aa4,4 hit 
+L 646470,4 hit 
+L 646474,4 hit 
+L 646478,4 hit 
+L 64647c,4 hit 
+S 646470,4 hit 
+S 646474,4 hit 
+S 646478,4 hit 
+S 64647c,4 hit 
+S 646860,4 miss eviction 
+S 646864,4 hit 
+S 646868,4 hit 
+S 64686c,4 hit 
+L 6057b4,4 hit 
+S 646870,4 hit 
+L 6058b4,4 hit 
+S 646874,4 hit 
+L 6059b4,4 hit 
+S 646878,4 hit 
+L 605ab4,4 hit 
+S 64687c,4 hit 
+L 6057a8,4 hit 
+L 6058a8,4 hit 
+L 6059a8,4 hit 
+L 605aa8,4 hit 
+L 646570,4 hit 
+L 646574,4 hit 
+L 646578,4 hit 
+L 64657c,4 hit 
+S 646570,4 hit 
+S 646574,4 hit 
+S 646578,4 hit 
+S 64657c,4 hit 
+S 646960,4 miss eviction 
+S 646964,4 hit 
+S 646968,4 hit 
+S 64696c,4 hit 
+L 6057b8,4 hit 
+S 646970,4 hit 
+L 6058b8,4 hit 
+S 646974,4 hit 
+L 6059b8,4 hit 
+S 646978,4 hit 
+L 605ab8,4 hit 
+S 64697c,4 hit 
+L 6057ac,4 hit 
+L 6058ac,4 hit 
+L 6059ac,4 hit 
+L 605aac,4 hit 
+L 646670,4 hit 
+L 646674,4 hit 
+L 646678,4 hit 
+L 64667c,4 hit 
+S 646670,4 hit 
+S 646674,4 hit 
+S 646678,4 hit 
+S 64667c,4 hit 
+S 646a60,4 miss eviction 
+S 646a64,4 hit 
+S 646a68,4 hit 
+S 646a6c,4 hit 
+L 6057bc,4 hit 
+S 646a70,4 hit 
+L 6058bc,4 hit 
+S 646a74,4 hit 
+L 6059bc,4 hit 
+S 646a78,4 hit 
+L 605abc,4 hit 
+S 646a7c,4 hit 
+L 6053c0,4 miss eviction 
+L 6053c4,4 hit 
+L 6053c8,4 hit 
+L 6053cc,4 hit 
+L 6053d0,4 hit 
+L 6053d4,4 hit 
+L 6053d8,4 hit 
+L 6053dc,4 hit 
+S 646b60,4 miss eviction 
+S 646c60,4 miss eviction 
+S 646d60,4 miss eviction 
+S 646e60,4 miss eviction 
+S 646b70,4 hit 
+S 646c70,4 hit 
+S 646d70,4 hit 
+S 646e70,4 hit 
+L 6054c0,4 miss eviction 
+L 6054c4,4 hit 
+L 6054c8,4 hit 
+L 6054cc,4 hit 
+L 6054d0,4 hit 
+L 6054d4,4 hit 
+L 6054d8,4 hit 
+L 6054dc,4 hit 
+S 646b64,4 hit 
+S 646c64,4 hit 
+S 646d64,4 hit 
+S 646e64,4 hit 
+S 646b74,4 hit 
+S 646c74,4 hit 
+S 646d74,4 hit 
+S 646e74,4 hit 
+L 6055c0,4 miss eviction 
+L 6055c4,4 hit 
+L 6055c8,4 hit 
+L 6055cc,4 hit 
+L 6055d0,4 hit 
+L 6055d4,4 hit 
+L 6055d8,4 hit 
+L 6055dc,4 hit 
+S 646b68,4 hit 
+S 646c68,4 hit 
+S 646d68,4 hit 
+S 646e68,4 hit 
+S 646b78,4 hit 
+S 646c78,4 hit 
+S 646d78,4 hit 
+S 646e78,4 hit 
+L 6056c0,4 miss eviction 
+L 6056c4,4 hit 
+L 6056c8,4 hit 
+L 6056cc,4 hit 
+L 6056d0,4 hit 
+L 6056d4,4 hit 
+L 6056d8,4 hit 
+L 6056dc,4 hit 
+S 646b6c,4 hit 
+S 646c6c,4 hit 
+S 646d6c,4 hit 
+S 646e6c,4 hit 
+S 646b7c,4 hit 
+S 646c7c,4 hit 
+S 646d7c,4 hit 
+S 646e7c,4 hit 
+L 6057c0,4 miss eviction 
+L 6058c0,4 miss eviction 
+L 6059c0,4 miss eviction 
+L 605ac0,4 miss eviction 
+L 646b70,4 hit 
+L 646b74,4 hit 
+L 646b78,4 hit 
+L 646b7c,4 hit 
+S 646b70,4 hit 
+S 646b74,4 hit 
+S 646b78,4 hit 
+S 646b7c,4 hit 
+S 646f60,4 miss eviction 
+S 646f64,4 hit 
+S 646f68,4 hit 
+S 646f6c,4 hit 
+L 6057d0,4 hit 
+S 646f70,4 hit 
+L 6058d0,4 hit 
+S 646f74,4 hit 
+L 6059d0,4 hit 
+S 646f78,4 hit 
+L 605ad0,4 hit 
+S 646f7c,4 hit 
+L 6057c4,4 hit 
+L 6058c4,4 hit 
+L 6059c4,4 hit 
+L 605ac4,4 hit 
+L 646c70,4 hit 
+L 646c74,4 hit 
+L 646c78,4 hit 
+L 646c7c,4 hit 
+S 646c70,4 hit 
+S 646c74,4 hit 
+S 646c78,4 hit 
+S 646c7c,4 hit 
+S 647060,4 miss eviction 
+S 647064,4 hit 
+S 647068,4 hit 
+S 64706c,4 hit 
+L 6057d4,4 hit 
+S 647070,4 hit 
+L 6058d4,4 hit 
+S 647074,4 hit 
+L 6059d4,4 hit 
+S 647078,4 hit 
+L 605ad4,4 hit 
+S 64707c,4 hit 
+L 6057c8,4 hit 
+L 6058c8,4 hit 
+L 6059c8,4 hit 
+L 605ac8,4 hit 
+L 646d70,4 hit 
+L 646d74,4 hit 
+L 646d78,4 hit 
+L 646d7c,4 hit 
+S 646d70,4 hit 
+S 646d74,4 hit 
+S 646d78,4 hit 
+S 646d7c,4 hit 
+S 647160,4 miss eviction 
+S 647164,4 hit 
+S 647168,4 hit 
+S 64716c,4 hit 
+L 6057d8,4 hit 
+S 647170,4 hit 
+L 6058d8,4 hit 
+S 647174,4 hit 
+L 6059d8,4 hit 
+S 647178,4 hit 
+L 605ad8,4 hit 
+S 64717c,4 hit 
+L 6057cc,4 hit 
+L 6058cc,4 hit 
+L 6059cc,4 hit 
+L 605acc,4 hit 
+L 646e70,4 hit 
+L 646e74,4 hit 
+L 646e78,4 hit 
+L 646e7c,4 hit 
+S 646e70,4 hit 
+S 646e74,4 hit 
+S 646e78,4 hit 
+S 646e7c,4 hit 
+S 647260,4 miss eviction 
+S 647264,4 hit 
+S 647268,4 hit 
+S 64726c,4 hit 
+L 6057dc,4 hit 
+S 647270,4 hit 
+L 6058dc,4 hit 
+S 647274,4 hit 
+L 6059dc,4 hit 
+S 647278,4 hit 
+L 605adc,4 hit 
+S 64727c,4 hit 
+L 605ae0,4 miss eviction 
+L 605ae4,4 hit 
+L 605ae8,4 hit 
+L 605aec,4 hit 
+L 605af0,4 hit 
+L 605af4,4 hit 
+L 605af8,4 hit 
+L 605afc,4 hit 
+S 643380,4 miss eviction 
+S 643480,4 miss eviction 
+S 643580,4 miss eviction 
+S 643680,4 miss eviction 
+S 643390,4 hit 
+S 643490,4 hit 
+S 643590,4 hit 
+S 643690,4 hit 
+L 605be0,4 miss eviction 
+L 605be4,4 hit 
+L 605be8,4 hit 
+L 605bec,4 hit 
+L 605bf0,4 hit 
+L 605bf4,4 hit 
+L 605bf8,4 hit 
+L 605bfc,4 hit 
+S 643384,4 hit 
+S 643484,4 hit 
+S 643584,4 hit 
+S 643684,4 hit 
+S 643394,4 hit 
+S 643494,4 hit 
+S 643594,4 hit 
+S 643694,4 hit 
+L 605ce0,4 miss eviction 
+L 605ce4,4 hit 
+L 605ce8,4 hit 
+L 605cec,4 hit 
+L 605cf0,4 hit 
+L 605cf4,4 hit 
+L 605cf8,4 hit 
+L 605cfc,4 hit 
+S 643388,4 hit 
+S 643488,4 hit 
+S 643588,4 hit 
+S 643688,4 hit 
+S 643398,4 hit 
+S 643498,4 hit 
+S 643598,4 hit 
+S 643698,4 hit 
+L 605de0,4 miss eviction 
+L 605de4,4 hit 
+L 605de8,4 hit 
+L 605dec,4 hit 
+L 605df0,4 hit 
+L 605df4,4 hit 
+L 605df8,4 hit 
+L 605dfc,4 hit 
+S 64338c,4 hit 
+S 64348c,4 hit 
+S 64358c,4 hit 
+S 64368c,4 hit 
+S 64339c,4 hit 
+S 64349c,4 hit 
+S 64359c,4 hit 
+S 64369c,4 hit 
+L 605ee0,4 miss eviction 
+L 605fe0,4 miss eviction 
+L 6060e0,4 miss eviction 
+L 6061e0,4 miss eviction 
+L 643390,4 hit 
+L 643394,4 hit 
+L 643398,4 hit 
+L 64339c,4 hit 
+S 643390,4 hit 
+S 643394,4 hit 
+S 643398,4 hit 
+S 64339c,4 hit 
+S 643780,4 miss eviction 
+S 643784,4 hit 
+S 643788,4 hit 
+S 64378c,4 hit 
+L 605ef0,4 hit 
+S 643790,4 hit 
+L 605ff0,4 hit 
+S 643794,4 hit 
+L 6060f0,4 hit 
+S 643798,4 hit 
+L 6061f0,4 hit 
+S 64379c,4 hit 
+L 605ee4,4 hit 
+L 605fe4,4 hit 
+L 6060e4,4 hit 
+L 6061e4,4 hit 
+L 643490,4 hit 
+L 643494,4 hit 
+L 643498,4 hit 
+L 64349c,4 hit 
+S 643490,4 hit 
+S 643494,4 hit 
+S 643498,4 hit 
+S 64349c,4 hit 
+S 643880,4 miss eviction 
+S 643884,4 hit 
+S 643888,4 hit 
+S 64388c,4 hit 
+L 605ef4,4 hit 
+S 643890,4 hit 
+L 605ff4,4 hit 
+S 643894,4 hit 
+L 6060f4,4 hit 
+S 643898,4 hit 
+L 6061f4,4 hit 
+S 64389c,4 hit 
+L 605ee8,4 hit 
+L 605fe8,4 hit 
+L 6060e8,4 hit 
+L 6061e8,4 hit 
+L 643590,4 hit 
+L 643594,4 hit 
+L 643598,4 hit 
+L 64359c,4 hit 
+S 643590,4 hit 
+S 643594,4 hit 
+S 643598,4 hit 
+S 64359c,4 hit 
+S 643980,4 miss eviction 
+S 643984,4 hit 
+S 643988,4 hit 
+S 64398c,4 hit 
+L 605ef8,4 hit 
+S 643990,4 hit 
+L 605ff8,4 hit 
+S 643994,4 hit 
+L 6060f8,4 hit 
+S 643998,4 hit 
+L 6061f8,4 hit 
+S 64399c,4 hit 
+L 605eec,4 hit 
+L 605fec,4 hit 
+L 6060ec,4 hit 
+L 6061ec,4 hit 
+L 643690,4 hit 
+L 643694,4 hit 
+L 643698,4 hit 
+L 64369c,4 hit 
+S 643690,4 hit 
+S 643694,4 hit 
+S 643698,4 hit 
+S 64369c,4 hit 
+S 643a80,4 miss eviction 
+S 643a84,4 hit 
+S 643a88,4 hit 
+S 643a8c,4 hit 
+L 605efc,4 hit 
+S 643a90,4 hit 
+L 605ffc,4 hit 
+S 643a94,4 hit 
+L 6060fc,4 hit 
+S 643a98,4 hit 
+L 6061fc,4 hit 
+S 643a9c,4 hit 
+L 605b00,4 miss eviction 
+L 605b04,4 hit 
+L 605b08,4 hit 
+L 605b0c,4 hit 
+L 605b10,4 hit 
+L 605b14,4 hit 
+L 605b18,4 hit 
+L 605b1c,4 hit 
+S 643b80,4 miss eviction 
+S 643c80,4 miss eviction 
+S 643d80,4 miss eviction 
+S 643e80,4 miss eviction 
+S 643b90,4 hit 
+S 643c90,4 hit 
+S 643d90,4 hit 
+S 643e90,4 hit 
+L 605c00,4 miss eviction 
+L 605c04,4 hit 
+L 605c08,4 hit 
+L 605c0c,4 hit 
+L 605c10,4 hit 
+L 605c14,4 hit 
+L 605c18,4 hit 
+L 605c1c,4 hit 
+S 643b84,4 hit 
+S 643c84,4 hit 
+S 643d84,4 hit 
+S 643e84,4 hit 
+S 643b94,4 hit 
+S 643c94,4 hit 
+S 643d94,4 hit 
+S 643e94,4 hit 
+L 605d00,4 miss eviction 
+L 605d04,4 hit 
+L 605d08,4 hit 
+L 605d0c,4 hit 
+L 605d10,4 hit 
+L 605d14,4 hit 
+L 605d18,4 hit 
+L 605d1c,4 hit 
+S 643b88,4 hit 
+S 643c88,4 hit 
+S 643d88,4 hit 
+S 643e88,4 hit 
+S 643b98,4 hit 
+S 643c98,4 hit 
+S 643d98,4 hit 
+S 643e98,4 hit 
+L 605e00,4 miss eviction 
+L 605e04,4 hit 
+L 605e08,4 hit 
+L 605e0c,4 hit 
+L 605e10,4 hit 
+L 605e14,4 hit 
+L 605e18,4 hit 
+L 605e1c,4 hit 
+S 643b8c,4 hit 
+S 643c8c,4 hit 
+S 643d8c,4 hit 
+S 643e8c,4 hit 
+S 643b9c,4 hit 
+S 643c9c,4 hit 
+S 643d9c,4 hit 
+S 643e9c,4 hit 
+L 605f00,4 miss eviction 
+L 606000,4 miss eviction 
+L 606100,4 miss eviction 
+L 606200,4 miss eviction 
+L 643b90,4 hit 
+L 643b94,4 hit 
+L 643b98,4 hit 
+L 643b9c,4 hit 
+S 643b90,4 hit 
+S 643b94,4 hit 
+S 643b98,4 hit 
+S 643b9c,4 hit 
+S 643f80,4 miss eviction 
+S 643f84,4 hit 
+S 643f88,4 hit 
+S 643f8c,4 hit 
+L 605f10,4 hit 
+S 643f90,4 hit 
+L 606010,4 hit 
+S 643f94,4 hit 
+L 606110,4 hit 
+S 643f98,4 hit 
+L 606210,4 hit 
+S 643f9c,4 hit 
+L 605f04,4 hit 
+L 606004,4 hit 
+L 606104,4 hit 
+L 606204,4 hit 
+L 643c90,4 hit 
+L 643c94,4 hit 
+L 643c98,4 hit 
+L 643c9c,4 hit 
+S 643c90,4 hit 
+S 643c94,4 hit 
+S 643c98,4 hit 
+S 643c9c,4 hit 
+S 644080,4 miss eviction 
+S 644084,4 hit 
+S 644088,4 hit 
+S 64408c,4 hit 
+L 605f14,4 hit 
+S 644090,4 hit 
+L 606014,4 hit 
+S 644094,4 hit 
+L 606114,4 hit 
+S 644098,4 hit 
+L 606214,4 hit 
+S 64409c,4 hit 
+L 605f08,4 hit 
+L 606008,4 hit 
+L 606108,4 hit 
+L 606208,4 hit 
+L 643d90,4 hit 
+L 643d94,4 hit 
+L 643d98,4 hit 
+L 643d9c,4 hit 
+S 643d90,4 hit 
+S 643d94,4 hit 
+S 643d98,4 hit 
+S 643d9c,4 hit 
+S 644180,4 miss eviction 
+S 644184,4 hit 
+S 644188,4 hit 
+S 64418c,4 hit 
+L 605f18,4 hit 
+S 644190,4 hit 
+L 606018,4 hit 
+S 644194,4 hit 
+L 606118,4 hit 
+S 644198,4 hit 
+L 606218,4 hit 
+S 64419c,4 hit 
+L 605f0c,4 hit 
+L 60600c,4 hit 
+L 60610c,4 hit 
+L 60620c,4 hit 
+L 643e90,4 hit 
+L 643e94,4 hit 
+L 643e98,4 hit 
+L 643e9c,4 hit 
+S 643e90,4 hit 
+S 643e94,4 hit 
+S 643e98,4 hit 
+S 643e9c,4 hit 
+S 644280,4 miss eviction 
+S 644284,4 hit 
+S 644288,4 hit 
+S 64428c,4 hit 
+L 605f1c,4 hit 
+S 644290,4 hit 
+L 60601c,4 hit 
+S 644294,4 hit 
+L 60611c,4 hit 
+S 644298,4 hit 
+L 60621c,4 hit 
+S 64429c,4 hit 
+L 605b20,4 miss eviction 
+L 605b24,4 hit 
+L 605b28,4 hit 
+L 605b2c,4 hit 
+L 605b30,4 hit 
+L 605b34,4 hit 
+L 605b38,4 hit 
+L 605b3c,4 hit 
+S 644380,4 miss eviction 
+S 644480,4 miss eviction 
+S 644580,4 miss eviction 
+S 644680,4 miss eviction 
+S 644390,4 hit 
+S 644490,4 hit 
+S 644590,4 hit 
+S 644690,4 hit 
+L 605c20,4 miss eviction 
+L 605c24,4 hit 
+L 605c28,4 hit 
+L 605c2c,4 hit 
+L 605c30,4 hit 
+L 605c34,4 hit 
+L 605c38,4 hit 
+L 605c3c,4 hit 
+S 644384,4 hit 
+S 644484,4 hit 
+S 644584,4 hit 
+S 644684,4 hit 
+S 644394,4 hit 
+S 644494,4 hit 
+S 644594,4 hit 
+S 644694,4 hit 
+L 605d20,4 miss eviction 
+L 605d24,4 hit 
+L 605d28,4 hit 
+L 605d2c,4 hit 
+L 605d30,4 hit 
+L 605d34,4 hit 
+L 605d38,4 hit 
+L 605d3c,4 hit 
+S 644388,4 hit 
+S 644488,4 hit 
+S 644588,4 hit 
+S 644688,4 hit 
+S 644398,4 hit 
+S 644498,4 hit 
+S 644598,4 hit 
+S 644698,4 hit 
+L 605e20,4 miss eviction 
+L 605e24,4 hit 
+L 605e28,4 hit 
+L 605e2c,4 hit 
+L 605e30,4 hit 
+L 605e34,4 hit 
+L 605e38,4 hit 
+L 605e3c,4 hit 
+S 64438c,4 hit 
+S 64448c,4 hit 
+S 64458c,4 hit 
+S 64468c,4 hit 
+S 64439c,4 hit 
+S 64449c,4 hit 
+S 64459c,4 hit 
+S 64469c,4 hit 
+L 605f20,4 miss eviction 
+L 606020,4 miss eviction 
+L 606120,4 miss eviction 
+L 606220,4 miss eviction 
+L 644390,4 hit 
+L 644394,4 hit 
+L 644398,4 hit 
+L 64439c,4 hit 
+S 644390,4 hit 
+S 644394,4 hit 
+S 644398,4 hit 
+S 64439c,4 hit 
+S 644780,4 miss eviction 
+S 644784,4 hit 
+S 644788,4 hit 
+S 64478c,4 hit 
+L 605f30,4 hit 
+S 644790,4 hit 
+L 606030,4 hit 
+S 644794,4 hit 
+L 606130,4 hit 
+S 644798,4 hit 
+L 606230,4 hit 
+S 64479c,4 hit 
+L 605f24,4 hit 
+L 606024,4 hit 
+L 606124,4 hit 
+L 606224,4 hit 
+L 644490,4 hit 
+L 644494,4 hit 
+L 644498,4 hit 
+L 64449c,4 hit 
+S 644490,4 hit 
+S 644494,4 hit 
+S 644498,4 hit 
+S 64449c,4 hit 
+S 644880,4 miss eviction 
+S 644884,4 hit 
+S 644888,4 hit 
+S 64488c,4 hit 
+L 605f34,4 hit 
+S 644890,4 hit 
+L 606034,4 hit 
+S 644894,4 hit 
+L 606134,4 hit 
+S 644898,4 hit 
+L 606234,4 hit 
+S 64489c,4 hit 
+L 605f28,4 hit 
+L 606028,4 hit 
+L 606128,4 hit 
+L 606228,4 hit 
+L 644590,4 hit 
+L 644594,4 hit 
+L 644598,4 hit 
+L 64459c,4 hit 
+S 644590,4 hit 
+S 644594,4 hit 
+S 644598,4 hit 
+S 64459c,4 hit 
+S 644980,4 miss eviction 
+S 644984,4 hit 
+S 644988,4 hit 
+S 64498c,4 hit 
+L 605f38,4 hit 
+S 644990,4 hit 
+L 606038,4 hit 
+S 644994,4 hit 
+L 606138,4 hit 
+S 644998,4 hit 
+L 606238,4 hit 
+S 64499c,4 hit 
+L 605f2c,4 hit 
+L 60602c,4 hit 
+L 60612c,4 hit 
+L 60622c,4 hit 
+L 644690,4 hit 
+L 644694,4 hit 
+L 644698,4 hit 
+L 64469c,4 hit 
+S 644690,4 hit 
+S 644694,4 hit 
+S 644698,4 hit 
+S 64469c,4 hit 
+S 644a80,4 miss eviction 
+S 644a84,4 hit 
+S 644a88,4 hit 
+S 644a8c,4 hit 
+L 605f3c,4 hit 
+S 644a90,4 hit 
+L 60603c,4 hit 
+S 644a94,4 hit 
+L 60613c,4 hit 
+S 644a98,4 hit 
+L 60623c,4 hit 
+S 644a9c,4 hit 
+L 605b40,4 miss eviction 
+L 605b44,4 hit 
+L 605b48,4 hit 
+L 605b4c,4 hit 
+L 605b50,4 hit 
+L 605b54,4 hit 
+L 605b58,4 hit 
+L 605b5c,4 hit 
+S 644b80,4 miss eviction 
+S 644c80,4 miss eviction 
+S 644d80,4 miss eviction 
+S 644e80,4 miss eviction 
+S 644b90,4 hit 
+S 644c90,4 hit 
+S 644d90,4 hit 
+S 644e90,4 hit 
+L 605c40,4 miss eviction 
+L 605c44,4 hit 
+L 605c48,4 hit 
+L 605c4c,4 hit 
+L 605c50,4 hit 
+L 605c54,4 hit 
+L 605c58,4 hit 
+L 605c5c,4 hit 
+S 644b84,4 hit 
+S 644c84,4 hit 
+S 644d84,4 hit 
+S 644e84,4 hit 
+S 644b94,4 hit 
+S 644c94,4 hit 
+S 644d94,4 hit 
+S 644e94,4 hit 
+L 605d40,4 miss eviction 
+L 605d44,4 hit 
+L 605d48,4 hit 
+L 605d4c,4 hit 
+L 605d50,4 hit 
+L 605d54,4 hit 
+L 605d58,4 hit 
+L 605d5c,4 hit 
+S 644b88,4 hit 
+S 644c88,4 hit 
+S 644d88,4 hit 
+S 644e88,4 hit 
+S 644b98,4 hit 
+S 644c98,4 hit 
+S 644d98,4 hit 
+S 644e98,4 hit 
+L 605e40,4 miss eviction 
+L 605e44,4 hit 
+L 605e48,4 hit 
+L 605e4c,4 hit 
+L 605e50,4 hit 
+L 605e54,4 hit 
+L 605e58,4 hit 
+L 605e5c,4 hit 
+S 644b8c,4 hit 
+S 644c8c,4 hit 
+S 644d8c,4 hit 
+S 644e8c,4 hit 
+S 644b9c,4 hit 
+S 644c9c,4 hit 
+S 644d9c,4 hit 
+S 644e9c,4 hit 
+L 605f40,4 miss eviction 
+L 606040,4 miss eviction 
+L 606140,4 miss eviction 
+L 606240,4 miss eviction 
+L 644b90,4 hit 
+L 644b94,4 hit 
+L 644b98,4 hit 
+L 644b9c,4 hit 
+S 644b90,4 hit 
+S 644b94,4 hit 
+S 644b98,4 hit 
+S 644b9c,4 hit 
+S 644f80,4 miss eviction 
+S 644f84,4 hit 
+S 644f88,4 hit 
+S 644f8c,4 hit 
+L 605f50,4 hit 
+S 644f90,4 hit 
+L 606050,4 hit 
+S 644f94,4 hit 
+L 606150,4 hit 
+S 644f98,4 hit 
+L 606250,4 hit 
+S 644f9c,4 hit 
+L 605f44,4 hit 
+L 606044,4 hit 
+L 606144,4 hit 
+L 606244,4 hit 
+L 644c90,4 hit 
+L 644c94,4 hit 
+L 644c98,4 hit 
+L 644c9c,4 hit 
+S 644c90,4 hit 
+S 644c94,4 hit 
+S 644c98,4 hit 
+S 644c9c,4 hit 
+S 645080,4 miss eviction 
+S 645084,4 hit 
+S 645088,4 hit 
+S 64508c,4 hit 
+L 605f54,4 hit 
+S 645090,4 hit 
+L 606054,4 hit 
+S 645094,4 hit 
+L 606154,4 hit 
+S 645098,4 hit 
+L 606254,4 hit 
+S 64509c,4 hit 
+L 605f48,4 hit 
+L 606048,4 hit 
+L 606148,4 hit 
+L 606248,4 hit 
+L 644d90,4 hit 
+L 644d94,4 hit 
+L 644d98,4 hit 
+L 644d9c,4 hit 
+S 644d90,4 hit 
+S 644d94,4 hit 
+S 644d98,4 hit 
+S 644d9c,4 hit 
+S 645180,4 miss eviction 
+S 645184,4 hit 
+S 645188,4 hit 
+S 64518c,4 hit 
+L 605f58,4 hit 
+S 645190,4 hit 
+L 606058,4 hit 
+S 645194,4 hit 
+L 606158,4 hit 
+S 645198,4 hit 
+L 606258,4 hit 
+S 64519c,4 hit 
+L 605f4c,4 hit 
+L 60604c,4 hit 
+L 60614c,4 hit 
+L 60624c,4 hit 
+L 644e90,4 hit 
+L 644e94,4 hit 
+L 644e98,4 hit 
+L 644e9c,4 hit 
+S 644e90,4 hit 
+S 644e94,4 hit 
+S 644e98,4 hit 
+S 644e9c,4 hit 
+S 645280,4 miss eviction 
+S 645284,4 hit 
+S 645288,4 hit 
+S 64528c,4 hit 
+L 605f5c,4 hit 
+S 645290,4 hit 
+L 60605c,4 hit 
+S 645294,4 hit 
+L 60615c,4 hit 
+S 645298,4 hit 
+L 60625c,4 hit 
+S 64529c,4 hit 
+L 605b60,4 miss eviction 
+L 605b64,4 hit 
+L 605b68,4 hit 
+L 605b6c,4 hit 
+L 605b70,4 hit 
+L 605b74,4 hit 
+L 605b78,4 hit 
+L 605b7c,4 hit 
+S 645380,4 miss eviction 
+S 645480,4 miss eviction 
+S 645580,4 miss eviction 
+S 645680,4 miss eviction 
+S 645390,4 hit 
+S 645490,4 hit 
+S 645590,4 hit 
+S 645690,4 hit 
+L 605c60,4 miss eviction 
+L 605c64,4 hit 
+L 605c68,4 hit 
+L 605c6c,4 hit 
+L 605c70,4 hit 
+L 605c74,4 hit 
+L 605c78,4 hit 
+L 605c7c,4 hit 
+S 645384,4 hit 
+S 645484,4 hit 
+S 645584,4 hit 
+S 645684,4 hit 
+S 645394,4 hit 
+S 645494,4 hit 
+S 645594,4 hit 
+S 645694,4 hit 
+L 605d60,4 miss eviction 
+L 605d64,4 hit 
+L 605d68,4 hit 
+L 605d6c,4 hit 
+L 605d70,4 hit 
+L 605d74,4 hit 
+L 605d78,4 hit 
+L 605d7c,4 hit 
+S 645388,4 hit 
+S 645488,4 hit 
+S 645588,4 hit 
+S 645688,4 hit 
+S 645398,4 hit 
+S 645498,4 hit 
+S 645598,4 hit 
+S 645698,4 hit 
+L 605e60,4 miss eviction 
+L 605e64,4 hit 
+L 605e68,4 hit 
+L 605e6c,4 hit 
+L 605e70,4 hit 
+L 605e74,4 hit 
+L 605e78,4 hit 
+L 605e7c,4 hit 
+S 64538c,4 hit 
+S 64548c,4 hit 
+S 64558c,4 hit 
+S 64568c,4 hit 
+S 64539c,4 hit 
+S 64549c,4 hit 
+S 64559c,4 hit 
+S 64569c,4 hit 
+L 605f60,4 miss eviction 
+L 606060,4 miss eviction 
+L 606160,4 miss eviction 
+L 606260,4 miss eviction 
+L 645390,4 hit 
+L 645394,4 hit 
+L 645398,4 hit 
+L 64539c,4 hit 
+S 645390,4 hit 
+S 645394,4 hit 
+S 645398,4 hit 
+S 64539c,4 hit 
+S 645780,4 miss eviction 
+S 645784,4 hit 
+S 645788,4 hit 
+S 64578c,4 hit 
+L 605f70,4 hit 
+S 645790,4 hit 
+L 606070,4 hit 
+S 645794,4 hit 
+L 606170,4 hit 
+S 645798,4 hit 
+L 606270,4 hit 
+S 64579c,4 hit 
+L 605f64,4 hit 
+L 606064,4 hit 
+L 606164,4 hit 
+L 606264,4 hit 
+L 645490,4 hit 
+L 645494,4 hit 
+L 645498,4 hit 
+L 64549c,4 hit 
+S 645490,4 hit 
+S 645494,4 hit 
+S 645498,4 hit 
+S 64549c,4 hit 
+S 645880,4 miss eviction 
+S 645884,4 hit 
+S 645888,4 hit 
+S 64588c,4 hit 
+L 605f74,4 hit 
+S 645890,4 hit 
+L 606074,4 hit 
+S 645894,4 hit 
+L 606174,4 hit 
+S 645898,4 hit 
+L 606274,4 hit 
+S 64589c,4 hit 
+L 605f68,4 hit 
+L 606068,4 hit 
+L 606168,4 hit 
+L 606268,4 hit 
+L 645590,4 hit 
+L 645594,4 hit 
+L 645598,4 hit 
+L 64559c,4 hit 
+S 645590,4 hit 
+S 645594,4 hit 
+S 645598,4 hit 
+S 64559c,4 hit 
+S 645980,4 miss eviction 
+S 645984,4 hit 
+S 645988,4 hit 
+S 64598c,4 hit 
+L 605f78,4 hit 
+S 645990,4 hit 
+L 606078,4 hit 
+S 645994,4 hit 
+L 606178,4 hit 
+S 645998,4 hit 
+L 606278,4 hit 
+S 64599c,4 hit 
+L 605f6c,4 hit 
+L 60606c,4 hit 
+L 60616c,4 hit 
+L 60626c,4 hit 
+L 645690,4 hit 
+L 645694,4 hit 
+L 645698,4 hit 
+L 64569c,4 hit 
+S 645690,4 hit 
+S 645694,4 hit 
+S 645698,4 hit 
+S 64569c,4 hit 
+S 645a80,4 miss eviction 
+S 645a84,4 hit 
+S 645a88,4 hit 
+S 645a8c,4 hit 
+L 605f7c,4 hit 
+S 645a90,4 hit 
+L 60607c,4 hit 
+S 645a94,4 hit 
+L 60617c,4 hit 
+S 645a98,4 hit 
+L 60627c,4 hit 
+S 645a9c,4 hit 
+L 605b80,4 miss eviction 
+L 605b84,4 hit 
+L 605b88,4 hit 
+L 605b8c,4 hit 
+L 605b90,4 hit 
+L 605b94,4 hit 
+L 605b98,4 hit 
+L 605b9c,4 hit 
+S 645b80,4 miss eviction 
+S 645c80,4 miss eviction 
+S 645d80,4 miss eviction 
+S 645e80,4 miss eviction 
+S 645b90,4 hit 
+S 645c90,4 hit 
+S 645d90,4 hit 
+S 645e90,4 hit 
+L 605c80,4 miss eviction 
+L 605c84,4 hit 
+L 605c88,4 hit 
+L 605c8c,4 hit 
+L 605c90,4 hit 
+L 605c94,4 hit 
+L 605c98,4 hit 
+L 605c9c,4 hit 
+S 645b84,4 hit 
+S 645c84,4 miss eviction 
+S 645d84,4 hit 
+S 645e84,4 hit 
+S 645b94,4 hit 
+S 645c94,4 hit 
+S 645d94,4 hit 
+S 645e94,4 hit 
+L 605d80,4 miss eviction 
+L 605d84,4 hit 
+L 605d88,4 hit 
+L 605d8c,4 hit 
+L 605d90,4 hit 
+L 605d94,4 hit 
+L 605d98,4 hit 
+L 605d9c,4 hit 
+S 645b88,4 hit 
+S 645c88,4 hit 
+S 645d88,4 miss eviction 
+S 645e88,4 hit 
+S 645b98,4 hit 
+S 645c98,4 hit 
+S 645d98,4 hit 
+S 645e98,4 hit 
+L 605e80,4 miss eviction 
+L 605e84,4 hit 
+L 605e88,4 hit 
+L 605e8c,4 hit 
+L 605e90,4 hit 
+L 605e94,4 hit 
+L 605e98,4 hit 
+L 605e9c,4 hit 
+S 645b8c,4 hit 
+S 645c8c,4 hit 
+S 645d8c,4 hit 
+S 645e8c,4 miss eviction 
+S 645b9c,4 hit 
+S 645c9c,4 hit 
+S 645d9c,4 hit 
+S 645e9c,4 hit 
+L 605f80,4 miss eviction 
+L 606080,4 miss eviction 
+L 606180,4 miss eviction 
+L 606280,4 miss eviction 
+L 645b90,4 miss eviction 
+L 645b94,4 hit 
+L 645b98,4 hit 
+L 645b9c,4 hit 
+S 645b90,4 hit 
+S 645b94,4 hit 
+S 645b98,4 hit 
+S 645b9c,4 hit 
+S 645f80,4 miss eviction 
+S 645f84,4 hit 
+S 645f88,4 hit 
+S 645f8c,4 hit 
+L 605f90,4 miss eviction 
+S 645f90,4 miss eviction 
+L 606090,4 hit 
+S 645f94,4 hit 
+L 606190,4 hit 
+S 645f98,4 hit 
+L 606290,4 hit 
+S 645f9c,4 hit 
+L 605f84,4 miss eviction 
+L 606084,4 hit 
+L 606184,4 hit 
+L 606284,4 hit 
+L 645c90,4 miss eviction 
+L 645c94,4 hit 
+L 645c98,4 hit 
+L 645c9c,4 hit 
+S 645c90,4 hit 
+S 645c94,4 hit 
+S 645c98,4 hit 
+S 645c9c,4 hit 
+S 646080,4 miss eviction 
+S 646084,4 hit 
+S 646088,4 hit 
+S 64608c,4 hit 
+L 605f94,4 hit 
+S 646090,4 hit 
+L 606094,4 miss eviction 
+S 646094,4 miss eviction 
+L 606194,4 hit 
+S 646098,4 hit 
+L 606294,4 hit 
+S 64609c,4 hit 
+L 605f88,4 hit 
+L 606088,4 miss eviction 
+L 606188,4 hit 
+L 606288,4 hit 
+L 645d90,4 miss eviction 
+L 645d94,4 hit 
+L 645d98,4 hit 
+L 645d9c,4 hit 
+S 645d90,4 hit 
+S 645d94,4 hit 
+S 645d98,4 hit 
+S 645d9c,4 hit 
+S 646180,4 miss eviction 
+S 646184,4 hit 
+S 646188,4 hit 
+S 64618c,4 hit 
+L 605f98,4 hit 
+S 646190,4 hit 
+L 606098,4 hit 
+S 646194,4 hit 
+L 606198,4 miss eviction 
+S 646198,4 miss eviction 
+L 606298,4 hit 
+S 64619c,4 hit 
+L 605f8c,4 hit 
+L 60608c,4 hit 
+L 60618c,4 miss eviction 
+L 60628c,4 hit 
+L 645e90,4 miss eviction 
+L 645e94,4 hit 
+L 645e98,4 hit 
+L 645e9c,4 hit 
+S 645e90,4 hit 
+S 645e94,4 hit 
+S 645e98,4 hit 
+S 645e9c,4 hit 
+S 646280,4 miss eviction 
+S 646284,4 hit 
+S 646288,4 hit 
+S 64628c,4 hit 
+L 605f9c,4 hit 
+S 646290,4 hit 
+L 60609c,4 hit 
+S 646294,4 hit 
+L 60619c,4 hit 
+S 646298,4 hit 
+L 60629c,4 miss eviction 
+S 64629c,4 miss eviction 
+L 605ba0,4 miss eviction 
+L 605ba4,4 hit 
+L 605ba8,4 hit 
+L 605bac,4 hit 
+L 605bb0,4 hit 
+L 605bb4,4 hit 
+L 605bb8,4 hit 
+L 605bbc,4 hit 
+S 646380,4 miss eviction 
+S 646480,4 miss eviction 
+S 646580,4 miss eviction 
+S 646680,4 miss eviction 
+S 646390,4 hit 
+S 646490,4 hit 
+S 646590,4 hit 
+S 646690,4 hit 
+L 605ca0,4 miss eviction 
+L 605ca4,4 hit 
+L 605ca8,4 hit 
+L 605cac,4 hit 
+L 605cb0,4 hit 
+L 605cb4,4 hit 
+L 605cb8,4 hit 
+L 605cbc,4 hit 
+S 646384,4 hit 
+S 646484,4 hit 
+S 646584,4 hit 
+S 646684,4 hit 
+S 646394,4 hit 
+S 646494,4 hit 
+S 646594,4 hit 
+S 646694,4 hit 
+L 605da0,4 miss eviction 
+L 605da4,4 hit 
+L 605da8,4 hit 
+L 605dac,4 hit 
+L 605db0,4 hit 
+L 605db4,4 hit 
+L 605db8,4 hit 
+L 605dbc,4 hit 
+S 646388,4 hit 
+S 646488,4 hit 
+S 646588,4 hit 
+S 646688,4 hit 
+S 646398,4 hit 
+S 646498,4 hit 
+S 646598,4 hit 
+S 646698,4 hit 
+L 605ea0,4 miss eviction 
+L 605ea4,4 hit 
+L 605ea8,4 hit 
+L 605eac,4 hit 
+L 605eb0,4 hit 
+L 605eb4,4 hit 
+L 605eb8,4 hit 
+L 605ebc,4 hit 
+S 64638c,4 hit 
+S 64648c,4 hit 
+S 64658c,4 hit 
+S 64668c,4 hit 
+S 64639c,4 hit 
+S 64649c,4 hit 
+S 64659c,4 hit 
+S 64669c,4 hit 
+L 605fa0,4 miss eviction 
+L 6060a0,4 miss eviction 
+L 6061a0,4 miss eviction 
+L 6062a0,4 miss eviction 
+L 646390,4 hit 
+L 646394,4 hit 
+L 646398,4 hit 
+L 64639c,4 hit 
+S 646390,4 hit 
+S 646394,4 hit 
+S 646398,4 hit 
+S 64639c,4 hit 
+S 646780,4 miss eviction 
+S 646784,4 hit 
+S 646788,4 hit 
+S 64678c,4 hit 
+L 605fb0,4 hit 
+S 646790,4 hit 
+L 6060b0,4 hit 
+S 646794,4 hit 
+L 6061b0,4 hit 
+S 646798,4 hit 
+L 6062b0,4 hit 
+S 64679c,4 hit 
+L 605fa4,4 hit 
+L 6060a4,4 hit 
+L 6061a4,4 hit 
+L 6062a4,4 hit 
+L 646490,4 hit 
+L 646494,4 hit 
+L 646498,4 hit 
+L 64649c,4 hit 
+S 646490,4 hit 
+S 646494,4 hit 
+S 646498,4 hit 
+S 64649c,4 hit 
+S 646880,4 miss eviction 
+S 646884,4 hit 
+S 646888,4 hit 
+S 64688c,4 hit 
+L 605fb4,4 hit 
+S 646890,4 hit 
+L 6060b4,4 hit 
+S 646894,4 hit 
+L 6061b4,4 hit 
+S 646898,4 hit 
+L 6062b4,4 hit 
+S 64689c,4 hit 
+L 605fa8,4 hit 
+L 6060a8,4 hit 
+L 6061a8,4 hit 
+L 6062a8,4 hit 
+L 646590,4 hit 
+L 646594,4 hit 
+L 646598,4 hit 
+L 64659c,4 hit 
+S 646590,4 hit 
+S 646594,4 hit 
+S 646598,4 hit 
+S 64659c,4 hit 
+S 646980,4 miss eviction 
+S 646984,4 hit 
+S 646988,4 hit 
+S 64698c,4 hit 
+L 605fb8,4 hit 
+S 646990,4 hit 
+L 6060b8,4 hit 
+S 646994,4 hit 
+L 6061b8,4 hit 
+S 646998,4 hit 
+L 6062b8,4 hit 
+S 64699c,4 hit 
+L 605fac,4 hit 
+L 6060ac,4 hit 
+L 6061ac,4 hit 
+L 6062ac,4 hit 
+L 646690,4 hit 
+L 646694,4 hit 
+L 646698,4 hit 
+L 64669c,4 hit 
+S 646690,4 hit 
+S 646694,4 hit 
+S 646698,4 hit 
+S 64669c,4 hit 
+S 646a80,4 miss eviction 
+S 646a84,4 hit 
+S 646a88,4 hit 
+S 646a8c,4 hit 
+L 605fbc,4 hit 
+S 646a90,4 hit 
+L 6060bc,4 hit 
+S 646a94,4 hit 
+L 6061bc,4 hit 
+S 646a98,4 hit 
+L 6062bc,4 hit 
+S 646a9c,4 hit 
+L 605bc0,4 miss eviction 
+L 605bc4,4 hit 
+L 605bc8,4 hit 
+L 605bcc,4 hit 
+L 605bd0,4 hit 
+L 605bd4,4 hit 
+L 605bd8,4 hit 
+L 605bdc,4 hit 
+S 646b80,4 miss eviction 
+S 646c80,4 miss eviction 
+S 646d80,4 miss eviction 
+S 646e80,4 miss eviction 
+S 646b90,4 hit 
+S 646c90,4 hit 
+S 646d90,4 hit 
+S 646e90,4 hit 
+L 605cc0,4 miss eviction 
+L 605cc4,4 hit 
+L 605cc8,4 hit 
+L 605ccc,4 hit 
+L 605cd0,4 hit 
+L 605cd4,4 hit 
+L 605cd8,4 hit 
+L 605cdc,4 hit 
+S 646b84,4 hit 
+S 646c84,4 hit 
+S 646d84,4 hit 
+S 646e84,4 hit 
+S 646b94,4 hit 
+S 646c94,4 hit 
+S 646d94,4 hit 
+S 646e94,4 hit 
+L 605dc0,4 miss eviction 
+L 605dc4,4 hit 
+L 605dc8,4 hit 
+L 605dcc,4 hit 
+L 605dd0,4 hit 
+L 605dd4,4 hit 
+L 605dd8,4 hit 
+L 605ddc,4 hit 
+S 646b88,4 hit 
+S 646c88,4 hit 
+S 646d88,4 hit 
+S 646e88,4 hit 
+S 646b98,4 hit 
+S 646c98,4 hit 
+S 646d98,4 hit 
+S 646e98,4 hit 
+L 605ec0,4 miss eviction 
+L 605ec4,4 hit 
+L 605ec8,4 hit 
+L 605ecc,4 hit 
+L 605ed0,4 hit 
+L 605ed4,4 hit 
+L 605ed8,4 hit 
+L 605edc,4 hit 
+S 646b8c,4 hit 
+S 646c8c,4 hit 
+S 646d8c,4 hit 
+S 646e8c,4 hit 
+S 646b9c,4 hit 
+S 646c9c,4 hit 
+S 646d9c,4 hit 
+S 646e9c,4 hit 
+L 605fc0,4 miss eviction 
+L 6060c0,4 miss eviction 
+L 6061c0,4 miss eviction 
+L 6062c0,4 miss eviction 
+L 646b90,4 hit 
+L 646b94,4 hit 
+L 646b98,4 hit 
+L 646b9c,4 hit 
+S 646b90,4 hit 
+S 646b94,4 hit 
+S 646b98,4 hit 
+S 646b9c,4 hit 
+S 646f80,4 miss eviction 
+S 646f84,4 hit 
+S 646f88,4 hit 
+S 646f8c,4 hit 
+L 605fd0,4 hit 
+S 646f90,4 hit 
+L 6060d0,4 hit 
+S 646f94,4 hit 
+L 6061d0,4 hit 
+S 646f98,4 hit 
+L 6062d0,4 hit 
+S 646f9c,4 hit 
+L 605fc4,4 hit 
+L 6060c4,4 hit 
+L 6061c4,4 hit 
+L 6062c4,4 hit 
+L 646c90,4 hit 
+L 646c94,4 hit 
+L 646c98,4 hit 
+L 646c9c,4 hit 
+S 646c90,4 hit 
+S 646c94,4 hit 
+S 646c98,4 hit 
+S 646c9c,4 hit 
+S 647080,4 miss eviction 
+S 647084,4 hit 
+S 647088,4 hit 
+S 64708c,4 hit 
+L 605fd4,4 hit 
+S 647090,4 hit 
+L 6060d4,4 hit 
+S 647094,4 hit 
+L 6061d4,4 hit 
+S 647098,4 hit 
+L 6062d4,4 hit 
+S 64709c,4 hit 
+L 605fc8,4 hit 
+L 6060c8,4 hit 
+L 6061c8,4 hit 
+L 6062c8,4 hit 
+L 646d90,4 hit 
+L 646d94,4 hit 
+L 646d98,4 hit 
+L 646d9c,4 hit 
+S 646d90,4 hit 
+S 646d94,4 hit 
+S 646d98,4 hit 
+S 646d9c,4 hit 
+S 647180,4 miss eviction 
+S 647184,4 hit 
+S 647188,4 hit 
+S 64718c,4 hit 
+L 605fd8,4 hit 
+S 647190,4 hit 
+L 6060d8,4 hit 
+S 647194,4 hit 
+L 6061d8,4 hit 
+S 647198,4 hit 
+L 6062d8,4 hit 
+S 64719c,4 hit 
+L 605fcc,4 hit 
+L 6060cc,4 hit 
+L 6061cc,4 hit 
+L 6062cc,4 hit 
+L 646e90,4 hit 
+L 646e94,4 hit 
+L 646e98,4 hit 
+L 646e9c,4 hit 
+S 646e90,4 hit 
+S 646e94,4 hit 
+S 646e98,4 hit 
+S 646e9c,4 hit 
+S 647280,4 miss eviction 
+S 647284,4 hit 
+S 647288,4 hit 
+S 64728c,4 hit 
+L 605fdc,4 hit 
+S 647290,4 hit 
+L 6060dc,4 hit 
+S 647294,4 hit 
+L 6061dc,4 hit 
+S 647298,4 hit 
+L 6062dc,4 hit 
+S 64729c,4 hit 
+L 6062e0,4 miss eviction 
+L 6062e4,4 hit 
+L 6062e8,4 hit 
+L 6062ec,4 hit 
+L 6062f0,4 hit 
+L 6062f4,4 hit 
+L 6062f8,4 hit 
+L 6062fc,4 hit 
+S 6433a0,4 miss eviction 
+S 6434a0,4 miss eviction 
+S 6435a0,4 miss eviction 
+S 6436a0,4 miss eviction 
+S 6433b0,4 hit 
+S 6434b0,4 hit 
+S 6435b0,4 hit 
+S 6436b0,4 hit 
+L 6063e0,4 miss eviction 
+L 6063e4,4 hit 
+L 6063e8,4 hit 
+L 6063ec,4 hit 
+L 6063f0,4 hit 
+L 6063f4,4 hit 
+L 6063f8,4 hit 
+L 6063fc,4 hit 
+S 6433a4,4 hit 
+S 6434a4,4 hit 
+S 6435a4,4 hit 
+S 6436a4,4 hit 
+S 6433b4,4 hit 
+S 6434b4,4 hit 
+S 6435b4,4 hit 
+S 6436b4,4 hit 
+L 6064e0,4 miss eviction 
+L 6064e4,4 hit 
+L 6064e8,4 hit 
+L 6064ec,4 hit 
+L 6064f0,4 hit 
+L 6064f4,4 hit 
+L 6064f8,4 hit 
+L 6064fc,4 hit 
+S 6433a8,4 hit 
+S 6434a8,4 hit 
+S 6435a8,4 hit 
+S 6436a8,4 hit 
+S 6433b8,4 hit 
+S 6434b8,4 hit 
+S 6435b8,4 hit 
+S 6436b8,4 hit 
+L 6065e0,4 miss eviction 
+L 6065e4,4 hit 
+L 6065e8,4 hit 
+L 6065ec,4 hit 
+L 6065f0,4 hit 
+L 6065f4,4 hit 
+L 6065f8,4 hit 
+L 6065fc,4 hit 
+S 6433ac,4 hit 
+S 6434ac,4 hit 
+S 6435ac,4 hit 
+S 6436ac,4 hit 
+S 6433bc,4 hit 
+S 6434bc,4 hit 
+S 6435bc,4 hit 
+S 6436bc,4 hit 
+L 6066e0,4 miss eviction 
+L 6067e0,4 miss eviction 
+L 6068e0,4 miss eviction 
+L 6069e0,4 miss eviction 
+L 6433b0,4 hit 
+L 6433b4,4 hit 
+L 6433b8,4 hit 
+L 6433bc,4 hit 
+S 6433b0,4 hit 
+S 6433b4,4 hit 
+S 6433b8,4 hit 
+S 6433bc,4 hit 
+S 6437a0,4 miss eviction 
+S 6437a4,4 hit 
+S 6437a8,4 hit 
+S 6437ac,4 hit 
+L 6066f0,4 hit 
+S 6437b0,4 hit 
+L 6067f0,4 hit 
+S 6437b4,4 hit 
+L 6068f0,4 hit 
+S 6437b8,4 hit 
+L 6069f0,4 hit 
+S 6437bc,4 hit 
+L 6066e4,4 hit 
+L 6067e4,4 hit 
+L 6068e4,4 hit 
+L 6069e4,4 hit 
+L 6434b0,4 hit 
+L 6434b4,4 hit 
+L 6434b8,4 hit 
+L 6434bc,4 hit 
+S 6434b0,4 hit 
+S 6434b4,4 hit 
+S 6434b8,4 hit 
+S 6434bc,4 hit 
+S 6438a0,4 miss eviction 
+S 6438a4,4 hit 
+S 6438a8,4 hit 
+S 6438ac,4 hit 
+L 6066f4,4 hit 
+S 6438b0,4 hit 
+L 6067f4,4 hit 
+S 6438b4,4 hit 
+L 6068f4,4 hit 
+S 6438b8,4 hit 
+L 6069f4,4 hit 
+S 6438bc,4 hit 
+L 6066e8,4 hit 
+L 6067e8,4 hit 
+L 6068e8,4 hit 
+L 6069e8,4 hit 
+L 6435b0,4 hit 
+L 6435b4,4 hit 
+L 6435b8,4 hit 
+L 6435bc,4 hit 
+S 6435b0,4 hit 
+S 6435b4,4 hit 
+S 6435b8,4 hit 
+S 6435bc,4 hit 
+S 6439a0,4 miss eviction 
+S 6439a4,4 hit 
+S 6439a8,4 hit 
+S 6439ac,4 hit 
+L 6066f8,4 hit 
+S 6439b0,4 hit 
+L 6067f8,4 hit 
+S 6439b4,4 hit 
+L 6068f8,4 hit 
+S 6439b8,4 hit 
+L 6069f8,4 hit 
+S 6439bc,4 hit 
+L 6066ec,4 hit 
+L 6067ec,4 hit 
+L 6068ec,4 hit 
+L 6069ec,4 hit 
+L 6436b0,4 hit 
+L 6436b4,4 hit 
+L 6436b8,4 hit 
+L 6436bc,4 hit 
+S 6436b0,4 hit 
+S 6436b4,4 hit 
+S 6436b8,4 hit 
+S 6436bc,4 hit 
+S 643aa0,4 miss eviction 
+S 643aa4,4 hit 
+S 643aa8,4 hit 
+S 643aac,4 hit 
+L 6066fc,4 hit 
+S 643ab0,4 hit 
+L 6067fc,4 hit 
+S 643ab4,4 hit 
+L 6068fc,4 hit 
+S 643ab8,4 hit 
+L 6069fc,4 hit 
+S 643abc,4 hit 
+L 606300,4 miss eviction 
+L 606304,4 hit 
+L 606308,4 hit 
+L 60630c,4 hit 
+L 606310,4 hit 
+L 606314,4 hit 
+L 606318,4 hit 
+L 60631c,4 hit 
+S 643ba0,4 miss eviction 
+S 643ca0,4 miss eviction 
+S 643da0,4 miss eviction 
+S 643ea0,4 miss eviction 
+S 643bb0,4 hit 
+S 643cb0,4 hit 
+S 643db0,4 hit 
+S 643eb0,4 hit 
+L 606400,4 miss eviction 
+L 606404,4 hit 
+L 606408,4 hit 
+L 60640c,4 hit 
+L 606410,4 hit 
+L 606414,4 hit 
+L 606418,4 hit 
+L 60641c,4 hit 
+S 643ba4,4 hit 
+S 643ca4,4 hit 
+S 643da4,4 hit 
+S 643ea4,4 hit 
+S 643bb4,4 hit 
+S 643cb4,4 hit 
+S 643db4,4 hit 
+S 643eb4,4 hit 
+L 606500,4 miss eviction 
+L 606504,4 hit 
+L 606508,4 hit 
+L 60650c,4 hit 
+L 606510,4 hit 
+L 606514,4 hit 
+L 606518,4 hit 
+L 60651c,4 hit 
+S 643ba8,4 hit 
+S 643ca8,4 hit 
+S 643da8,4 hit 
+S 643ea8,4 hit 
+S 643bb8,4 hit 
+S 643cb8,4 hit 
+S 643db8,4 hit 
+S 643eb8,4 hit 
+L 606600,4 miss eviction 
+L 606604,4 hit 
+L 606608,4 hit 
+L 60660c,4 hit 
+L 606610,4 hit 
+L 606614,4 hit 
+L 606618,4 hit 
+L 60661c,4 hit 
+S 643bac,4 hit 
+S 643cac,4 hit 
+S 643dac,4 hit 
+S 643eac,4 hit 
+S 643bbc,4 hit 
+S 643cbc,4 hit 
+S 643dbc,4 hit 
+S 643ebc,4 hit 
+L 606700,4 miss eviction 
+L 606800,4 miss eviction 
+L 606900,4 miss eviction 
+L 606a00,4 miss eviction 
+L 643bb0,4 hit 
+L 643bb4,4 hit 
+L 643bb8,4 hit 
+L 643bbc,4 hit 
+S 643bb0,4 hit 
+S 643bb4,4 hit 
+S 643bb8,4 hit 
+S 643bbc,4 hit 
+S 643fa0,4 miss eviction 
+S 643fa4,4 hit 
+S 643fa8,4 hit 
+S 643fac,4 hit 
+L 606710,4 hit 
+S 643fb0,4 hit 
+L 606810,4 hit 
+S 643fb4,4 hit 
+L 606910,4 hit 
+S 643fb8,4 hit 
+L 606a10,4 hit 
+S 643fbc,4 hit 
+L 606704,4 hit 
+L 606804,4 hit 
+L 606904,4 hit 
+L 606a04,4 hit 
+L 643cb0,4 hit 
+L 643cb4,4 hit 
+L 643cb8,4 hit 
+L 643cbc,4 hit 
+S 643cb0,4 hit 
+S 643cb4,4 hit 
+S 643cb8,4 hit 
+S 643cbc,4 hit 
+S 6440a0,4 miss eviction 
+S 6440a4,4 hit 
+S 6440a8,4 hit 
+S 6440ac,4 hit 
+L 606714,4 hit 
+S 6440b0,4 hit 
+L 606814,4 hit 
+S 6440b4,4 hit 
+L 606914,4 hit 
+S 6440b8,4 hit 
+L 606a14,4 hit 
+S 6440bc,4 hit 
+L 606708,4 hit 
+L 606808,4 hit 
+L 606908,4 hit 
+L 606a08,4 hit 
+L 643db0,4 hit 
+L 643db4,4 hit 
+L 643db8,4 hit 
+L 643dbc,4 hit 
+S 643db0,4 hit 
+S 643db4,4 hit 
+S 643db8,4 hit 
+S 643dbc,4 hit 
+S 6441a0,4 miss eviction 
+S 6441a4,4 hit 
+S 6441a8,4 hit 
+S 6441ac,4 hit 
+L 606718,4 hit 
+S 6441b0,4 hit 
+L 606818,4 hit 
+S 6441b4,4 hit 
+L 606918,4 hit 
+S 6441b8,4 hit 
+L 606a18,4 hit 
+S 6441bc,4 hit 
+L 60670c,4 hit 
+L 60680c,4 hit 
+L 60690c,4 hit 
+L 606a0c,4 hit 
+L 643eb0,4 hit 
+L 643eb4,4 hit 
+L 643eb8,4 hit 
+L 643ebc,4 hit 
+S 643eb0,4 hit 
+S 643eb4,4 hit 
+S 643eb8,4 hit 
+S 643ebc,4 hit 
+S 6442a0,4 miss eviction 
+S 6442a4,4 hit 
+S 6442a8,4 hit 
+S 6442ac,4 hit 
+L 60671c,4 hit 
+S 6442b0,4 hit 
+L 60681c,4 hit 
+S 6442b4,4 hit 
+L 60691c,4 hit 
+S 6442b8,4 hit 
+L 606a1c,4 hit 
+S 6442bc,4 hit 
+L 606320,4 miss eviction 
+L 606324,4 hit 
+L 606328,4 hit 
+L 60632c,4 hit 
+L 606330,4 hit 
+L 606334,4 hit 
+L 606338,4 hit 
+L 60633c,4 hit 
+S 6443a0,4 miss eviction 
+S 6444a0,4 miss eviction 
+S 6445a0,4 miss eviction 
+S 6446a0,4 miss eviction 
+S 6443b0,4 hit 
+S 6444b0,4 hit 
+S 6445b0,4 hit 
+S 6446b0,4 hit 
+L 606420,4 miss eviction 
+L 606424,4 hit 
+L 606428,4 hit 
+L 60642c,4 hit 
+L 606430,4 hit 
+L 606434,4 hit 
+L 606438,4 hit 
+L 60643c,4 hit 
+S 6443a4,4 hit 
+S 6444a4,4 hit 
+S 6445a4,4 hit 
+S 6446a4,4 hit 
+S 6443b4,4 hit 
+S 6444b4,4 hit 
+S 6445b4,4 hit 
+S 6446b4,4 hit 
+L 606520,4 miss eviction 
+L 606524,4 hit 
+L 606528,4 hit 
+L 60652c,4 hit 
+L 606530,4 hit 
+L 606534,4 hit 
+L 606538,4 hit 
+L 60653c,4 hit 
+S 6443a8,4 hit 
+S 6444a8,4 hit 
+S 6445a8,4 hit 
+S 6446a8,4 hit 
+S 6443b8,4 hit 
+S 6444b8,4 hit 
+S 6445b8,4 hit 
+S 6446b8,4 hit 
+L 606620,4 miss eviction 
+L 606624,4 hit 
+L 606628,4 hit 
+L 60662c,4 hit 
+L 606630,4 hit 
+L 606634,4 hit 
+L 606638,4 hit 
+L 60663c,4 hit 
+S 6443ac,4 hit 
+S 6444ac,4 hit 
+S 6445ac,4 hit 
+S 6446ac,4 hit 
+S 6443bc,4 hit 
+S 6444bc,4 hit 
+S 6445bc,4 hit 
+S 6446bc,4 hit 
+L 606720,4 miss eviction 
+L 606820,4 miss eviction 
+L 606920,4 miss eviction 
+L 606a20,4 miss eviction 
+L 6443b0,4 hit 
+L 6443b4,4 hit 
+L 6443b8,4 hit 
+L 6443bc,4 hit 
+S 6443b0,4 hit 
+S 6443b4,4 hit 
+S 6443b8,4 hit 
+S 6443bc,4 hit 
+S 6447a0,4 miss eviction 
+S 6447a4,4 hit 
+S 6447a8,4 hit 
+S 6447ac,4 hit 
+L 606730,4 hit 
+S 6447b0,4 hit 
+L 606830,4 hit 
+S 6447b4,4 hit 
+L 606930,4 hit 
+S 6447b8,4 hit 
+L 606a30,4 hit 
+S 6447bc,4 hit 
+L 606724,4 hit 
+L 606824,4 hit 
+L 606924,4 hit 
+L 606a24,4 hit 
+L 6444b0,4 hit 
+L 6444b4,4 hit 
+L 6444b8,4 hit 
+L 6444bc,4 hit 
+S 6444b0,4 hit 
+S 6444b4,4 hit 
+S 6444b8,4 hit 
+S 6444bc,4 hit 
+S 6448a0,4 miss eviction 
+S 6448a4,4 hit 
+S 6448a8,4 hit 
+S 6448ac,4 hit 
+L 606734,4 hit 
+S 6448b0,4 hit 
+L 606834,4 hit 
+S 6448b4,4 hit 
+L 606934,4 hit 
+S 6448b8,4 hit 
+L 606a34,4 hit 
+S 6448bc,4 hit 
+L 606728,4 hit 
+L 606828,4 hit 
+L 606928,4 hit 
+L 606a28,4 hit 
+L 6445b0,4 hit 
+L 6445b4,4 hit 
+L 6445b8,4 hit 
+L 6445bc,4 hit 
+S 6445b0,4 hit 
+S 6445b4,4 hit 
+S 6445b8,4 hit 
+S 6445bc,4 hit 
+S 6449a0,4 miss eviction 
+S 6449a4,4 hit 
+S 6449a8,4 hit 
+S 6449ac,4 hit 
+L 606738,4 hit 
+S 6449b0,4 hit 
+L 606838,4 hit 
+S 6449b4,4 hit 
+L 606938,4 hit 
+S 6449b8,4 hit 
+L 606a38,4 hit 
+S 6449bc,4 hit 
+L 60672c,4 hit 
+L 60682c,4 hit 
+L 60692c,4 hit 
+L 606a2c,4 hit 
+L 6446b0,4 hit 
+L 6446b4,4 hit 
+L 6446b8,4 hit 
+L 6446bc,4 hit 
+S 6446b0,4 hit 
+S 6446b4,4 hit 
+S 6446b8,4 hit 
+S 6446bc,4 hit 
+S 644aa0,4 miss eviction 
+S 644aa4,4 hit 
+S 644aa8,4 hit 
+S 644aac,4 hit 
+L 60673c,4 hit 
+S 644ab0,4 hit 
+L 60683c,4 hit 
+S 644ab4,4 hit 
+L 60693c,4 hit 
+S 644ab8,4 hit 
+L 606a3c,4 hit 
+S 644abc,4 hit 
+L 606340,4 miss eviction 
+L 606344,4 hit 
+L 606348,4 hit 
+L 60634c,4 hit 
+L 606350,4 hit 
+L 606354,4 hit 
+L 606358,4 hit 
+L 60635c,4 hit 
+S 644ba0,4 miss eviction 
+S 644ca0,4 miss eviction 
+S 644da0,4 miss eviction 
+S 644ea0,4 miss eviction 
+S 644bb0,4 hit 
+S 644cb0,4 hit 
+S 644db0,4 hit 
+S 644eb0,4 hit 
+L 606440,4 miss eviction 
+L 606444,4 hit 
+L 606448,4 hit 
+L 60644c,4 hit 
+L 606450,4 hit 
+L 606454,4 hit 
+L 606458,4 hit 
+L 60645c,4 hit 
+S 644ba4,4 hit 
+S 644ca4,4 hit 
+S 644da4,4 hit 
+S 644ea4,4 hit 
+S 644bb4,4 hit 
+S 644cb4,4 hit 
+S 644db4,4 hit 
+S 644eb4,4 hit 
+L 606540,4 miss eviction 
+L 606544,4 hit 
+L 606548,4 hit 
+L 60654c,4 hit 
+L 606550,4 hit 
+L 606554,4 hit 
+L 606558,4 hit 
+L 60655c,4 hit 
+S 644ba8,4 hit 
+S 644ca8,4 hit 
+S 644da8,4 hit 
+S 644ea8,4 hit 
+S 644bb8,4 hit 
+S 644cb8,4 hit 
+S 644db8,4 hit 
+S 644eb8,4 hit 
+L 606640,4 miss eviction 
+L 606644,4 hit 
+L 606648,4 hit 
+L 60664c,4 hit 
+L 606650,4 hit 
+L 606654,4 hit 
+L 606658,4 hit 
+L 60665c,4 hit 
+S 644bac,4 hit 
+S 644cac,4 hit 
+S 644dac,4 hit 
+S 644eac,4 hit 
+S 644bbc,4 hit 
+S 644cbc,4 hit 
+S 644dbc,4 hit 
+S 644ebc,4 hit 
+L 606740,4 miss eviction 
+L 606840,4 miss eviction 
+L 606940,4 miss eviction 
+L 606a40,4 miss eviction 
+L 644bb0,4 hit 
+L 644bb4,4 hit 
+L 644bb8,4 hit 
+L 644bbc,4 hit 
+S 644bb0,4 hit 
+S 644bb4,4 hit 
+S 644bb8,4 hit 
+S 644bbc,4 hit 
+S 644fa0,4 miss eviction 
+S 644fa4,4 hit 
+S 644fa8,4 hit 
+S 644fac,4 hit 
+L 606750,4 hit 
+S 644fb0,4 hit 
+L 606850,4 hit 
+S 644fb4,4 hit 
+L 606950,4 hit 
+S 644fb8,4 hit 
+L 606a50,4 hit 
+S 644fbc,4 hit 
+L 606744,4 hit 
+L 606844,4 hit 
+L 606944,4 hit 
+L 606a44,4 hit 
+L 644cb0,4 hit 
+L 644cb4,4 hit 
+L 644cb8,4 hit 
+L 644cbc,4 hit 
+S 644cb0,4 hit 
+S 644cb4,4 hit 
+S 644cb8,4 hit 
+S 644cbc,4 hit 
+S 6450a0,4 miss eviction 
+S 6450a4,4 hit 
+S 6450a8,4 hit 
+S 6450ac,4 hit 
+L 606754,4 hit 
+S 6450b0,4 hit 
+L 606854,4 hit 
+S 6450b4,4 hit 
+L 606954,4 hit 
+S 6450b8,4 hit 
+L 606a54,4 hit 
+S 6450bc,4 hit 
+L 606748,4 hit 
+L 606848,4 hit 
+L 606948,4 hit 
+L 606a48,4 hit 
+L 644db0,4 hit 
+L 644db4,4 hit 
+L 644db8,4 hit 
+L 644dbc,4 hit 
+S 644db0,4 hit 
+S 644db4,4 hit 
+S 644db8,4 hit 
+S 644dbc,4 hit 
+S 6451a0,4 miss eviction 
+S 6451a4,4 hit 
+S 6451a8,4 hit 
+S 6451ac,4 hit 
+L 606758,4 hit 
+S 6451b0,4 hit 
+L 606858,4 hit 
+S 6451b4,4 hit 
+L 606958,4 hit 
+S 6451b8,4 hit 
+L 606a58,4 hit 
+S 6451bc,4 hit 
+L 60674c,4 hit 
+L 60684c,4 hit 
+L 60694c,4 hit 
+L 606a4c,4 hit 
+L 644eb0,4 hit 
+L 644eb4,4 hit 
+L 644eb8,4 hit 
+L 644ebc,4 hit 
+S 644eb0,4 hit 
+S 644eb4,4 hit 
+S 644eb8,4 hit 
+S 644ebc,4 hit 
+S 6452a0,4 miss eviction 
+S 6452a4,4 hit 
+S 6452a8,4 hit 
+S 6452ac,4 hit 
+L 60675c,4 hit 
+S 6452b0,4 hit 
+L 60685c,4 hit 
+S 6452b4,4 hit 
+L 60695c,4 hit 
+S 6452b8,4 hit 
+L 606a5c,4 hit 
+S 6452bc,4 hit 
+L 606360,4 miss eviction 
+L 606364,4 hit 
+L 606368,4 hit 
+L 60636c,4 hit 
+L 606370,4 hit 
+L 606374,4 hit 
+L 606378,4 hit 
+L 60637c,4 hit 
+S 6453a0,4 miss eviction 
+S 6454a0,4 miss eviction 
+S 6455a0,4 miss eviction 
+S 6456a0,4 miss eviction 
+S 6453b0,4 hit 
+S 6454b0,4 hit 
+S 6455b0,4 hit 
+S 6456b0,4 hit 
+L 606460,4 miss eviction 
+L 606464,4 hit 
+L 606468,4 hit 
+L 60646c,4 hit 
+L 606470,4 hit 
+L 606474,4 hit 
+L 606478,4 hit 
+L 60647c,4 hit 
+S 6453a4,4 hit 
+S 6454a4,4 hit 
+S 6455a4,4 hit 
+S 6456a4,4 hit 
+S 6453b4,4 hit 
+S 6454b4,4 hit 
+S 6455b4,4 hit 
+S 6456b4,4 hit 
+L 606560,4 miss eviction 
+L 606564,4 hit 
+L 606568,4 hit 
+L 60656c,4 hit 
+L 606570,4 hit 
+L 606574,4 hit 
+L 606578,4 hit 
+L 60657c,4 hit 
+S 6453a8,4 hit 
+S 6454a8,4 hit 
+S 6455a8,4 hit 
+S 6456a8,4 hit 
+S 6453b8,4 hit 
+S 6454b8,4 hit 
+S 6455b8,4 hit 
+S 6456b8,4 hit 
+L 606660,4 miss eviction 
+L 606664,4 hit 
+L 606668,4 hit 
+L 60666c,4 hit 
+L 606670,4 hit 
+L 606674,4 hit 
+L 606678,4 hit 
+L 60667c,4 hit 
+S 6453ac,4 hit 
+S 6454ac,4 hit 
+S 6455ac,4 hit 
+S 6456ac,4 hit 
+S 6453bc,4 hit 
+S 6454bc,4 hit 
+S 6455bc,4 hit 
+S 6456bc,4 hit 
+L 606760,4 miss eviction 
+L 606860,4 miss eviction 
+L 606960,4 miss eviction 
+L 606a60,4 miss eviction 
+L 6453b0,4 hit 
+L 6453b4,4 hit 
+L 6453b8,4 hit 
+L 6453bc,4 hit 
+S 6453b0,4 hit 
+S 6453b4,4 hit 
+S 6453b8,4 hit 
+S 6453bc,4 hit 
+S 6457a0,4 miss eviction 
+S 6457a4,4 hit 
+S 6457a8,4 hit 
+S 6457ac,4 hit 
+L 606770,4 hit 
+S 6457b0,4 hit 
+L 606870,4 hit 
+S 6457b4,4 hit 
+L 606970,4 hit 
+S 6457b8,4 hit 
+L 606a70,4 hit 
+S 6457bc,4 hit 
+L 606764,4 hit 
+L 606864,4 hit 
+L 606964,4 hit 
+L 606a64,4 hit 
+L 6454b0,4 hit 
+L 6454b4,4 hit 
+L 6454b8,4 hit 
+L 6454bc,4 hit 
+S 6454b0,4 hit 
+S 6454b4,4 hit 
+S 6454b8,4 hit 
+S 6454bc,4 hit 
+S 6458a0,4 miss eviction 
+S 6458a4,4 hit 
+S 6458a8,4 hit 
+S 6458ac,4 hit 
+L 606774,4 hit 
+S 6458b0,4 hit 
+L 606874,4 hit 
+S 6458b4,4 hit 
+L 606974,4 hit 
+S 6458b8,4 hit 
+L 606a74,4 hit 
+S 6458bc,4 hit 
+L 606768,4 hit 
+L 606868,4 hit 
+L 606968,4 hit 
+L 606a68,4 hit 
+L 6455b0,4 hit 
+L 6455b4,4 hit 
+L 6455b8,4 hit 
+L 6455bc,4 hit 
+S 6455b0,4 hit 
+S 6455b4,4 hit 
+S 6455b8,4 hit 
+S 6455bc,4 hit 
+S 6459a0,4 miss eviction 
+S 6459a4,4 hit 
+S 6459a8,4 hit 
+S 6459ac,4 hit 
+L 606778,4 hit 
+S 6459b0,4 hit 
+L 606878,4 hit 
+S 6459b4,4 hit 
+L 606978,4 hit 
+S 6459b8,4 hit 
+L 606a78,4 hit 
+S 6459bc,4 hit 
+L 60676c,4 hit 
+L 60686c,4 hit 
+L 60696c,4 hit 
+L 606a6c,4 hit 
+L 6456b0,4 hit 
+L 6456b4,4 hit 
+L 6456b8,4 hit 
+L 6456bc,4 hit 
+S 6456b0,4 hit 
+S 6456b4,4 hit 
+S 6456b8,4 hit 
+S 6456bc,4 hit 
+S 645aa0,4 miss eviction 
+S 645aa4,4 hit 
+S 645aa8,4 hit 
+S 645aac,4 hit 
+L 60677c,4 hit 
+S 645ab0,4 hit 
+L 60687c,4 hit 
+S 645ab4,4 hit 
+L 60697c,4 hit 
+S 645ab8,4 hit 
+L 606a7c,4 hit 
+S 645abc,4 hit 
+L 606380,4 miss eviction 
+L 606384,4 hit 
+L 606388,4 hit 
+L 60638c,4 hit 
+L 606390,4 hit 
+L 606394,4 hit 
+L 606398,4 hit 
+L 60639c,4 hit 
+S 645ba0,4 miss eviction 
+S 645ca0,4 miss eviction 
+S 645da0,4 miss eviction 
+S 645ea0,4 miss eviction 
+S 645bb0,4 hit 
+S 645cb0,4 hit 
+S 645db0,4 hit 
+S 645eb0,4 hit 
+L 606480,4 miss eviction 
+L 606484,4 hit 
+L 606488,4 hit 
+L 60648c,4 hit 
+L 606490,4 hit 
+L 606494,4 hit 
+L 606498,4 hit 
+L 60649c,4 hit 
+S 645ba4,4 hit 
+S 645ca4,4 hit 
+S 645da4,4 hit 
+S 645ea4,4 hit 
+S 645bb4,4 hit 
+S 645cb4,4 hit 
+S 645db4,4 hit 
+S 645eb4,4 hit 
+L 606580,4 miss eviction 
+L 606584,4 hit 
+L 606588,4 hit 
+L 60658c,4 hit 
+L 606590,4 hit 
+L 606594,4 hit 
+L 606598,4 hit 
+L 60659c,4 hit 
+S 645ba8,4 hit 
+S 645ca8,4 hit 
+S 645da8,4 hit 
+S 645ea8,4 hit 
+S 645bb8,4 hit 
+S 645cb8,4 hit 
+S 645db8,4 hit 
+S 645eb8,4 hit 
+L 606680,4 miss eviction 
+L 606684,4 hit 
+L 606688,4 hit 
+L 60668c,4 hit 
+L 606690,4 hit 
+L 606694,4 hit 
+L 606698,4 hit 
+L 60669c,4 hit 
+S 645bac,4 hit 
+S 645cac,4 hit 
+S 645dac,4 hit 
+S 645eac,4 hit 
+S 645bbc,4 hit 
+S 645cbc,4 hit 
+S 645dbc,4 hit 
+S 645ebc,4 hit 
+L 606780,4 miss eviction 
+L 606880,4 miss eviction 
+L 606980,4 miss eviction 
+L 606a80,4 miss eviction 
+L 645bb0,4 hit 
+L 645bb4,4 hit 
+L 645bb8,4 hit 
+L 645bbc,4 hit 
+S 645bb0,4 hit 
+S 645bb4,4 hit 
+S 645bb8,4 hit 
+S 645bbc,4 hit 
+S 645fa0,4 miss eviction 
+S 645fa4,4 hit 
+S 645fa8,4 hit 
+S 645fac,4 hit 
+L 606790,4 hit 
+S 645fb0,4 hit 
+L 606890,4 hit 
+S 645fb4,4 hit 
+L 606990,4 hit 
+S 645fb8,4 hit 
+L 606a90,4 hit 
+S 645fbc,4 hit 
+L 606784,4 hit 
+L 606884,4 hit 
+L 606984,4 hit 
+L 606a84,4 hit 
+L 645cb0,4 hit 
+L 645cb4,4 hit 
+L 645cb8,4 hit 
+L 645cbc,4 hit 
+S 645cb0,4 hit 
+S 645cb4,4 hit 
+S 645cb8,4 hit 
+S 645cbc,4 hit 
+S 6460a0,4 miss eviction 
+S 6460a4,4 hit 
+S 6460a8,4 hit 
+S 6460ac,4 hit 
+L 606794,4 hit 
+S 6460b0,4 hit 
+L 606894,4 hit 
+S 6460b4,4 hit 
+L 606994,4 hit 
+S 6460b8,4 hit 
+L 606a94,4 hit 
+S 6460bc,4 hit 
+L 606788,4 hit 
+L 606888,4 hit 
+L 606988,4 hit 
+L 606a88,4 hit 
+L 645db0,4 hit 
+L 645db4,4 hit 
+L 645db8,4 hit 
+L 645dbc,4 hit 
+S 645db0,4 hit 
+S 645db4,4 hit 
+S 645db8,4 hit 
+S 645dbc,4 hit 
+S 6461a0,4 miss eviction 
+S 6461a4,4 hit 
+S 6461a8,4 hit 
+S 6461ac,4 hit 
+L 606798,4 hit 
+S 6461b0,4 hit 
+L 606898,4 hit 
+S 6461b4,4 hit 
+L 606998,4 hit 
+S 6461b8,4 hit 
+L 606a98,4 hit 
+S 6461bc,4 hit 
+L 60678c,4 hit 
+L 60688c,4 hit 
+L 60698c,4 hit 
+L 606a8c,4 hit 
+L 645eb0,4 hit 
+L 645eb4,4 hit 
+L 645eb8,4 hit 
+L 645ebc,4 hit 
+S 645eb0,4 hit 
+S 645eb4,4 hit 
+S 645eb8,4 hit 
+S 645ebc,4 hit 
+S 6462a0,4 miss eviction 
+S 6462a4,4 hit 
+S 6462a8,4 hit 
+S 6462ac,4 hit 
+L 60679c,4 hit 
+S 6462b0,4 hit 
+L 60689c,4 hit 
+S 6462b4,4 hit 
+L 60699c,4 hit 
+S 6462b8,4 hit 
+L 606a9c,4 hit 
+S 6462bc,4 hit 
+L 6063a0,4 miss eviction 
+L 6063a4,4 hit 
+L 6063a8,4 hit 
+L 6063ac,4 hit 
+L 6063b0,4 hit 
+L 6063b4,4 hit 
+L 6063b8,4 hit 
+L 6063bc,4 hit 
+S 6463a0,4 miss eviction 
+S 6464a0,4 miss eviction 
+S 6465a0,4 miss eviction 
+S 6466a0,4 miss eviction 
+S 6463b0,4 hit 
+S 6464b0,4 hit 
+S 6465b0,4 hit 
+S 6466b0,4 hit 
+L 6064a0,4 miss eviction 
+L 6064a4,4 hit 
+L 6064a8,4 hit 
+L 6064ac,4 hit 
+L 6064b0,4 hit 
+L 6064b4,4 hit 
+L 6064b8,4 hit 
+L 6064bc,4 hit 
+S 6463a4,4 hit 
+S 6464a4,4 miss eviction 
+S 6465a4,4 hit 
+S 6466a4,4 hit 
+S 6463b4,4 hit 
+S 6464b4,4 hit 
+S 6465b4,4 hit 
+S 6466b4,4 hit 
+L 6065a0,4 miss eviction 
+L 6065a4,4 hit 
+L 6065a8,4 hit 
+L 6065ac,4 hit 
+L 6065b0,4 hit 
+L 6065b4,4 hit 
+L 6065b8,4 hit 
+L 6065bc,4 hit 
+S 6463a8,4 hit 
+S 6464a8,4 hit 
+S 6465a8,4 miss eviction 
+S 6466a8,4 hit 
+S 6463b8,4 hit 
+S 6464b8,4 hit 
+S 6465b8,4 hit 
+S 6466b8,4 hit 
+L 6066a0,4 miss eviction 
+L 6066a4,4 hit 
+L 6066a8,4 hit 
+L 6066ac,4 hit 
+L 6066b0,4 hit 
+L 6066b4,4 hit 
+L 6066b8,4 hit 
+L 6066bc,4 hit 
+S 6463ac,4 hit 
+S 6464ac,4 hit 
+S 6465ac,4 hit 
+S 6466ac,4 miss eviction 
+S 6463bc,4 hit 
+S 6464bc,4 hit 
+S 6465bc,4 hit 
+S 6466bc,4 hit 
+L 6067a0,4 miss eviction 
+L 6068a0,4 miss eviction 
+L 6069a0,4 miss eviction 
+L 606aa0,4 miss eviction 
+L 6463b0,4 miss eviction 
+L 6463b4,4 hit 
+L 6463b8,4 hit 
+L 6463bc,4 hit 
+S 6463b0,4 hit 
+S 6463b4,4 hit 
+S 6463b8,4 hit 
+S 6463bc,4 hit 
+S 6467a0,4 miss eviction 
+S 6467a4,4 hit 
+S 6467a8,4 hit 
+S 6467ac,4 hit 
+L 6067b0,4 miss eviction 
+S 6467b0,4 miss eviction 
+L 6068b0,4 hit 
+S 6467b4,4 hit 
+L 6069b0,4 hit 
+S 6467b8,4 hit 
+L 606ab0,4 hit 
+S 6467bc,4 hit 
+L 6067a4,4 miss eviction 
+L 6068a4,4 hit 
+L 6069a4,4 hit 
+L 606aa4,4 hit 
+L 6464b0,4 miss eviction 
+L 6464b4,4 hit 
+L 6464b8,4 hit 
+L 6464bc,4 hit 
+S 6464b0,4 hit 
+S 6464b4,4 hit 
+S 6464b8,4 hit 
+S 6464bc,4 hit 
+S 6468a0,4 miss eviction 
+S 6468a4,4 hit 
+S 6468a8,4 hit 
+S 6468ac,4 hit 
+L 6067b4,4 hit 
+S 6468b0,4 hit 
+L 6068b4,4 miss eviction 
+S 6468b4,4 miss eviction 
+L 6069b4,4 hit 
+S 6468b8,4 hit 
+L 606ab4,4 hit 
+S 6468bc,4 hit 
+L 6067a8,4 hit 
+L 6068a8,4 miss eviction 
+L 6069a8,4 hit 
+L 606aa8,4 hit 
+L 6465b0,4 miss eviction 
+L 6465b4,4 hit 
+L 6465b8,4 hit 
+L 6465bc,4 hit 
+S 6465b0,4 hit 
+S 6465b4,4 hit 
+S 6465b8,4 hit 
+S 6465bc,4 hit 
+S 6469a0,4 miss eviction 
+S 6469a4,4 hit 
+S 6469a8,4 hit 
+S 6469ac,4 hit 
+L 6067b8,4 hit 
+S 6469b0,4 hit 
+L 6068b8,4 hit 
+S 6469b4,4 hit 
+L 6069b8,4 miss eviction 
+S 6469b8,4 miss eviction 
+L 606ab8,4 hit 
+S 6469bc,4 hit 
+L 6067ac,4 hit 
+L 6068ac,4 hit 
+L 6069ac,4 miss eviction 
+L 606aac,4 hit 
+L 6466b0,4 miss eviction 
+L 6466b4,4 hit 
+L 6466b8,4 hit 
+L 6466bc,4 hit 
+S 6466b0,4 hit 
+S 6466b4,4 hit 
+S 6466b8,4 hit 
+S 6466bc,4 hit 
+S 646aa0,4 miss eviction 
+S 646aa4,4 hit 
+S 646aa8,4 hit 
+S 646aac,4 hit 
+L 6067bc,4 hit 
+S 646ab0,4 hit 
+L 6068bc,4 hit 
+S 646ab4,4 hit 
+L 6069bc,4 hit 
+S 646ab8,4 hit 
+L 606abc,4 miss eviction 
+S 646abc,4 miss eviction 
+L 6063c0,4 miss eviction 
+L 6063c4,4 hit 
+L 6063c8,4 hit 
+L 6063cc,4 hit 
+L 6063d0,4 hit 
+L 6063d4,4 hit 
+L 6063d8,4 hit 
+L 6063dc,4 hit 
+S 646ba0,4 miss eviction 
+S 646ca0,4 miss eviction 
+S 646da0,4 miss eviction 
+S 646ea0,4 miss eviction 
+S 646bb0,4 hit 
+S 646cb0,4 hit 
+S 646db0,4 hit 
+S 646eb0,4 hit 
+L 6064c0,4 miss eviction 
+L 6064c4,4 hit 
+L 6064c8,4 hit 
+L 6064cc,4 hit 
+L 6064d0,4 hit 
+L 6064d4,4 hit 
+L 6064d8,4 hit 
+L 6064dc,4 hit 
+S 646ba4,4 hit 
+S 646ca4,4 hit 
+S 646da4,4 hit 
+S 646ea4,4 hit 
+S 646bb4,4 hit 
+S 646cb4,4 hit 
+S 646db4,4 hit 
+S 646eb4,4 hit 
+L 6065c0,4 miss eviction 
+L 6065c4,4 hit 
+L 6065c8,4 hit 
+L 6065cc,4 hit 
+L 6065d0,4 hit 
+L 6065d4,4 hit 
+L 6065d8,4 hit 
+L 6065dc,4 hit 
+S 646ba8,4 hit 
+S 646ca8,4 hit 
+S 646da8,4 hit 
+S 646ea8,4 hit 
+S 646bb8,4 hit 
+S 646cb8,4 hit 
+S 646db8,4 hit 
+S 646eb8,4 hit 
+L 6066c0,4 miss eviction 
+L 6066c4,4 hit 
+L 6066c8,4 hit 
+L 6066cc,4 hit 
+L 6066d0,4 hit 
+L 6066d4,4 hit 
+L 6066d8,4 hit 
+L 6066dc,4 hit 
+S 646bac,4 hit 
+S 646cac,4 hit 
+S 646dac,4 hit 
+S 646eac,4 hit 
+S 646bbc,4 hit 
+S 646cbc,4 hit 
+S 646dbc,4 hit 
+S 646ebc,4 hit 
+L 6067c0,4 miss eviction 
+L 6068c0,4 miss eviction 
+L 6069c0,4 miss eviction 
+L 606ac0,4 miss eviction 
+L 646bb0,4 hit 
+L 646bb4,4 hit 
+L 646bb8,4 hit 
+L 646bbc,4 hit 
+S 646bb0,4 hit 
+S 646bb4,4 hit 
+S 646bb8,4 hit 
+S 646bbc,4 hit 
+S 646fa0,4 miss eviction 
+S 646fa4,4 hit 
+S 646fa8,4 hit 
+S 646fac,4 hit 
+L 6067d0,4 hit 
+S 646fb0,4 hit 
+L 6068d0,4 hit 
+S 646fb4,4 hit 
+L 6069d0,4 hit 
+S 646fb8,4 hit 
+L 606ad0,4 hit 
+S 646fbc,4 hit 
+L 6067c4,4 hit 
+L 6068c4,4 hit 
+L 6069c4,4 hit 
+L 606ac4,4 hit 
+L 646cb0,4 hit 
+L 646cb4,4 hit 
+L 646cb8,4 hit 
+L 646cbc,4 hit 
+S 646cb0,4 hit 
+S 646cb4,4 hit 
+S 646cb8,4 hit 
+S 646cbc,4 hit 
+S 6470a0,4 miss eviction 
+S 6470a4,4 hit 
+S 6470a8,4 hit 
+S 6470ac,4 hit 
+L 6067d4,4 hit 
+S 6470b0,4 hit 
+L 6068d4,4 hit 
+S 6470b4,4 hit 
+L 6069d4,4 hit 
+S 6470b8,4 hit 
+L 606ad4,4 hit 
+S 6470bc,4 hit 
+L 6067c8,4 hit 
+L 6068c8,4 hit 
+L 6069c8,4 hit 
+L 606ac8,4 hit 
+L 646db0,4 hit 
+L 646db4,4 hit 
+L 646db8,4 hit 
+L 646dbc,4 hit 
+S 646db0,4 hit 
+S 646db4,4 hit 
+S 646db8,4 hit 
+S 646dbc,4 hit 
+S 6471a0,4 miss eviction 
+S 6471a4,4 hit 
+S 6471a8,4 hit 
+S 6471ac,4 hit 
+L 6067d8,4 hit 
+S 6471b0,4 hit 
+L 6068d8,4 hit 
+S 6471b4,4 hit 
+L 6069d8,4 hit 
+S 6471b8,4 hit 
+L 606ad8,4 hit 
+S 6471bc,4 hit 
+L 6067cc,4 hit 
+L 6068cc,4 hit 
+L 6069cc,4 hit 
+L 606acc,4 hit 
+L 646eb0,4 hit 
+L 646eb4,4 hit 
+L 646eb8,4 hit 
+L 646ebc,4 hit 
+S 646eb0,4 hit 
+S 646eb4,4 hit 
+S 646eb8,4 hit 
+S 646ebc,4 hit 
+S 6472a0,4 miss eviction 
+S 6472a4,4 hit 
+S 6472a8,4 hit 
+S 6472ac,4 hit 
+L 6067dc,4 hit 
+S 6472b0,4 hit 
+L 6068dc,4 hit 
+S 6472b4,4 hit 
+L 6069dc,4 hit 
+S 6472b8,4 hit 
+L 606adc,4 hit 
+S 6472bc,4 hit 
+L 606ae0,4 miss eviction 
+L 606ae4,4 hit 
+L 606ae8,4 hit 
+L 606aec,4 hit 
+L 606af0,4 hit 
+L 606af4,4 hit 
+L 606af8,4 hit 
+L 606afc,4 hit 
+S 6433c0,4 miss eviction 
+S 6434c0,4 miss eviction 
+S 6435c0,4 miss eviction 
+S 6436c0,4 miss eviction 
+S 6433d0,4 hit 
+S 6434d0,4 hit 
+S 6435d0,4 hit 
+S 6436d0,4 hit 
+L 606be0,4 miss eviction 
+L 606be4,4 hit 
+L 606be8,4 hit 
+L 606bec,4 hit 
+L 606bf0,4 hit 
+L 606bf4,4 hit 
+L 606bf8,4 hit 
+L 606bfc,4 hit 
+S 6433c4,4 hit 
+S 6434c4,4 hit 
+S 6435c4,4 hit 
+S 6436c4,4 hit 
+S 6433d4,4 hit 
+S 6434d4,4 hit 
+S 6435d4,4 hit 
+S 6436d4,4 hit 
+L 606ce0,4 miss eviction 
+L 606ce4,4 hit 
+L 606ce8,4 hit 
+L 606cec,4 hit 
+L 606cf0,4 hit 
+L 606cf4,4 hit 
+L 606cf8,4 hit 
+L 606cfc,4 hit 
+S 6433c8,4 hit 
+S 6434c8,4 hit 
+S 6435c8,4 hit 
+S 6436c8,4 hit 
+S 6433d8,4 hit 
+S 6434d8,4 hit 
+S 6435d8,4 hit 
+S 6436d8,4 hit 
+L 606de0,4 miss eviction 
+L 606de4,4 hit 
+L 606de8,4 hit 
+L 606dec,4 hit 
+L 606df0,4 hit 
+L 606df4,4 hit 
+L 606df8,4 hit 
+L 606dfc,4 hit 
+S 6433cc,4 hit 
+S 6434cc,4 hit 
+S 6435cc,4 hit 
+S 6436cc,4 hit 
+S 6433dc,4 hit 
+S 6434dc,4 hit 
+S 6435dc,4 hit 
+S 6436dc,4 hit 
+L 606ee0,4 miss eviction 
+L 606fe0,4 miss eviction 
+L 6070e0,4 miss eviction 
+L 6071e0,4 miss eviction 
+L 6433d0,4 hit 
+L 6433d4,4 hit 
+L 6433d8,4 hit 
+L 6433dc,4 hit 
+S 6433d0,4 hit 
+S 6433d4,4 hit 
+S 6433d8,4 hit 
+S 6433dc,4 hit 
+S 6437c0,4 miss eviction 
+S 6437c4,4 hit 
+S 6437c8,4 hit 
+S 6437cc,4 hit 
+L 606ef0,4 hit 
+S 6437d0,4 hit 
+L 606ff0,4 hit 
+S 6437d4,4 hit 
+L 6070f0,4 hit 
+S 6437d8,4 hit 
+L 6071f0,4 hit 
+S 6437dc,4 hit 
+L 606ee4,4 hit 
+L 606fe4,4 hit 
+L 6070e4,4 hit 
+L 6071e4,4 hit 
+L 6434d0,4 hit 
+L 6434d4,4 hit 
+L 6434d8,4 hit 
+L 6434dc,4 hit 
+S 6434d0,4 hit 
+S 6434d4,4 hit 
+S 6434d8,4 hit 
+S 6434dc,4 hit 
+S 6438c0,4 miss eviction 
+S 6438c4,4 hit 
+S 6438c8,4 hit 
+S 6438cc,4 hit 
+L 606ef4,4 hit 
+S 6438d0,4 hit 
+L 606ff4,4 hit 
+S 6438d4,4 hit 
+L 6070f4,4 hit 
+S 6438d8,4 hit 
+L 6071f4,4 hit 
+S 6438dc,4 hit 
+L 606ee8,4 hit 
+L 606fe8,4 hit 
+L 6070e8,4 hit 
+L 6071e8,4 hit 
+L 6435d0,4 hit 
+L 6435d4,4 hit 
+L 6435d8,4 hit 
+L 6435dc,4 hit 
+S 6435d0,4 hit 
+S 6435d4,4 hit 
+S 6435d8,4 hit 
+S 6435dc,4 hit 
+S 6439c0,4 miss eviction 
+S 6439c4,4 hit 
+S 6439c8,4 hit 
+S 6439cc,4 hit 
+L 606ef8,4 hit 
+S 6439d0,4 hit 
+L 606ff8,4 hit 
+S 6439d4,4 hit 
+L 6070f8,4 hit 
+S 6439d8,4 hit 
+L 6071f8,4 hit 
+S 6439dc,4 hit 
+L 606eec,4 hit 
+L 606fec,4 hit 
+L 6070ec,4 hit 
+L 6071ec,4 hit 
+L 6436d0,4 hit 
+L 6436d4,4 hit 
+L 6436d8,4 hit 
+L 6436dc,4 hit 
+S 6436d0,4 hit 
+S 6436d4,4 hit 
+S 6436d8,4 hit 
+S 6436dc,4 hit 
+S 643ac0,4 miss eviction 
+S 643ac4,4 hit 
+S 643ac8,4 hit 
+S 643acc,4 hit 
+L 606efc,4 hit 
+S 643ad0,4 hit 
+L 606ffc,4 hit 
+S 643ad4,4 hit 
+L 6070fc,4 hit 
+S 643ad8,4 hit 
+L 6071fc,4 hit 
+S 643adc,4 hit 
+L 606b00,4 miss eviction 
+L 606b04,4 hit 
+L 606b08,4 hit 
+L 606b0c,4 hit 
+L 606b10,4 hit 
+L 606b14,4 hit 
+L 606b18,4 hit 
+L 606b1c,4 hit 
+S 643bc0,4 miss eviction 
+S 643cc0,4 miss eviction 
+S 643dc0,4 miss eviction 
+S 643ec0,4 miss eviction 
+S 643bd0,4 hit 
+S 643cd0,4 hit 
+S 643dd0,4 hit 
+S 643ed0,4 hit 
+L 606c00,4 miss eviction 
+L 606c04,4 hit 
+L 606c08,4 hit 
+L 606c0c,4 hit 
+L 606c10,4 hit 
+L 606c14,4 hit 
+L 606c18,4 hit 
+L 606c1c,4 hit 
+S 643bc4,4 hit 
+S 643cc4,4 hit 
+S 643dc4,4 hit 
+S 643ec4,4 hit 
+S 643bd4,4 hit 
+S 643cd4,4 hit 
+S 643dd4,4 hit 
+S 643ed4,4 hit 
+L 606d00,4 miss eviction 
+L 606d04,4 hit 
+L 606d08,4 hit 
+L 606d0c,4 hit 
+L 606d10,4 hit 
+L 606d14,4 hit 
+L 606d18,4 hit 
+L 606d1c,4 hit 
+S 643bc8,4 hit 
+S 643cc8,4 hit 
+S 643dc8,4 hit 
+S 643ec8,4 hit 
+S 643bd8,4 hit 
+S 643cd8,4 hit 
+S 643dd8,4 hit 
+S 643ed8,4 hit 
+L 606e00,4 miss eviction 
+L 606e04,4 hit 
+L 606e08,4 hit 
+L 606e0c,4 hit 
+L 606e10,4 hit 
+L 606e14,4 hit 
+L 606e18,4 hit 
+L 606e1c,4 hit 
+S 643bcc,4 hit 
+S 643ccc,4 hit 
+S 643dcc,4 hit 
+S 643ecc,4 hit 
+S 643bdc,4 hit 
+S 643cdc,4 hit 
+S 643ddc,4 hit 
+S 643edc,4 hit 
+L 606f00,4 miss eviction 
+L 607000,4 miss eviction 
+L 607100,4 miss eviction 
+L 607200,4 miss eviction 
+L 643bd0,4 hit 
+L 643bd4,4 hit 
+L 643bd8,4 hit 
+L 643bdc,4 hit 
+S 643bd0,4 hit 
+S 643bd4,4 hit 
+S 643bd8,4 hit 
+S 643bdc,4 hit 
+S 643fc0,4 miss eviction 
+S 643fc4,4 hit 
+S 643fc8,4 hit 
+S 643fcc,4 hit 
+L 606f10,4 hit 
+S 643fd0,4 hit 
+L 607010,4 hit 
+S 643fd4,4 hit 
+L 607110,4 hit 
+S 643fd8,4 hit 
+L 607210,4 hit 
+S 643fdc,4 hit 
+L 606f04,4 hit 
+L 607004,4 hit 
+L 607104,4 hit 
+L 607204,4 hit 
+L 643cd0,4 hit 
+L 643cd4,4 hit 
+L 643cd8,4 hit 
+L 643cdc,4 hit 
+S 643cd0,4 hit 
+S 643cd4,4 hit 
+S 643cd8,4 hit 
+S 643cdc,4 hit 
+S 6440c0,4 miss eviction 
+S 6440c4,4 hit 
+S 6440c8,4 hit 
+S 6440cc,4 hit 
+L 606f14,4 hit 
+S 6440d0,4 hit 
+L 607014,4 hit 
+S 6440d4,4 hit 
+L 607114,4 hit 
+S 6440d8,4 hit 
+L 607214,4 hit 
+S 6440dc,4 hit 
+L 606f08,4 hit 
+L 607008,4 hit 
+L 607108,4 hit 
+L 607208,4 hit 
+L 643dd0,4 hit 
+L 643dd4,4 hit 
+L 643dd8,4 hit 
+L 643ddc,4 hit 
+S 643dd0,4 hit 
+S 643dd4,4 hit 
+S 643dd8,4 hit 
+S 643ddc,4 hit 
+S 6441c0,4 miss eviction 
+S 6441c4,4 hit 
+S 6441c8,4 hit 
+S 6441cc,4 hit 
+L 606f18,4 hit 
+S 6441d0,4 hit 
+L 607018,4 hit 
+S 6441d4,4 hit 
+L 607118,4 hit 
+S 6441d8,4 hit 
+L 607218,4 hit 
+S 6441dc,4 hit 
+L 606f0c,4 hit 
+L 60700c,4 hit 
+L 60710c,4 hit 
+L 60720c,4 hit 
+L 643ed0,4 hit 
+L 643ed4,4 hit 
+L 643ed8,4 hit 
+L 643edc,4 hit 
+S 643ed0,4 hit 
+S 643ed4,4 hit 
+S 643ed8,4 hit 
+S 643edc,4 hit 
+S 6442c0,4 miss eviction 
+S 6442c4,4 hit 
+S 6442c8,4 hit 
+S 6442cc,4 hit 
+L 606f1c,4 hit 
+S 6442d0,4 hit 
+L 60701c,4 hit 
+S 6442d4,4 hit 
+L 60711c,4 hit 
+S 6442d8,4 hit 
+L 60721c,4 hit 
+S 6442dc,4 hit 
+L 606b20,4 miss eviction 
+L 606b24,4 hit 
+L 606b28,4 hit 
+L 606b2c,4 hit 
+L 606b30,4 hit 
+L 606b34,4 hit 
+L 606b38,4 hit 
+L 606b3c,4 hit 
+S 6443c0,4 miss eviction 
+S 6444c0,4 miss eviction 
+S 6445c0,4 miss eviction 
+S 6446c0,4 miss eviction 
+S 6443d0,4 hit 
+S 6444d0,4 hit 
+S 6445d0,4 hit 
+S 6446d0,4 hit 
+L 606c20,4 miss eviction 
+L 606c24,4 hit 
+L 606c28,4 hit 
+L 606c2c,4 hit 
+L 606c30,4 hit 
+L 606c34,4 hit 
+L 606c38,4 hit 
+L 606c3c,4 hit 
+S 6443c4,4 hit 
+S 6444c4,4 hit 
+S 6445c4,4 hit 
+S 6446c4,4 hit 
+S 6443d4,4 hit 
+S 6444d4,4 hit 
+S 6445d4,4 hit 
+S 6446d4,4 hit 
+L 606d20,4 miss eviction 
+L 606d24,4 hit 
+L 606d28,4 hit 
+L 606d2c,4 hit 
+L 606d30,4 hit 
+L 606d34,4 hit 
+L 606d38,4 hit 
+L 606d3c,4 hit 
+S 6443c8,4 hit 
+S 6444c8,4 hit 
+S 6445c8,4 hit 
+S 6446c8,4 hit 
+S 6443d8,4 hit 
+S 6444d8,4 hit 
+S 6445d8,4 hit 
+S 6446d8,4 hit 
+L 606e20,4 miss eviction 
+L 606e24,4 hit 
+L 606e28,4 hit 
+L 606e2c,4 hit 
+L 606e30,4 hit 
+L 606e34,4 hit 
+L 606e38,4 hit 
+L 606e3c,4 hit 
+S 6443cc,4 hit 
+S 6444cc,4 hit 
+S 6445cc,4 hit 
+S 6446cc,4 hit 
+S 6443dc,4 hit 
+S 6444dc,4 hit 
+S 6445dc,4 hit 
+S 6446dc,4 hit 
+L 606f20,4 miss eviction 
+L 607020,4 miss eviction 
+L 607120,4 miss eviction 
+L 607220,4 miss eviction 
+L 6443d0,4 hit 
+L 6443d4,4 hit 
+L 6443d8,4 hit 
+L 6443dc,4 hit 
+S 6443d0,4 hit 
+S 6443d4,4 hit 
+S 6443d8,4 hit 
+S 6443dc,4 hit 
+S 6447c0,4 miss eviction 
+S 6447c4,4 hit 
+S 6447c8,4 hit 
+S 6447cc,4 hit 
+L 606f30,4 hit 
+S 6447d0,4 hit 
+L 607030,4 hit 
+S 6447d4,4 hit 
+L 607130,4 hit 
+S 6447d8,4 hit 
+L 607230,4 hit 
+S 6447dc,4 hit 
+L 606f24,4 hit 
+L 607024,4 hit 
+L 607124,4 hit 
+L 607224,4 hit 
+L 6444d0,4 hit 
+L 6444d4,4 hit 
+L 6444d8,4 hit 
+L 6444dc,4 hit 
+S 6444d0,4 hit 
+S 6444d4,4 hit 
+S 6444d8,4 hit 
+S 6444dc,4 hit 
+S 6448c0,4 miss eviction 
+S 6448c4,4 hit 
+S 6448c8,4 hit 
+S 6448cc,4 hit 
+L 606f34,4 hit 
+S 6448d0,4 hit 
+L 607034,4 hit 
+S 6448d4,4 hit 
+L 607134,4 hit 
+S 6448d8,4 hit 
+L 607234,4 hit 
+S 6448dc,4 hit 
+L 606f28,4 hit 
+L 607028,4 hit 
+L 607128,4 hit 
+L 607228,4 hit 
+L 6445d0,4 hit 
+L 6445d4,4 hit 
+L 6445d8,4 hit 
+L 6445dc,4 hit 
+S 6445d0,4 hit 
+S 6445d4,4 hit 
+S 6445d8,4 hit 
+S 6445dc,4 hit 
+S 6449c0,4 miss eviction 
+S 6449c4,4 hit 
+S 6449c8,4 hit 
+S 6449cc,4 hit 
+L 606f38,4 hit 
+S 6449d0,4 hit 
+L 607038,4 hit 
+S 6449d4,4 hit 
+L 607138,4 hit 
+S 6449d8,4 hit 
+L 607238,4 hit 
+S 6449dc,4 hit 
+L 606f2c,4 hit 
+L 60702c,4 hit 
+L 60712c,4 hit 
+L 60722c,4 hit 
+L 6446d0,4 hit 
+L 6446d4,4 hit 
+L 6446d8,4 hit 
+L 6446dc,4 hit 
+S 6446d0,4 hit 
+S 6446d4,4 hit 
+S 6446d8,4 hit 
+S 6446dc,4 hit 
+S 644ac0,4 miss eviction 
+S 644ac4,4 hit 
+S 644ac8,4 hit 
+S 644acc,4 hit 
+L 606f3c,4 hit 
+S 644ad0,4 hit 
+L 60703c,4 hit 
+S 644ad4,4 hit 
+L 60713c,4 hit 
+S 644ad8,4 hit 
+L 60723c,4 hit 
+S 644adc,4 hit 
+L 606b40,4 miss eviction 
+L 606b44,4 hit 
+L 606b48,4 hit 
+L 606b4c,4 hit 
+L 606b50,4 hit 
+L 606b54,4 hit 
+L 606b58,4 hit 
+L 606b5c,4 hit 
+S 644bc0,4 miss eviction 
+S 644cc0,4 miss eviction 
+S 644dc0,4 miss eviction 
+S 644ec0,4 miss eviction 
+S 644bd0,4 hit 
+S 644cd0,4 hit 
+S 644dd0,4 hit 
+S 644ed0,4 hit 
+L 606c40,4 miss eviction 
+L 606c44,4 hit 
+L 606c48,4 hit 
+L 606c4c,4 hit 
+L 606c50,4 hit 
+L 606c54,4 hit 
+L 606c58,4 hit 
+L 606c5c,4 hit 
+S 644bc4,4 hit 
+S 644cc4,4 hit 
+S 644dc4,4 hit 
+S 644ec4,4 hit 
+S 644bd4,4 hit 
+S 644cd4,4 hit 
+S 644dd4,4 hit 
+S 644ed4,4 hit 
+L 606d40,4 miss eviction 
+L 606d44,4 hit 
+L 606d48,4 hit 
+L 606d4c,4 hit 
+L 606d50,4 hit 
+L 606d54,4 hit 
+L 606d58,4 hit 
+L 606d5c,4 hit 
+S 644bc8,4 hit 
+S 644cc8,4 hit 
+S 644dc8,4 hit 
+S 644ec8,4 hit 
+S 644bd8,4 hit 
+S 644cd8,4 hit 
+S 644dd8,4 hit 
+S 644ed8,4 hit 
+L 606e40,4 miss eviction 
+L 606e44,4 hit 
+L 606e48,4 hit 
+L 606e4c,4 hit 
+L 606e50,4 hit 
+L 606e54,4 hit 
+L 606e58,4 hit 
+L 606e5c,4 hit 
+S 644bcc,4 hit 
+S 644ccc,4 hit 
+S 644dcc,4 hit 
+S 644ecc,4 hit 
+S 644bdc,4 hit 
+S 644cdc,4 hit 
+S 644ddc,4 hit 
+S 644edc,4 hit 
+L 606f40,4 miss eviction 
+L 607040,4 miss eviction 
+L 607140,4 miss eviction 
+L 607240,4 miss eviction 
+L 644bd0,4 hit 
+L 644bd4,4 hit 
+L 644bd8,4 hit 
+L 644bdc,4 hit 
+S 644bd0,4 hit 
+S 644bd4,4 hit 
+S 644bd8,4 hit 
+S 644bdc,4 hit 
+S 644fc0,4 miss eviction 
+S 644fc4,4 hit 
+S 644fc8,4 hit 
+S 644fcc,4 hit 
+L 606f50,4 hit 
+S 644fd0,4 hit 
+L 607050,4 hit 
+S 644fd4,4 hit 
+L 607150,4 hit 
+S 644fd8,4 hit 
+L 607250,4 hit 
+S 644fdc,4 hit 
+L 606f44,4 hit 
+L 607044,4 hit 
+L 607144,4 hit 
+L 607244,4 hit 
+L 644cd0,4 hit 
+L 644cd4,4 hit 
+L 644cd8,4 hit 
+L 644cdc,4 hit 
+S 644cd0,4 hit 
+S 644cd4,4 hit 
+S 644cd8,4 hit 
+S 644cdc,4 hit 
+S 6450c0,4 miss eviction 
+S 6450c4,4 hit 
+S 6450c8,4 hit 
+S 6450cc,4 hit 
+L 606f54,4 hit 
+S 6450d0,4 hit 
+L 607054,4 hit 
+S 6450d4,4 hit 
+L 607154,4 hit 
+S 6450d8,4 hit 
+L 607254,4 hit 
+S 6450dc,4 hit 
+L 606f48,4 hit 
+L 607048,4 hit 
+L 607148,4 hit 
+L 607248,4 hit 
+L 644dd0,4 hit 
+L 644dd4,4 hit 
+L 644dd8,4 hit 
+L 644ddc,4 hit 
+S 644dd0,4 hit 
+S 644dd4,4 hit 
+S 644dd8,4 hit 
+S 644ddc,4 hit 
+S 6451c0,4 miss eviction 
+S 6451c4,4 hit 
+S 6451c8,4 hit 
+S 6451cc,4 hit 
+L 606f58,4 hit 
+S 6451d0,4 hit 
+L 607058,4 hit 
+S 6451d4,4 hit 
+L 607158,4 hit 
+S 6451d8,4 hit 
+L 607258,4 hit 
+S 6451dc,4 hit 
+L 606f4c,4 hit 
+L 60704c,4 hit 
+L 60714c,4 hit 
+L 60724c,4 hit 
+L 644ed0,4 hit 
+L 644ed4,4 hit 
+L 644ed8,4 hit 
+L 644edc,4 hit 
+S 644ed0,4 hit 
+S 644ed4,4 hit 
+S 644ed8,4 hit 
+S 644edc,4 hit 
+S 6452c0,4 miss eviction 
+S 6452c4,4 hit 
+S 6452c8,4 hit 
+S 6452cc,4 hit 
+L 606f5c,4 hit 
+S 6452d0,4 hit 
+L 60705c,4 hit 
+S 6452d4,4 hit 
+L 60715c,4 hit 
+S 6452d8,4 hit 
+L 60725c,4 hit 
+S 6452dc,4 hit 
+L 606b60,4 miss eviction 
+L 606b64,4 hit 
+L 606b68,4 hit 
+L 606b6c,4 hit 
+L 606b70,4 hit 
+L 606b74,4 hit 
+L 606b78,4 hit 
+L 606b7c,4 hit 
+S 6453c0,4 miss eviction 
+S 6454c0,4 miss eviction 
+S 6455c0,4 miss eviction 
+S 6456c0,4 miss eviction 
+S 6453d0,4 hit 
+S 6454d0,4 hit 
+S 6455d0,4 hit 
+S 6456d0,4 hit 
+L 606c60,4 miss eviction 
+L 606c64,4 hit 
+L 606c68,4 hit 
+L 606c6c,4 hit 
+L 606c70,4 hit 
+L 606c74,4 hit 
+L 606c78,4 hit 
+L 606c7c,4 hit 
+S 6453c4,4 hit 
+S 6454c4,4 hit 
+S 6455c4,4 hit 
+S 6456c4,4 hit 
+S 6453d4,4 hit 
+S 6454d4,4 hit 
+S 6455d4,4 hit 
+S 6456d4,4 hit 
+L 606d60,4 miss eviction 
+L 606d64,4 hit 
+L 606d68,4 hit 
+L 606d6c,4 hit 
+L 606d70,4 hit 
+L 606d74,4 hit 
+L 606d78,4 hit 
+L 606d7c,4 hit 
+S 6453c8,4 hit 
+S 6454c8,4 hit 
+S 6455c8,4 hit 
+S 6456c8,4 hit 
+S 6453d8,4 hit 
+S 6454d8,4 hit 
+S 6455d8,4 hit 
+S 6456d8,4 hit 
+L 606e60,4 miss eviction 
+L 606e64,4 hit 
+L 606e68,4 hit 
+L 606e6c,4 hit 
+L 606e70,4 hit 
+L 606e74,4 hit 
+L 606e78,4 hit 
+L 606e7c,4 hit 
+S 6453cc,4 hit 
+S 6454cc,4 hit 
+S 6455cc,4 hit 
+S 6456cc,4 hit 
+S 6453dc,4 hit 
+S 6454dc,4 hit 
+S 6455dc,4 hit 
+S 6456dc,4 hit 
+L 606f60,4 miss eviction 
+L 607060,4 miss eviction 
+L 607160,4 miss eviction 
+L 607260,4 miss eviction 
+L 6453d0,4 hit 
+L 6453d4,4 hit 
+L 6453d8,4 hit 
+L 6453dc,4 hit 
+S 6453d0,4 hit 
+S 6453d4,4 hit 
+S 6453d8,4 hit 
+S 6453dc,4 hit 
+S 6457c0,4 miss eviction 
+S 6457c4,4 hit 
+S 6457c8,4 hit 
+S 6457cc,4 hit 
+L 606f70,4 hit 
+S 6457d0,4 hit 
+L 607070,4 hit 
+S 6457d4,4 hit 
+L 607170,4 hit 
+S 6457d8,4 hit 
+L 607270,4 hit 
+S 6457dc,4 hit 
+L 606f64,4 hit 
+L 607064,4 hit 
+L 607164,4 hit 
+L 607264,4 hit 
+L 6454d0,4 hit 
+L 6454d4,4 hit 
+L 6454d8,4 hit 
+L 6454dc,4 hit 
+S 6454d0,4 hit 
+S 6454d4,4 hit 
+S 6454d8,4 hit 
+S 6454dc,4 hit 
+S 6458c0,4 miss eviction 
+S 6458c4,4 hit 
+S 6458c8,4 hit 
+S 6458cc,4 hit 
+L 606f74,4 hit 
+S 6458d0,4 hit 
+L 607074,4 hit 
+S 6458d4,4 hit 
+L 607174,4 hit 
+S 6458d8,4 hit 
+L 607274,4 hit 
+S 6458dc,4 hit 
+L 606f68,4 hit 
+L 607068,4 hit 
+L 607168,4 hit 
+L 607268,4 hit 
+L 6455d0,4 hit 
+L 6455d4,4 hit 
+L 6455d8,4 hit 
+L 6455dc,4 hit 
+S 6455d0,4 hit 
+S 6455d4,4 hit 
+S 6455d8,4 hit 
+S 6455dc,4 hit 
+S 6459c0,4 miss eviction 
+S 6459c4,4 hit 
+S 6459c8,4 hit 
+S 6459cc,4 hit 
+L 606f78,4 hit 
+S 6459d0,4 hit 
+L 607078,4 hit 
+S 6459d4,4 hit 
+L 607178,4 hit 
+S 6459d8,4 hit 
+L 607278,4 hit 
+S 6459dc,4 hit 
+L 606f6c,4 hit 
+L 60706c,4 hit 
+L 60716c,4 hit 
+L 60726c,4 hit 
+L 6456d0,4 hit 
+L 6456d4,4 hit 
+L 6456d8,4 hit 
+L 6456dc,4 hit 
+S 6456d0,4 hit 
+S 6456d4,4 hit 
+S 6456d8,4 hit 
+S 6456dc,4 hit 
+S 645ac0,4 miss eviction 
+S 645ac4,4 hit 
+S 645ac8,4 hit 
+S 645acc,4 hit 
+L 606f7c,4 hit 
+S 645ad0,4 hit 
+L 60707c,4 hit 
+S 645ad4,4 hit 
+L 60717c,4 hit 
+S 645ad8,4 hit 
+L 60727c,4 hit 
+S 645adc,4 hit 
+L 606b80,4 miss eviction 
+L 606b84,4 hit 
+L 606b88,4 hit 
+L 606b8c,4 hit 
+L 606b90,4 hit 
+L 606b94,4 hit 
+L 606b98,4 hit 
+L 606b9c,4 hit 
+S 645bc0,4 miss eviction 
+S 645cc0,4 miss eviction 
+S 645dc0,4 miss eviction 
+S 645ec0,4 miss eviction 
+S 645bd0,4 hit 
+S 645cd0,4 hit 
+S 645dd0,4 hit 
+S 645ed0,4 hit 
+L 606c80,4 miss eviction 
+L 606c84,4 hit 
+L 606c88,4 hit 
+L 606c8c,4 hit 
+L 606c90,4 hit 
+L 606c94,4 hit 
+L 606c98,4 hit 
+L 606c9c,4 hit 
+S 645bc4,4 hit 
+S 645cc4,4 hit 
+S 645dc4,4 hit 
+S 645ec4,4 hit 
+S 645bd4,4 hit 
+S 645cd4,4 hit 
+S 645dd4,4 hit 
+S 645ed4,4 hit 
+L 606d80,4 miss eviction 
+L 606d84,4 hit 
+L 606d88,4 hit 
+L 606d8c,4 hit 
+L 606d90,4 hit 
+L 606d94,4 hit 
+L 606d98,4 hit 
+L 606d9c,4 hit 
+S 645bc8,4 hit 
+S 645cc8,4 hit 
+S 645dc8,4 hit 
+S 645ec8,4 hit 
+S 645bd8,4 hit 
+S 645cd8,4 hit 
+S 645dd8,4 hit 
+S 645ed8,4 hit 
+L 606e80,4 miss eviction 
+L 606e84,4 hit 
+L 606e88,4 hit 
+L 606e8c,4 hit 
+L 606e90,4 hit 
+L 606e94,4 hit 
+L 606e98,4 hit 
+L 606e9c,4 hit 
+S 645bcc,4 hit 
+S 645ccc,4 hit 
+S 645dcc,4 hit 
+S 645ecc,4 hit 
+S 645bdc,4 hit 
+S 645cdc,4 hit 
+S 645ddc,4 hit 
+S 645edc,4 hit 
+L 606f80,4 miss eviction 
+L 607080,4 miss eviction 
+L 607180,4 miss eviction 
+L 607280,4 miss eviction 
+L 645bd0,4 hit 
+L 645bd4,4 hit 
+L 645bd8,4 hit 
+L 645bdc,4 hit 
+S 645bd0,4 hit 
+S 645bd4,4 hit 
+S 645bd8,4 hit 
+S 645bdc,4 hit 
+S 645fc0,4 miss eviction 
+S 645fc4,4 hit 
+S 645fc8,4 hit 
+S 645fcc,4 hit 
+L 606f90,4 hit 
+S 645fd0,4 hit 
+L 607090,4 hit 
+S 645fd4,4 hit 
+L 607190,4 hit 
+S 645fd8,4 hit 
+L 607290,4 hit 
+S 645fdc,4 hit 
+L 606f84,4 hit 
+L 607084,4 hit 
+L 607184,4 hit 
+L 607284,4 hit 
+L 645cd0,4 hit 
+L 645cd4,4 hit 
+L 645cd8,4 hit 
+L 645cdc,4 hit 
+S 645cd0,4 hit 
+S 645cd4,4 hit 
+S 645cd8,4 hit 
+S 645cdc,4 hit 
+S 6460c0,4 miss eviction 
+S 6460c4,4 hit 
+S 6460c8,4 hit 
+S 6460cc,4 hit 
+L 606f94,4 hit 
+S 6460d0,4 hit 
+L 607094,4 hit 
+S 6460d4,4 hit 
+L 607194,4 hit 
+S 6460d8,4 hit 
+L 607294,4 hit 
+S 6460dc,4 hit 
+L 606f88,4 hit 
+L 607088,4 hit 
+L 607188,4 hit 
+L 607288,4 hit 
+L 645dd0,4 hit 
+L 645dd4,4 hit 
+L 645dd8,4 hit 
+L 645ddc,4 hit 
+S 645dd0,4 hit 
+S 645dd4,4 hit 
+S 645dd8,4 hit 
+S 645ddc,4 hit 
+S 6461c0,4 miss eviction 
+S 6461c4,4 hit 
+S 6461c8,4 hit 
+S 6461cc,4 hit 
+L 606f98,4 hit 
+S 6461d0,4 hit 
+L 607098,4 hit 
+S 6461d4,4 hit 
+L 607198,4 hit 
+S 6461d8,4 hit 
+L 607298,4 hit 
+S 6461dc,4 hit 
+L 606f8c,4 hit 
+L 60708c,4 hit 
+L 60718c,4 hit 
+L 60728c,4 hit 
+L 645ed0,4 hit 
+L 645ed4,4 hit 
+L 645ed8,4 hit 
+L 645edc,4 hit 
+S 645ed0,4 hit 
+S 645ed4,4 hit 
+S 645ed8,4 hit 
+S 645edc,4 hit 
+S 6462c0,4 miss eviction 
+S 6462c4,4 hit 
+S 6462c8,4 hit 
+S 6462cc,4 hit 
+L 606f9c,4 hit 
+S 6462d0,4 hit 
+L 60709c,4 hit 
+S 6462d4,4 hit 
+L 60719c,4 hit 
+S 6462d8,4 hit 
+L 60729c,4 hit 
+S 6462dc,4 hit 
+L 606ba0,4 miss eviction 
+L 606ba4,4 hit 
+L 606ba8,4 hit 
+L 606bac,4 hit 
+L 606bb0,4 hit 
+L 606bb4,4 hit 
+L 606bb8,4 hit 
+L 606bbc,4 hit 
+S 6463c0,4 miss eviction 
+S 6464c0,4 miss eviction 
+S 6465c0,4 miss eviction 
+S 6466c0,4 miss eviction 
+S 6463d0,4 hit 
+S 6464d0,4 hit 
+S 6465d0,4 hit 
+S 6466d0,4 hit 
+L 606ca0,4 miss eviction 
+L 606ca4,4 hit 
+L 606ca8,4 hit 
+L 606cac,4 hit 
+L 606cb0,4 hit 
+L 606cb4,4 hit 
+L 606cb8,4 hit 
+L 606cbc,4 hit 
+S 6463c4,4 hit 
+S 6464c4,4 hit 
+S 6465c4,4 hit 
+S 6466c4,4 hit 
+S 6463d4,4 hit 
+S 6464d4,4 hit 
+S 6465d4,4 hit 
+S 6466d4,4 hit 
+L 606da0,4 miss eviction 
+L 606da4,4 hit 
+L 606da8,4 hit 
+L 606dac,4 hit 
+L 606db0,4 hit 
+L 606db4,4 hit 
+L 606db8,4 hit 
+L 606dbc,4 hit 
+S 6463c8,4 hit 
+S 6464c8,4 hit 
+S 6465c8,4 hit 
+S 6466c8,4 hit 
+S 6463d8,4 hit 
+S 6464d8,4 hit 
+S 6465d8,4 hit 
+S 6466d8,4 hit 
+L 606ea0,4 miss eviction 
+L 606ea4,4 hit 
+L 606ea8,4 hit 
+L 606eac,4 hit 
+L 606eb0,4 hit 
+L 606eb4,4 hit 
+L 606eb8,4 hit 
+L 606ebc,4 hit 
+S 6463cc,4 hit 
+S 6464cc,4 hit 
+S 6465cc,4 hit 
+S 6466cc,4 hit 
+S 6463dc,4 hit 
+S 6464dc,4 hit 
+S 6465dc,4 hit 
+S 6466dc,4 hit 
+L 606fa0,4 miss eviction 
+L 6070a0,4 miss eviction 
+L 6071a0,4 miss eviction 
+L 6072a0,4 miss eviction 
+L 6463d0,4 hit 
+L 6463d4,4 hit 
+L 6463d8,4 hit 
+L 6463dc,4 hit 
+S 6463d0,4 hit 
+S 6463d4,4 hit 
+S 6463d8,4 hit 
+S 6463dc,4 hit 
+S 6467c0,4 miss eviction 
+S 6467c4,4 hit 
+S 6467c8,4 hit 
+S 6467cc,4 hit 
+L 606fb0,4 hit 
+S 6467d0,4 hit 
+L 6070b0,4 hit 
+S 6467d4,4 hit 
+L 6071b0,4 hit 
+S 6467d8,4 hit 
+L 6072b0,4 hit 
+S 6467dc,4 hit 
+L 606fa4,4 hit 
+L 6070a4,4 hit 
+L 6071a4,4 hit 
+L 6072a4,4 hit 
+L 6464d0,4 hit 
+L 6464d4,4 hit 
+L 6464d8,4 hit 
+L 6464dc,4 hit 
+S 6464d0,4 hit 
+S 6464d4,4 hit 
+S 6464d8,4 hit 
+S 6464dc,4 hit 
+S 6468c0,4 miss eviction 
+S 6468c4,4 hit 
+S 6468c8,4 hit 
+S 6468cc,4 hit 
+L 606fb4,4 hit 
+S 6468d0,4 hit 
+L 6070b4,4 hit 
+S 6468d4,4 hit 
+L 6071b4,4 hit 
+S 6468d8,4 hit 
+L 6072b4,4 hit 
+S 6468dc,4 hit 
+L 606fa8,4 hit 
+L 6070a8,4 hit 
+L 6071a8,4 hit 
+L 6072a8,4 hit 
+L 6465d0,4 hit 
+L 6465d4,4 hit 
+L 6465d8,4 hit 
+L 6465dc,4 hit 
+S 6465d0,4 hit 
+S 6465d4,4 hit 
+S 6465d8,4 hit 
+S 6465dc,4 hit 
+S 6469c0,4 miss eviction 
+S 6469c4,4 hit 
+S 6469c8,4 hit 
+S 6469cc,4 hit 
+L 606fb8,4 hit 
+S 6469d0,4 hit 
+L 6070b8,4 hit 
+S 6469d4,4 hit 
+L 6071b8,4 hit 
+S 6469d8,4 hit 
+L 6072b8,4 hit 
+S 6469dc,4 hit 
+L 606fac,4 hit 
+L 6070ac,4 hit 
+L 6071ac,4 hit 
+L 6072ac,4 hit 
+L 6466d0,4 hit 
+L 6466d4,4 hit 
+L 6466d8,4 hit 
+L 6466dc,4 hit 
+S 6466d0,4 hit 
+S 6466d4,4 hit 
+S 6466d8,4 hit 
+S 6466dc,4 hit 
+S 646ac0,4 miss eviction 
+S 646ac4,4 hit 
+S 646ac8,4 hit 
+S 646acc,4 hit 
+L 606fbc,4 hit 
+S 646ad0,4 hit 
+L 6070bc,4 hit 
+S 646ad4,4 hit 
+L 6071bc,4 hit 
+S 646ad8,4 hit 
+L 6072bc,4 hit 
+S 646adc,4 hit 
+L 606bc0,4 miss eviction 
+L 606bc4,4 hit 
+L 606bc8,4 hit 
+L 606bcc,4 hit 
+L 606bd0,4 hit 
+L 606bd4,4 hit 
+L 606bd8,4 hit 
+L 606bdc,4 hit 
+S 646bc0,4 miss eviction 
+S 646cc0,4 miss eviction 
+S 646dc0,4 miss eviction 
+S 646ec0,4 miss eviction 
+S 646bd0,4 hit 
+S 646cd0,4 hit 
+S 646dd0,4 hit 
+S 646ed0,4 hit 
+L 606cc0,4 miss eviction 
+L 606cc4,4 hit 
+L 606cc8,4 hit 
+L 606ccc,4 hit 
+L 606cd0,4 hit 
+L 606cd4,4 hit 
+L 606cd8,4 hit 
+L 606cdc,4 hit 
+S 646bc4,4 hit 
+S 646cc4,4 miss eviction 
+S 646dc4,4 hit 
+S 646ec4,4 hit 
+S 646bd4,4 hit 
+S 646cd4,4 hit 
+S 646dd4,4 hit 
+S 646ed4,4 hit 
+L 606dc0,4 miss eviction 
+L 606dc4,4 hit 
+L 606dc8,4 hit 
+L 606dcc,4 hit 
+L 606dd0,4 hit 
+L 606dd4,4 hit 
+L 606dd8,4 hit 
+L 606ddc,4 hit 
+S 646bc8,4 hit 
+S 646cc8,4 hit 
+S 646dc8,4 miss eviction 
+S 646ec8,4 hit 
+S 646bd8,4 hit 
+S 646cd8,4 hit 
+S 646dd8,4 hit 
+S 646ed8,4 hit 
+L 606ec0,4 miss eviction 
+L 606ec4,4 hit 
+L 606ec8,4 hit 
+L 606ecc,4 hit 
+L 606ed0,4 hit 
+L 606ed4,4 hit 
+L 606ed8,4 hit 
+L 606edc,4 hit 
+S 646bcc,4 hit 
+S 646ccc,4 hit 
+S 646dcc,4 hit 
+S 646ecc,4 miss eviction 
+S 646bdc,4 hit 
+S 646cdc,4 hit 
+S 646ddc,4 hit 
+S 646edc,4 hit 
+L 606fc0,4 miss eviction 
+L 6070c0,4 miss eviction 
+L 6071c0,4 miss eviction 
+L 6072c0,4 miss eviction 
+L 646bd0,4 miss eviction 
+L 646bd4,4 hit 
+L 646bd8,4 hit 
+L 646bdc,4 hit 
+S 646bd0,4 hit 
+S 646bd4,4 hit 
+S 646bd8,4 hit 
+S 646bdc,4 hit 
+S 646fc0,4 miss eviction 
+S 646fc4,4 hit 
+S 646fc8,4 hit 
+S 646fcc,4 hit 
+L 606fd0,4 miss eviction 
+S 646fd0,4 miss eviction 
+L 6070d0,4 hit 
+S 646fd4,4 hit 
+L 6071d0,4 hit 
+S 646fd8,4 hit 
+L 6072d0,4 hit 
+S 646fdc,4 hit 
+L 606fc4,4 miss eviction 
+L 6070c4,4 hit 
+L 6071c4,4 hit 
+L 6072c4,4 hit 
+L 646cd0,4 miss eviction 
+L 646cd4,4 hit 
+L 646cd8,4 hit 
+L 646cdc,4 hit 
+S 646cd0,4 hit 
+S 646cd4,4 hit 
+S 646cd8,4 hit 
+S 646cdc,4 hit 
+S 6470c0,4 miss eviction 
+S 6470c4,4 hit 
+S 6470c8,4 hit 
+S 6470cc,4 hit 
+L 606fd4,4 hit 
+S 6470d0,4 hit 
+L 6070d4,4 miss eviction 
+S 6470d4,4 miss eviction 
+L 6071d4,4 hit 
+S 6470d8,4 hit 
+L 6072d4,4 hit 
+S 6470dc,4 hit 
+L 606fc8,4 hit 
+L 6070c8,4 miss eviction 
+L 6071c8,4 hit 
+L 6072c8,4 hit 
+L 646dd0,4 miss eviction 
+L 646dd4,4 hit 
+L 646dd8,4 hit 
+L 646ddc,4 hit 
+S 646dd0,4 hit 
+S 646dd4,4 hit 
+S 646dd8,4 hit 
+S 646ddc,4 hit 
+S 6471c0,4 miss eviction 
+S 6471c4,4 hit 
+S 6471c8,4 hit 
+S 6471cc,4 hit 
+L 606fd8,4 hit 
+S 6471d0,4 hit 
+L 6070d8,4 hit 
+S 6471d4,4 hit 
+L 6071d8,4 miss eviction 
+S 6471d8,4 miss eviction 
+L 6072d8,4 hit 
+S 6471dc,4 hit 
+L 606fcc,4 hit 
+L 6070cc,4 hit 
+L 6071cc,4 miss eviction 
+L 6072cc,4 hit 
+L 646ed0,4 miss eviction 
+L 646ed4,4 hit 
+L 646ed8,4 hit 
+L 646edc,4 hit 
+S 646ed0,4 hit 
+S 646ed4,4 hit 
+S 646ed8,4 hit 
+S 646edc,4 hit 
+S 6472c0,4 miss eviction 
+S 6472c4,4 hit 
+S 6472c8,4 hit 
+S 6472cc,4 hit 
+L 606fdc,4 hit 
+S 6472d0,4 hit 
+L 6070dc,4 hit 
+S 6472d4,4 hit 
+L 6071dc,4 hit 
+S 6472d8,4 hit 
+L 6072dc,4 miss eviction 
+S 6472dc,4 miss eviction 
+S 6832ed,1 miss eviction 
+hits:9074 misses:1171 evictions:1139

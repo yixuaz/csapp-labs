@@ -1,0 +1,85 @@
+#####################################################################
+# CS:APP Malloc Lab
+# Traces
+#
+# Copyright (c) 2002, 2016, R. Bryant and D. O'Hallaron, All rights reserved.
+# May not be used, modified, or copied without permission.
+#
+######################################################################
+
+This directory contains traces used by the test harness to evaluate
+malloc packages.  They were derived by tracing the memory allocation
+operations of actual programs and also by generating trace files
+synthetically.
+
+*********
+1. Files
+*********
+
+README		This file
+
+bdd-*.rep	Traces generated when running a BDD package
+
+cbit-*.rep      Traces generated when generating the constraints for the
+		datalab BDD checker
+
+ngram-*.rep	Traces generated when counting the n-grams in various texts,
+		using the code from CS:APP3e Section 5.14.
+		
+syn-*.rep	Traces generated synthetically, using powerlaw distributions
+		for some mixture of typical arrays, strings, and structs.
+		Subdivided as:
+
+		syn-giant*.rep: Very large allocations to test the capability
+				for 64-bit addresses
+
+		syn-*short.rep: Very short traces, useful for debugging				
+				
+
+********************
+2. Processed trace file (.rep) format
+********************
+
+A trace file is an ASCII file. It begins with a 4-line header:
+
+<weight>          /* weight for this trace */
+<num_ids>         /* number of request id's */
+<num_ops>         /* number of requests (operations) */
+<max_alloc>       /* Maximum data bytes allocated */
+
+Weight is an integer interpeted as:
+       0:  Ignore trace in scoring
+       1:  Include with utilization & throughput
+       2:  Utilization only
+       3:  Throughput only
+
+The header is followed by num_ops text lines. Each line denotes either
+an allocate [a], reallocate [r], or free [f] request. The <alloc_id>
+is an integer that uniquely identifies an allocate or reallocate
+request.
+
+a <id> <bytes>  /* ptr_<id> = malloc(<bytes>) */
+r <id> <bytes>  /* realloc(ptr_<id>, <bytes>) */ 
+f <id>          /* free(ptr_<id>) */
+
+For example, the following trace file:
+
+<beginning of file>
+1
+3
+8
+896
+a 0 512
+a 1 128
+r 0 640
+a 2 128
+f 1
+r 0 768
+f 0
+f 2
+<end of file>
+
+has a weight of 1 and a maximum allocation of 896 bytes (blocks 0 and
+2).  It has three distinct request ids (0, 1, and 2), and eight
+different requests (one per line).
+
